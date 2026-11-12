@@ -1,0 +1,224 @@
+[
+  {
+    "id": "C1",
+    "tipo": "confusao",
+    "pergunta": "A Igreja caça os não-humanos?",
+    "resposta_esperada": "Não. Quem caça é a Ordem. A Igreja (de Angelina) é pacífica, ama e protege os não-humanos e busca destruir a Ordem.",
+    "essencial": "Não. Quem caça é a Ordem. A Igreja (de Angelina) é pacífica, ama e protege os não-humanos e busca destruir a Ordem.",
+    "erro": "Dizer que a Igreja caça não-humanos.",
+    "notas": [
+      "grupos da continente antigo/A Igreja.md",
+      "grupos da continente antigo/A Ordem.md"
+    ],
+    "trechos": [
+      "busca destruir a ordem",
+      "exterminar os não-humanos"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C2",
+    "tipo": "confusao",
+    "pergunta": "A Capitã Undyne trabalha para a Ordem?",
+    "resposta_esperada": "Não. É chefe da guarda da Igreja em Porto Altheris, não tem ligação com a Ordem e nem sabe da lista de caça; a Mira a poupa por decisão pessoal.",
+    "essencial": "Não. É chefe da guarda da Igreja em Porto Altheris, não tem ligação com a Ordem e nem sabe da lista de caça; a Mira a poupa por decisão pessoal.",
+    "erro": "Dizer que a Undyne é da Ordem ou sabe da lista de caça.",
+    "notas": [
+      "npcs importantes lore/Capitã Undyne.md"
+    ],
+    "trechos": [
+      "Não tem ligação com a [[A Ordem|Ordem]]"
+    ],
+    "travada": true
+  },
+  {
+    "id": "C3",
+    "tipo": "confusao",
+    "pergunta": "A Sacerdotisa Mira é da Igreja ou da Ordem?",
+    "resposta_esperada": "Das duas: é sacerdotisa da igreja de Porto Altheris e ocupa em segredo a cadeira do Clero no Conselho Oculto da Ordem; ninguém sabe disso.",
+    "essencial": "Das duas: é sacerdotisa da igreja de Porto Altheris e ocupa em segredo a cadeira do Clero no Conselho Oculto da Ordem; ninguém sabe disso.",
+    "erro": "Dizer que ela é só de uma das duas, ou que a ligação é pública.",
+    "notas": [
+      "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "trechos": [
+      "Cadeira do Clero no Conselho Oculto da [[A Ordem|Ordem]]"
+    ],
+    "travada": true
+  },
+  {
+    "id": "C4",
+    "tipo": "confusao",
+    "pergunta": "A Angelina sabe que a Mira faz parte da Ordem?",
+    "resposta_esperada": "Não. Ela não desconfia (e busca destruir a Ordem).",
+    "essencial": "Não. Ela não desconfia (e busca destruir a Ordem).",
+    "erro": "Dizer que a Angelina sabe ou é aliada da Ordem.",
+    "notas": [
+      "npcs importantes lore/Angelina Trasseiro.md"
+    ],
+    "trechos": [
+      "Angelina não desconfia."
+    ],
+    "travada": true
+  },
+  {
+    "id": "C5",
+    "tipo": "confusao",
+    "pergunta": "A Liga do Caos e a Nova Liga do Crime são a mesma organização?",
+    "resposta_esperada": "Não, são duas. A Liga do Caos é informal, destrói sem querer nada e sua existência é debatida; a Nova Liga do Crime é o crime organizado por lucro, coordenada por 3 elfos gêmeos.",
+    "essencial": "Não, são duas. A Liga do Caos é informal, destrói sem querer nada e sua existência é debatida; a Nova Liga do Crime é o crime organizado por lucro, coordenada por 3 elfos gêmeos.",
+    "erro": "Dizer que são a mesma organização.",
+    "notas": [
+      "grupos da continente antigo/Liga do Caos.md",
+      "grupos da continente antigo/Nova Liga do Crime.md"
+    ],
+    "trechos": [
+      "Uma entidade **informal**",
+      "Coordenada por **3 elfos gêmeos**"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C6",
+    "tipo": "confusao",
+    "pergunta": "O Zoldrack é líder da Nova Liga do Crime?",
+    "resposta_esperada": "Não. A afiliação aparente dele é a Liga do Caos (membro suposto). A Nova Liga do Crime é coordenada por 3 elfos gêmeos, com o Zifel como nome conhecido.",
+    "essencial": "Não. A afiliação aparente dele é a Liga do Caos (membro suposto). A Nova Liga do Crime é coordenada por 3 elfos gêmeos, com o Zifel como nome conhecido.",
+    "erro": "Dizer que o Zoldrack lidera ou pertence à Nova Liga do Crime.",
+    "notas": [
+      "npcs importantes lore/Zoldrack.md",
+      "grupos da continente antigo/Nova Liga do Crime.md"
+    ],
+    "trechos": [
+      "**Aparente Afiliação:** [[Liga do Caos]]",
+      "Coordenada por **3 elfos gêmeos**"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C7",
+    "tipo": "confusao",
+    "pergunta": "O Zifel faz parte da Liga do Caos?",
+    "resposta_esperada": "Não. O Zifel é o Embaixador do Crime, da Nova Liga do Crime.",
+    "essencial": "Não. O Zifel é o Embaixador do Crime, da Nova Liga do Crime.",
+    "erro": "Dizer que o Zifel é da Liga do Caos.",
+    "notas": [
+      "grupos da continente antigo/Nova Liga do Crime.md"
+    ],
+    "trechos": [
+      "**[[Zifel]]**, o Embaixador do Crime"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C8",
+    "tipo": "confusao",
+    "pergunta": "Quem é o líder da Ordem?",
+    "resposta_esperada": "Não há cabeça única: o comando é um Conselho Oculto com quatro assentos (Nobreza, Guarda Real, Clero, Comércio). O Lorde Baldur não tem assento, mas é o elo informal com o trono.",
+    "essencial": "Não há cabeça única: o comando é um Conselho Oculto com quatro assentos (Nobreza, Guarda Real, Clero, Comércio). O Lorde Baldur não tem assento, mas é o elo informal com o trono.",
+    "erro": "Apontar uma pessoa como líder único da Ordem.",
+    "notas": [
+      "grupos da continente antigo/A Ordem.md"
+    ],
+    "trechos": [
+      "Não existe uma cabeça única"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C9",
+    "tipo": "confusao",
+    "pergunta": "O Lorde Baldur é membro do Conselho Oculto da Ordem?",
+    "resposta_esperada": "Não ocupa assento; é o elo informal com o trono e tenta convencer o Rei Theo a se aliar à causa.",
+    "essencial": "Não ocupa assento; é o elo informal com o trono e tenta convencer o Rei Theo a se aliar à causa.",
+    "erro": "Dizer que o Baldur tem um assento no Conselho.",
+    "notas": [
+      "grupos da continente antigo/A Ordem.md"
+    ],
+    "trechos": [
+      "não ocupa assento, mas é o elo informal com o trono"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C10",
+    "tipo": "confusao",
+    "pergunta": "A Guarda Real é parte da Ordem?",
+    "resposta_esperada": "Não como um todo: a Guarda Real é a guarda do Rei Theo (há bons e maus). A Ordem tem um assento ligado à Guarda Real no Conselho (nome não definido), que dá cobertura institucional e recrutamento dentro da guarda.",
+    "essencial": "Não como um todo: a Guarda Real é a guarda do Rei Theo (há bons e maus). A Ordem tem um assento ligado à Guarda Real no Conselho (nome não definido), que dá cobertura institucional e recrutamento dentro da guarda.",
+    "erro": "Dizer que toda a Guarda Real é a Ordem, ou que a Ordem não tem nenhuma ligação com a guarda.",
+    "notas": [
+      "grupos da continente antigo/A Guarda Real.md",
+      "grupos da continente antigo/A Ordem.md"
+    ],
+    "trechos": [
+      "a guarda real é toda a guarda de theo trasseiro",
+      "Cobertura institucional para os ataques, recrutamento dentro da própria guarda"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C11",
+    "tipo": "confusao",
+    "pergunta": "A Guilda dos Heróis e a Ordem são o mesmo grupo?",
+    "resposta_esperada": "Não. A Guilda foi criada pelo Grande Herói e seus membros são mercenários contratados; a Ordem é uma instituição de humanos de armaduras de ouro que prega o extermínio dos não-humanos.",
+    "essencial": "Não. A Guilda foi criada pelo Grande Herói e seus membros são mercenários contratados; a Ordem é uma instituição de humanos de armaduras de ouro que prega o extermínio dos não-humanos.",
+    "erro": "Dizer que são o mesmo grupo ou aliados confirmados.",
+    "notas": [
+      "grupos da continente antigo/Guilda dos Heróis.md",
+      "grupos da continente antigo/A Ordem.md"
+    ],
+    "trechos": [
+      "são contratados como mercenarios",
+      "reconhecíveis por suas armaduras de ouro"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C12",
+    "tipo": "confusao",
+    "pergunta": "Os 5 fazem parte da Ordem?",
+    "resposta_esperada": "Não. Os 5 estão na Guilda dos Heróis: são, junto com o Grande Herói, os guerreiros mais poderosos, ensinados nas técnicas do raio vermelho. Nunca foram nomeados.",
+    "essencial": "Não. Os 5 estão na Guilda dos Heróis: são, junto com o Grande Herói, os guerreiros mais poderosos, ensinados nas técnicas do raio vermelho. Nunca foram nomeados.",
+    "erro": "Dizer que Os 5 são da Ordem.",
+    "notas": [
+      "grupos da continente antigo/Guilda dos Heróis.md"
+    ],
+    "trechos": [
+      "os guerreiros mais poderosos de todos"
+    ],
+    "travada": false
+  },
+  {
+    "id": "C13",
+    "tipo": "confusao",
+    "pergunta": "Quem comanda o Bastilhão Imemorial?",
+    "resposta_esperada": "Não consta nas notas. A guarda é dos Vigias do Silêncio, que estão 'sem líder nomeado'. (Existem duas notas com o nome Bastilhão Imemorial; a da raiz está vazia.)",
+    "essencial": "Não consta nas notas. A guarda é dos Vigias do Silêncio, que estão 'sem líder nomeado'. (Existem duas notas com o nome Bastilhão Imemorial; a da raiz está vazia.)",
+    "erro": "Citar um nome de comandante ou diretor.",
+    "notas": [
+      "cidades e reinos/Bastilhão Imemorial.md"
+    ],
+    "trechos": [
+      "Guarda: os [[Vigias do Silêncio]], a elite carcerária.",
+      "Sem líder nomeado, sem origem, sem nota própria."
+    ],
+    "travada": true
+  },
+  {
+    "id": "C14",
+    "tipo": "confusao",
+    "pergunta": "Quem protege a Capitã Undyne da lista de caça da Ordem?",
+    "resposta_esperada": "A Sacerdotisa Mira, por decisão pessoal; a Undyne nem sabe que estava em perigo.",
+    "essencial": "A Sacerdotisa Mira, por decisão pessoal; a Undyne nem sabe que estava em perigo.",
+    "erro": "Atribuir a proteção à Igreja, à Angelina ou a outra pessoa.",
+    "notas": [
+      "npcs importantes lore/Sacerdotisa Mira.md",
+      "npcs importantes lore/Capitã Undyne.md"
+    ],
+    "trechos": [
+      "Na lista dos que vivem estão a [[Capitã Undyne]] e o [[Gerson]]."
+    ],
+    "travada": true
+  }
+]

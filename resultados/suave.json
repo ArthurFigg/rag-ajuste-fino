@@ -1,0 +1,3962 @@
+{
+ "modelo": "suave",
+ "pedacos": 362,
+ "perguntas": 51,
+ "resumo": {
+  "vetor/5": {
+   "perguntas": 46,
+   "todas_as_notas": 30,
+   "recall_notas": 0.575,
+   "recall_trechos": 0.465
+  },
+  "vetor/8": {
+   "perguntas": 46,
+   "todas_as_notas": 35,
+   "recall_notas": 0.688,
+   "recall_trechos": 0.62
+  },
+  "vetor/12": {
+   "perguntas": 46,
+   "todas_as_notas": 36,
+   "recall_notas": 0.762,
+   "recall_trechos": 0.746
+  },
+  "vetor/20": {
+   "perguntas": 46,
+   "todas_as_notas": 40,
+   "recall_notas": 0.912,
+   "recall_trechos": 0.817
+  },
+  "mista/5": {
+   "perguntas": 46,
+   "todas_as_notas": 34,
+   "recall_notas": 0.65,
+   "recall_trechos": 0.592
+  },
+  "mista/8": {
+   "perguntas": 46,
+   "todas_as_notas": 37,
+   "recall_notas": 0.738,
+   "recall_trechos": 0.676
+  },
+  "mista/12": {
+   "perguntas": 46,
+   "todas_as_notas": 40,
+   "recall_notas": 0.863,
+   "recall_trechos": 0.775
+  },
+  "mista/20": {
+   "perguntas": 46,
+   "todas_as_notas": 45,
+   "recall_notas": 0.988,
+   "recall_trechos": 0.901
+  }
+ },
+ "linhas": {
+  "vetor/5": [
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "A6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B4",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "B6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "C5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "D5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "D6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B1n",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "D5n",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "S21",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "V2C1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C5",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "V2C6",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2C7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2D8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C2",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D4",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2B5",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 2,
+    "faltaram": [
+     "npcs importantes lore/Angelina Trasseiro.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "R1",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo.md",
+     "cidades e reinos/Bastilhão Imemorial.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios.md",
+     "encontros aleatorios/As Terras de Vapor.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R2",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "📇 Índice de NPCs.md",
+     "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "R3",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R4",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "📇 Índice de NPCs.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "R5",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/Tibio.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "R6",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 1,
+    "faltaram": [
+     "grupos da continente antigo/Liga do Caos.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "R7",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios/Região de Theragon e Porto Altheris.md",
+     "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R8",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 4,
+    "notas_achadas": 1,
+    "faltaram": [
+     "cidades e reinos/Porto Altheris.md",
+     "grupos da continente antigo/A Ordem.md",
+     "npcs importantes lore/Capitã Undyne.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R9",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/O Reino de Barkus.md",
+     "Sessão 1.md",
+     "grupos da continente antigo/Liga do Caos.md",
+     "npcs importantes lore.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R10",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C1",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C2",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C3",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C4",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C6",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "grupos da continente antigo/Nova Liga do Crime.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C7",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C8",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C9",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C10",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "grupos da continente antigo/A Ordem.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C11",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "grupos da continente antigo/Guilda dos Heróis.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C12",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "C13",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C14",
+    "grupo": "confusao"
+   }
+  ],
+  "vetor/8": [
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "A6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B4",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "B6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "C5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "D5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "D6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "B1n",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5n",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "S21",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "V2C1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C5",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "V2C6",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2C7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2D8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C2",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D4",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2B5",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 3,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 1,
+    "id": "R1",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo.md",
+     "cidades e reinos/Bastilhão Imemorial.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios.md",
+     "encontros aleatorios/As Terras de Vapor.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R2",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "📇 Índice de NPCs.md",
+     "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "R3",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R4",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "R5",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/Tibio.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R6",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 2,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 1,
+    "id": "R7",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 1,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios/Região de Theragon e Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R8",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 4,
+    "notas_achadas": 2,
+    "faltaram": [
+     "cidades e reinos/Porto Altheris.md",
+     "grupos da continente antigo/A Ordem.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R9",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/O Reino de Barkus.md",
+     "Sessão 1.md",
+     "grupos da continente antigo/Liga do Caos.md",
+     "npcs importantes lore.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R10",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C1",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C2",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C3",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C4",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C6",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C7",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C8",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C9",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C10",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C11",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "grupos da continente antigo/Guilda dos Heróis.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C12",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C13",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C14",
+    "grupo": "confusao"
+   }
+  ],
+  "vetor/12": [
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "A6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B4",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "B6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "C5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "D6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "B1n",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5n",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "S21",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "V2C1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C5",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "V2C6",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2C7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2D8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C2",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D4",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2B5",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 3,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "R1",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 1,
+    "faltaram": [
+     "Missões do mundo.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios.md",
+     "encontros aleatorios/As Terras de Vapor.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R2",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "📇 Índice de NPCs.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "R3",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R4",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "R5",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/Tibio.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R6",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 2,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 1,
+    "id": "R7",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 1,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios/Região de Theragon e Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R8",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 4,
+    "notas_achadas": 3,
+    "faltaram": [
+     "cidades e reinos/Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R9",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 2,
+    "faltaram": [
+     "Missões do mundo/O Reino de Barkus.md",
+     "npcs importantes lore.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R10",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C1",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C2",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C3",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C4",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C7",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C8",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C9",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C10",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C11",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "grupos da continente antigo/Guilda dos Heróis.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C12",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C13",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C14",
+    "grupo": "confusao"
+   }
+  ],
+  "vetor/20": [
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "A6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B4",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "B6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "D6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "B1n",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5n",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "S21",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "V2C1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C5",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "V2C6",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2C7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2D8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C2",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D4",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2B5",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 3,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "R1",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 4,
+    "faltaram": [
+     "cidades e reinos/Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R2",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "📇 Índice de NPCs.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "R3",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R4",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R5",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "R6",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 3,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 1,
+    "id": "R7",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 3,
+    "faltaram": [
+     "Missões do mundo/O Reino das Cabras.md",
+     "encontros aleatorios/Região de Theragon e Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R8",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 4,
+    "notas_achadas": 4,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R9",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 5,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R10",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C1",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C2",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C3",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C4",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C7",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C8",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C9",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C10",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C11",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "grupos da continente antigo/Guilda dos Heróis.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C12",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C13",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C14",
+    "grupo": "confusao"
+   }
+  ],
+  "mista/5": [
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "A6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B4",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "B6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "C5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "D6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B1n",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "D5n",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "S21",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "V2C1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C5",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "V2C6",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2C7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2D8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C2",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D4",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2B5",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 2,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 1,
+    "id": "R1",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo.md",
+     "cidades e reinos/Bastilhão Imemorial.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios.md",
+     "encontros aleatorios/As Terras de Vapor.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R2",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "📇 Índice de NPCs.md",
+     "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "R3",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R4",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R5",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "R6",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 1,
+    "faltaram": [
+     "grupos da continente antigo/Liga do Caos.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 1,
+    "id": "R7",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 1,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios/Região de Theragon e Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R8",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 4,
+    "notas_achadas": 0,
+    "faltaram": [
+     "cidades e reinos/Porto Altheris.md",
+     "grupos da continente antigo/A Ordem.md",
+     "npcs importantes lore/Angelina Trasseiro.md",
+     "npcs importantes lore/Capitã Undyne.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R9",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 1,
+    "faltaram": [
+     "Missões do mundo/O Reino de Barkus.md",
+     "Sessão 1.md",
+     "npcs importantes lore.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R10",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C1",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C2",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C3",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C4",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C6",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "grupos da continente antigo/Nova Liga do Crime.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C7",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C8",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C9",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C10",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "grupos da continente antigo/A Ordem.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C11",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "grupos da continente antigo/Guilda dos Heróis.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C12",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "C13",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C14",
+    "grupo": "confusao"
+   }
+  ],
+  "mista/8": [
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "A6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B4",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "B6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "C5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "D6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B1n",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "D5n",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "S21",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "V2C1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C5",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "V2C6",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2C7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2D8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C2",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D4",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2B5",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 3,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 2,
+    "id": "R1",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo.md",
+     "cidades e reinos/Bastilhão Imemorial.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios.md",
+     "encontros aleatorios/As Terras de Vapor.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R2",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "📇 Índice de NPCs.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 2,
+    "id": "R3",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R4",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R5",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "R6",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 2,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 2,
+    "id": "R7",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 1,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios/Região de Theragon e Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R8",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 4,
+    "notas_achadas": 2,
+    "faltaram": [
+     "cidades e reinos/Porto Altheris.md",
+     "npcs importantes lore/Capitã Undyne.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R9",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 1,
+    "faltaram": [
+     "Missões do mundo/O Reino de Barkus.md",
+     "Sessão 1.md",
+     "npcs importantes lore.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R10",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C1",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C2",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C3",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C4",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C6",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C7",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C8",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C9",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C10",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C11",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 0,
+    "faltaram": [
+     "grupos da continente antigo/Guilda dos Heróis.md"
+    ],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "C12",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 0,
+    "id": "C13",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C14",
+    "grupo": "confusao"
+   }
+  ],
+  "mista/12": [
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "A6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B4",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "B6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 0,
+    "faltaram": [
+     "Missões do mundo/As Vozes que se Calam.md",
+     "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "C5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "D6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B1n",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5n",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "S21",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "V2C1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C5",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "V2C6",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2C7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2D8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C2",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "V2C3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D4",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2B5",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 3,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "R1",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 2,
+    "faltaram": [
+     "Missões do mundo.md",
+     "cidades e reinos/Porto Altheris.md",
+     "encontros aleatorios/As Terras de Vapor.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R2",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 1,
+    "faltaram": [
+     "📇 Índice de NPCs.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 2,
+    "id": "R3",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "R4",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "R5",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "R6",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 2,
+    "faltaram": [
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 3,
+    "trechos_ok": 2,
+    "id": "R7",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 3,
+    "faltaram": [
+     "Missões do mundo/O Reino das Cabras.md",
+     "encontros aleatorios/Região de Theragon e Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R8",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 4,
+    "notas_achadas": 4,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R9",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 3,
+    "faltaram": [
+     "npcs importantes lore.md",
+     "npcs importantes lore/O Grande Herói.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R10",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C1",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C2",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C3",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C4",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C7",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C8",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C9",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C10",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C11",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C12",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "C13",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C14",
+    "grupo": "confusao"
+   }
+  ],
+  "mista/20": [
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 0,
+    "id": "A6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "B4",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "B6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 0,
+    "id": "D6",
+    "grupo": "final/lista"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "B1n",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "D5n",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "S21",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A3",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2A4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "V2C1",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C4",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C5",
+    "grupo": "final/direta"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 1,
+    "id": "V2C6",
+    "grupo": "final/juntar"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2A8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2C7",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 0,
+    "notas_achadas": 0,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "V2D8",
+    "grupo": "final/sem_resposta"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C2",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2C3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D3",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2D4",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "V2B5",
+    "grupo": "final/ficha"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 3,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "R1",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 5,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R2",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "R3",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "R4",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "R5",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "R6",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 3,
+    "notas_achadas": 3,
+    "faltaram": [],
+    "trechos_total": 3,
+    "trechos_ok": 3,
+    "id": "R7",
+    "grupo": "relacao/aberto"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 4,
+    "faltaram": [
+     "encontros aleatorios/Região de Theragon e Porto Altheris.md"
+    ],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R8",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 4,
+    "notas_achadas": 4,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R9",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 5,
+    "notas_achadas": 5,
+    "faltaram": [],
+    "trechos_total": 0,
+    "trechos_ok": 0,
+    "id": "R10",
+    "grupo": "relacao/ligado"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C1",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C2",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C3",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C4",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C5",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C6",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C7",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C8",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C9",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C10",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C11",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C12",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 1,
+    "notas_achadas": 1,
+    "faltaram": [],
+    "trechos_total": 2,
+    "trechos_ok": 2,
+    "id": "C13",
+    "grupo": "confusao"
+   },
+   {
+    "notas_total": 2,
+    "notas_achadas": 2,
+    "faltaram": [],
+    "trechos_total": 1,
+    "trechos_ok": 1,
+    "id": "C14",
+    "grupo": "confusao"
+   }
+  ]
+ }
+}

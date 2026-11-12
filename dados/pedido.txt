@@ -1,0 +1,11 @@
+RULE 0: you have NO terminal and must NOT use the web. Use only view_file / list_dir on the files in the current directory.
+Task: read lote.json (a list of {"id", "texto"}) to the end. Each "texto" is a chunk of notes from a tabletop RPG world, written in Brazilian Portuguese.
+For each chunk, write 4 different questions IN BRAZILIAN PORTUGUESE that a game master could ask and that THIS chunk answers.
+Rules:
+- Every question must be understandable WITHOUT seeing the chunk: name the people, places, groups or things you ask about, using the names exactly as written in the chunk.
+- Never refer to the chunk itself: no "esta nota", "o texto", "o trecho", "a passagem", "acima", "abaixo".
+- Use 4 different styles: (1) a direct fact question, (2) a "quais..." question about a list or description, (3) a question about a relation between two things named in the chunk, (4) an indirect paraphrase that uses different words than the chunk (do not copy its phrases).
+- Every question ends with "?" and is between 20 and 250 characters.
+- Do not invent facts: the chunk itself must contain the answer. If a chunk has almost no content, write only the questions it can answer (at least 1).
+- Return one entry for every "id", in the same order. Do not add, remove or merge items.
+OUTPUT: do NOT write any file. Print ONLY a JSON list (no other text, no markdown fence) of {"id": "...", "perguntas": ["...", "...", "...", "..."]}.

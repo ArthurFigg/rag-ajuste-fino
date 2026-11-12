@@ -1,0 +1,5 @@
+# heartedur, o demonio de tres cabeças
+
+na era da caçada dos demonios um dos demonios mais poderosos matou o mais poderosos dos  caçadores, ele consegiu sobreviver mesmo apos o fim da era deles, sendo um dos poucos que sobreviveu, representando uma era passada aonde a sociedade  sempre vivia a um fio de ser quebrada
+
+seu nome era heartedur, o demonio de tres cabeças, ele tinha uma inteligençia absurda, so atacava diretamente quem sabia que iria vençer, e atacava os fortes em momentos de descuido, ele e um cinza palido com formato humanoide, quase 3 metros de altura e tres braços e tres cabeças, seus ataques são escuros e frios, porem incrivelmente ele e fraco ao gelo, isso fez ele fazer uma caçada aos que possuiam essa habilidade, hoje em dia usar tecnicas de controle de gelo e considerado mal aguaro por atrair essa criatura

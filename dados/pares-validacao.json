@@ -1,0 +1,702 @@
+[
+ {
+  "id": "p0201",
+  "pergunta": "Quais runas e consumíveis mágicos estão à disposição com o Mercante Mago?",
+  "pedaco": "[Nota: Mercante Mago | Pasta: mercado do continente novo/mercantes viajantes | Seção: Poções e Runas (Consumíveis)]\n### Poções e Runas (Consumíveis)\n\n- **Poção do Ajudante Efêmero (22 PS):** (Ele tem 1d4). Ação: Beber. Conjura um *Servo Invisível* (como a magia) que obedece ao bebedor por **10 minutos**.\n- **Runa de Papel (Chama) (55 PS):** (Ele tem 1d4-1). Ação: Pressionar este papel rúnico contra uma arma. O papel se desintegra. Pelos próximos **10 minutos**, a arma causa **+1d4 de dano de Fogo** a cada acerto.\n- **Runa de Papel (Gelo) (55 PS):** (Ele tem 1d4-1). Ação: Pressionar este papel rúnico contra uma arma. O papel se desintegra. Pelos próximos **10 minutos**, a arma causa **+1d4 de dano de Frio** a cada acerto.\n- **Pó de Diamante (pequena bolsa) (55 PS):** (Ele tem apenas 1). Um componente material caro."
+ },
+ {
+  "id": "p0256",
+  "pergunta": "Qual é a relação entre o escrito de Tel Lahar no fragmento do manuscrito e o temor inspirado pela figura de Zoldrack?",
+  "pedaco": "[Nota: Zoldrack | Pasta: npcs importantes lore | Seção: zoldrack]\n# zoldrack\n\n## 📜 **Zoldrack, o Caos Imortal**\n\n> \"Se um único ser é capaz de destruir um mundo... esse ser não é um deus. É o fim da lógica.\"\n> \n> \n> — Fragmento do Manuscrito de Tel Lahar, Arquimago do Norte\n> \n\n---"
+ },
+ {
+  "id": "p0247",
+  "pergunta": "Qual é a relação entre a fachada de cordialidade do Senhor K e sua tática para desestabilizar clientes e rivais?",
+  "pedaco": "[Nota: Sr. K | Pasta: npcs importantes lore | Seção: Sr. K]\n# Sr. K\n\n**Senhor K, o Advogado Arcano**\n\n**Conceito:** No submundo das guildas e nos salões empoeirados do poder, sussurram o nome de um homem que transformou a lei em uma arma: Senhor K. Ele é, para todos os efeitos, o primeiro e talvez o único advogado desta era, um mestre em explorar brechas em contratos mágicos e decretos reais com a mesma facilidade com que um ladrão arromba uma fechadura.\n\n**Personalidade:** A cordialidade de K é uma fina camada de verniz sobre um poço de veneno e sarcasmo. Ele tem o dom de encontrar a insegurança de qualquer um e transformá-la em uma piada cruel, muitas vezes com um sorriso largo no rosto. Comentários como *\"Sua perspicácia me lembra sua mãe; ela também não tinha nenhuma\"* são sua marca registrada, uma tática para desequilibrar clientes e rivais antes mesmo que a negociação comece.\n\n**Métodos e Poderes:**"
+ },
+ {
+  "id": "p0265",
+  "pergunta": "Quais eventos e reações de personagens podem disparar a missão envolvendo o desaparecimento de Lívia?",
+  "pedaco": "[Nota: painel do mestre | Seção: 🎣 Ganchos Ativos]\n# 🎣 Ganchos Ativos\n\n## M-01 — [[A Mulher do Rio]]\n\n**Missão:** O rio secou. O espírito das águas ([[Lívia]]) desapareceu ou foi preso. A vila depende da água.\n\n**Recompensa:** 10 PS + Cabaça de Água Infinita.\n\n| Gatilho | Onde | Quem | O que acontece |\n| --- | --- | --- | --- |\n| Faz algo heróico / bondoso | Taverna da Cruz | Mestre Cevada | Oferece a \"Última Cerveja\" e conta sobre a seca |\n| Busca cura ou bênção | Igreja | Mira | Água benta falha — a fonte está seca |\n| Investiga a natureza / o rio | Rio / cidade | — | Nota o nível da água baixando visivelmente |\n\n---"
+ },
+ {
+  "id": "p0332",
+  "pergunta": "Quais traços de postura e aparência física descrevem o Ancião Garrick?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: 🐟 NPCs DA MISSÃO \"MULHER DO RIO\"]\n## 🐟 NPCs DA MISSÃO \"MULHER DO RIO\"\n\n### [[Ancião Garrick]]\n\n- **Local:** Vila Serena\n- **Função:** Ancião e líder da vila\n- **Resumo:** Ombros largos, postura abatida. Acredita que Lívia é uma bruxa e Kael foi enfeitiçado. Paga generosamente os heróis após a missão."
+ },
+ {
+  "id": "p0248",
+  "pergunta": "Como funciona o artefato em formato de carta entregue pelo Senhor K para transportar pessoas em apuros mediante pesada dívida?",
+  "pedaco": "[Nota: Sr. K | Pasta: npcs importantes lore | Seção: Sr. K]\n- **O Cartão de Visita:** K sempre presenteia potenciais clientes com uma elegante carta de baralho. \"Um pequeno presente\", ele diz, \"para quando seus problemas superarem seu bom senso.\" A carta é um artefato de teletransporte de uso único. Ao rasgá-la, o portador é instantaneamente levado à presença de K, mas a um custo exorbitante. A dívida é criada no momento do uso, e K sempre cobra o que é seu.\n- **O Ser de Porcelana:** Sua verdadeira força não está nas palavras, mas em seu guardião silencioso: o [[Ser de Porcelana]]. Esta não é uma criatura, mas uma manifestação da vontade de K, um constructo etéreo com a aparência de um manequim de porcelana, sem rosto e impecavelmente liso. Ele se move com um silêncio perturbador e, sob o comando de K, pode imbuir qualquer objeto que toca com uma energia ressonante, fazendo-o explodir com força devastadora segundos depois. É o martelo silencioso que garante que a balança da \"justiça\" de K sempre pese a seu favor."
+ },
+ {
+  "id": "p0010",
+  "pergunta": "De que modo os espíritos arenosos atrapalham a precisão dos combatentes durante a travessia?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Cena 4: A Trilha e os Primeiros Perigos]\n### **Cena 4: A Trilha e os Primeiros Perigos**\n\nCom as pistas em mãos (as flores azuis de Tessa e o mapa de Kael), os jogadores encontram facilmente o início de uma trilha que sai da vila. De fato, a cada poucos metros, uma pequena e vibrante flor azul, uma Lágrima-de-Lua, brota da terra poeirenta, um milagre anômalo que marca o caminho.\n\nAo se afastarem da vila, a natureza desequilibrada se manifesta.\n\n- **Combate (Fácil/Atmosférico):** Eles encontram uma matilha de **2 Lobos Ressequidos** e **1 Hiena Faminta** brigando ferozmente por uma poça de lama fétida, a única fonte de umidade visível. Desesperados pela fome e pela sede, eles atacarão os aventureiros assim que os virem, vendo-os não como ameaça, mas como a próxima refeição.\n- **Combate (Sobrenatural):** Mais adiante, onde o ar é particularmente denso com poeira, o chão treme levemente. **3 Fragmentos de Pó (Mefit de Poeira)** se materializam do chão. Eles não são necessariamente maus, mas são caóticos e atormentados. Eles atacam cegando os personagens com jatos de areia (desvantagem em ataques) e com suas garras arenosas, antes de talvez se dissolverem de volta no chão se o combate se provar difícil para eles.\n\n**Fim do Ato 1:** Os jogadores sobreviveram aos perigos iniciais e estão firmemente na trilha do casal. Eles têm duas versões conflitantes da história: a da bruxa sequestradora e a do amor trágico. O caminho à frente os levará à Gruta da Cascata Silenciosa, onde a verdade, e perigos maiores, os aguardam."
+ },
+ {
+  "id": "p0098",
+  "pergunta": "Qual promessa de vingança o dragão prateado profere contra os heróis ao atingir sua fase adulta?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Sessão 1 - Ato 3: O Veredito e a Recompensa Inesperada]\n**Zoldrack (revirando os olhos):** \"Ah, qual é. É só um teste de campo. Eles precisam saber o que os espera no mundo real.\"\n\n**Mestre da Guilda:** \"Dê a eles uma colher de chá hoje. Você poderá tentar matá-los em outro dia.\"\n\nZoldrack suspira, como se estivesse entediado.\n\n**Zoldrack:** \"Tudo bem, tudo bem. Mas que fique claro: quem quer matar eles é o dragão, não eu. Eu os deixarei em paz.\" Ele dá um tapinha no pescoço do dragão. \"Vamos, garoto. Deixa pra depois.\"\n\nO dragão fita o grupo com ódio e fala, sua voz uma mistura de silvo e trovão: **\"Isso não acabou. Quando eu atingir minha idade adulta, caçarei cada um de vocês. E então, terão o fim que merecem.\"**\n\nCom um bater de asas poderoso, Zoldrack e o dragão sobem aos céus e desaparecem.\n\n**Cena 5: Bem-vindos à Guilda**\n\nO Mestre da Guilda se vira para os jogadores, sua expressão agora serena.\n\n**Mestre da Guilda:** \"Perdoem a interrupção. Vamos para minha sala.\"\n\nNo escritório, ele os aprova oficialmente como heróis da guilda, entregando suas novas insígnias. Ele lhes mostra um quadro com várias missões já disponíveis.\n\n**Mestre da Guilda:** \"Quanto ao que aconteceu lá fora... aquilo não aconteceu. Zoldrack não esteve aqui. Vocês não viram um dragão. Somos uma guilda de heróis, não uma fonte de pânico para o reino. O silêncio de vocês é obrigatório.\""
+ },
+ {
+  "id": "p0219",
+  "pergunta": "Quais opções de arquétipo mecânico de combate descrevem a ficha de Kael?",
+  "pedaco": "[Nota: Kael | Pasta: npcs importantes lore | Seção: Kael]\n# Kael\n\nTipo: NPC da missão [[A Mulher do Rio]]\n\n---\n\n## Quem é\n\nBardo da [[Vila Serena]]. Era chamado de o músico mais talentoso do lugar, capaz de \"encantar os pássaros das árvores\".\n\nOs moradores o descrevem como um homem bom, mas **solitário**. Passava horas na beira do rio, \"falando com a água\". Mora numa cabana humilde e isolada.\n\nToca alaúde e usa um **florete**. No combate, usa as estatísticas de Bardo do Colégio das Espadas ou Swashbuckler.\n\n---"
+ },
+ {
+  "id": "p0320",
+  "pergunta": "Qual é a relação entre o porão do estabelecimento de Abel Pão Doce e o movimento Luz da Alvorada?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: 🐺 PERSONAGENS DA MISSÃO BARKUS]\n## 🐺 PERSONAGENS DA MISSÃO BARKUS\n\n### [[Abel Pão Doce]]\n\n- **Local:** Cidade do Rei Barkus (Padaria)\n- **Função:** Rebelde da [[Luz da Alvorada]]\n- **Resumo:** Padeiro. Esconde a resistência no porão. Usa pá de padeiro como arma se necessário."
+ },
+ {
+  "id": "p0127",
+  "pergunta": "Quem governa de maneira autônoma e absoluta a cidade tecnológica de Engenharia?",
+  "pedaco": "[Nota: Engenharia | Pasta: cidades e reinos | Seção: cidade Engenharia]\n# cidade Engenharia\n\n### **Cidade Tecnológica: Engenharia**\n\n**Visão Geral:**\nEngenharia é a cidade mais avançada tecnologicamente do continente, uma metrópole de metal e pedra onde o progresso é a única religião. O ar é uma mistura do cheiro de carvão queimado vindo do Distrito do Vapor e o estalo agudo de ozônio do Distrito da Carga. É uma cidade de maravilhas, com sistemas de esgoto complexos e trilhos elevados a vapor, mas também de opressão, onde a magia é vista como uma praga a ser erradicada e a liberdade é uma ilusão sob o governo de sua excêntrica líder.\n\n---\n\n**Governo e Poder:**\n\n- **A Soberania de The Queen:** Embora oficialmente faça parte do Reino Principal, Engenharia é governada de forma autônoma e absoluta pela enigmática [[The Queen]]. Seu nome é exatamente esse, com o \"The\" sendo uma parte inseparável de seu título por sua própria exigência.\n- **Personalidade da Governante:** The Queen é uma figura pública e excêntrica. Ela aparenta ser engraçada, boba e até mesmo um pouco burra, com uma lógica tortuosa e um humor que só ela entende. No entanto, por trás dessa fachada, ela possui um controle absoluto sobre os artífices mais brilhantes da cidade e, consequentemente, sobre a tecnologia mais poderosa. Seu objetivo é uma forma de controle mundial, que ela vê com uma inocência assustadora como simplesmente tornar o mundo mais \"eficiente\" e \"feliz\" sob seu comando.\n\n---\n\n**Os Distritos Rivais:**"
+ },
+ {
+  "id": "p0299",
+  "pergunta": "Em qual curso d'água localizado na Vila Serena habita Lívia, a Mulher do Rio?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Lívia]], a Mulher do Rio]\n### [[Lívia]], a Mulher do Rio\n\n- **Local:** [[Vila Serena]] (Rio das Lágrimas de Prata)\n- **Espécie:** Espírito do rio\n- **Resumo:** Apaixonou-se por Kael e secou o rio sem querer. Final trágico: dissolve-se de volta no rio."
+ },
+ {
+  "id": "p0136",
+  "pergunta": "Quem é o mestre ferreiro anão que gerencia a Forja do Leão em Theragon?",
+  "pedaco": "[Nota: Theragon | Pasta: cidades e reinos | Seção: Pontos-Chave e Distritos de Theragon]\n### **Pontos-Chave e Distritos de Theragon**\n\nA cidade é dividida em vários distritos, cada um com sua própria atmosfera e função.\n\n### **O Mercado do Martelo (Distrito Comercial)**\n\nO centro econômico da cidade, sempre movimentado com o som de ferreiros e o burburinho de mercadores.\n\n- **Loja de Armas - \"Forja do Leão\":** A mais prestigiada forja de Theragon. Gerenciada por um mestre ferreiro anão chamado [[Borin]], é o fornecedor oficial da Guarda Real. Suas armas e armaduras são de qualidade impecável, mas com um preço à altura.\n- **Comércio Geral - \"O Empório do Viajante\":** Uma loja que vende de tudo um pouco, desde rações de viagem e cordas até mapas (muitas vezes desatualizados) e pequenas bugigangas. É um bom lugar para ouvir os últimos boatos."
+ },
+ {
+  "id": "p0157",
+  "pergunta": "Quais facções e organizações compõem a lista de grupos do continente antigo?",
+  "pedaco": "[Nota: grupos da continente antigo | Seção: grupos da continente antigo]\n# grupos da continente antigo\n\n[[A Ordem]]\n\n[[Druidas da Floresta Velha]]\n\n[[A Igreja]]\n\n[[Guilda dos Heróis]]\n\n[[Nova Liga do Crime]]\n\n[[Liga do Caos]]\n\n[[A Guarda Real]]\n\n[[Cabras do Mundo dos Sonhos]]"
+ },
+ {
+  "id": "p0137",
+  "pergunta": "Qual hospedaria de ambiente sereno na Praça do Herói costuma receber viajantes e funcionários régios em busca de repouso confortável?",
+  "pedaco": "[Nota: Theragon | Pasta: cidades e reinos | Seção: A Praça do Herói (Distrito Social)]\n### **A Praça do Herói (Distrito Social)**\n\nUma enorme praça com uma estátua de bronze do [[O Grande Herói|Grande Herói]] em seu centro. É o coração social da cidade.\n\n- **Taverna - \"A Lança Quebrada\":** A taverna favorita dos soldados da Guarda Real e de mercenários. É barulhenta, serve cerveja forte e o ar é sempre carregado com histórias de batalhas (algumas verdadeiras, outras nem tanto).\n- **Estalagem e Bar - \"O Descanso do Rei\":** Um lugar mais calmo e respeitável. Frequentado por cidadãos comuns, oficiais do reino e viajantes que buscam uma noite tranquila. A comida é boa e os quartos são limpos.\n- **Estação de Missões - \"O Mural do Protetor\":** Ao lado da estátua do Herói, este grande mural é administrado pela Guarda Real. Aqui são postados contratos para aventureiros: desde escoltar caravanas até caçar bestas que ameaçam as fazendas próximas. Secretamente, Baldur às vezes posta missões falsas para desviar a atenção de seus planos ou para eliminar aventureiros curiosos."
+ },
+ {
+  "id": "p0289",
+  "pergunta": "Qual criatura atua como companheira animal de Angelina Trasseiro durante sua estadia na igreja?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Angelina Trasseiro]]]\n### [[Angelina Trasseiro]]\n\n- **Local:** circula entre [[Theragon]] (corte) e [[Porto Altheris]] (Igreja) — passa mais tempo em Altheris\n- **Função:** Líder da Igreja, sobrinha do Rei\n- **Resumo:** Pacífica, ama não-humanos — é por causa dela que Altheris virou refúgio deles. Possui magias de reviver e rejuvenescer absoluto.\n- **O peso disso:** reviver e rejuvenescer absolutos mantêm a família Trasseiro no poder e imortal. O [[O Grande Herói]] não precisa disso: é elfo.\n- **O preço da Igreja:** revive pessoas em troca de servidão temporária ou de cumprir seus pedidos. Angelina considera justo — o poder vem do Deus dela, e é assim que a pessoa paga direto a Ele. Companheira: tartaruga [[Gerson]]."
+ },
+ {
+  "id": "p0301",
+  "pergunta": "Qual é a relação entre a sobrevivência de O Grande Herói na luta contra o Monstro Colossal e sua técnica do raio vermelho?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: 🛡️ GUILDA DOS HERÓIS]\n## 🛡️ GUILDA DOS HERÓIS\n\n### [[O Grande Herói]] (o Mestre da Guilda)\n\n- **Local:** [[Ilha da Lâmina Eterna]]\n- **Função:** Líder da Guilda dos Heróis\n- **Espécie:** Elfo. O último de **Os Sete**, o grupo que matou o Monstro Colossal.\n- **Resumo:** Cabelo grisalho, calmo mas com poder avassalador. Domina a técnica do raio vermelho. Governa secretamente. **Matou e reviveu um jogador na Sessão 1** como aviso."
+ },
+ {
+  "id": "p0309",
+  "pergunta": "Qual é a relação entre a forma comum de Tibio e sua encarnação como NEO Tibio?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Tibio]], o Negociador]\n### [[Tibio]], o Negociador\n\n- **Local:** Itinerante / arredores de Theragon\n- **Espécie:** Marionete amaldiçoada (parece um gnomo)\n- **Resumo:** Vende \"Itens de Oportunidade\" amaldiçoados. Vira **NEO Tibio** — marionete de guerra gigante — quando atinge seu objetivo."
+ },
+ {
+  "id": "p0035",
+  "pergunta": "Em qual período do dia o druida sequestrador age em As Vozes que se Calam?",
+  "pedaco": "[Nota: As Vozes que se Calam | Pasta: Missões do mundo | Seção: As Vozes que se Calam]\nse assediarem um homem suspeito irão descobrir que ele era um tarado ladrão de calcinhas, porem ele não e o assassino, mas o grupo pode acabar prendendo ele \n\nna floresta ainda acharão pegadas de lobo gigante, e tambem de um humano\n\nna floresta irão encontrar totens que se desfazem em contato com o fogo\n\nna igreja da cidade irão descobrir de um clerigo uma lenda de um ser da floresta que sequestrava mulheres, os antigos usavam tochas e fogo para espantar a criatura\n\nas informações que podem ser adquiridas são que ele é um druida que tem poder de se tranformar em um lobo gigante e invocar poderes de espadas de energia\n\nele so age a noite\n\nele tem fraqueza contra fogo"
+ },
+ {
+  "id": "p0096",
+  "pergunta": "Como os membros da facção dos arruaceiros reagem ao escutarem a proclamação formal de que foram desclassificados?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Sessão 1 - Ato 3: O Veredito e a Recompensa Inesperada]\nO mordomo sobe em um pequeno palanque, limpa a garganta e anuncia com voz firme:\n\n**Mordomo:** \"Após análise dos pontos de combate, estratégia e conclusão de objetivo, a Guilda dos Heróis anunciará os resultados. Os Cavaleiros Nobres, apesar de sua bravura, não atingiram a pontuação necessária. Aguardamos sua inscrição no próximo ano. Os Arruaceiros... estão reprovados.\"\n\nOs cavaleiros acenam com a cabeça, aceitando o resultado, enquanto os arruaceiros se levantam resmungando e saem batendo a porta.\n\n**Mordomo:** \"Agora, aos aprovados. Em terceiro lugar, por pouco, o grupo das Magas e Bardas. Apesar da derrota no confronto final, sua tática de chegar em primeiro lugar e preparar o campo com armadilhas garantiu sua vaga. Em segundo lugar, os recém-chegados que provaram seu valor contra todas as probabilidades.\" (ele olha diretamente para os jogadores). \"E em primeiro lugar, o grupo do [[Sr. K]]...\" (ele faz um gesto para o Homem Misterioso, que dá um leve aceno de cabeça). \"Parabéns aos aprovados.\"\n\n**Mordomo:** \"[[O Grande Herói|O Mestre da Guilda]] deseja dar-lhes uma palavra. Ele os aguarda no andar de cima. Por favor, esperem aqui.\"\n\n**Cena 3: O Presente de Zoldrack**\n\nEnquanto esperam, um som ensurdecedor abala as paredes da guilda – um rugido que não pertence a nenhuma criatura comum. O chão treme. Do lado de fora, gritos de pânico começam a ecoar.\n\nAo saírem para ver o que está acontecendo, eles se deparam com uma cena surreal."
+ },
+ {
+  "id": "p0183",
+  "pergunta": "De que forma um viajante pode aumentar suas chances de resistir a intoxicações adquirindo remédios do Mercante Boticário?",
+  "pedaco": "[Nota: Mercante Boticário | Pasta: mercado do continente novo/mercantes viajantes | Seção: Defesa e Ferramentas]\n### Defesa e Ferramentas\n\n- **Kit de primeiros socorros (5 PS):** Dá vantagem ao usuário para fazer primeiros socorros, além disso dá 1d4 de pontos de vida extras ao usuário.\n- **Antitoxina (frasco) (30 PS):** Ação: Beber. Ganha vantagem em testes de resistência contra Veneno por 1 hora.\n- **Kit de Herbalismo (4 PS):** Ferramentas para identificar plantas e criar poções de cura.\n- **Kit de Venenos (25 PS):** Usado para manusear e aplicar venenos.\n- **Suprimentos de Alquimista (25 PS):** Ferramentas para criar itens alquímicos."
+ },
+ {
+  "id": "p0301",
+  "pergunta": "Quais traços físicos e antecedentes na equipe de Os Sete definem a história de O Grande Herói?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: 🛡️ GUILDA DOS HERÓIS]\n## 🛡️ GUILDA DOS HERÓIS\n\n### [[O Grande Herói]] (o Mestre da Guilda)\n\n- **Local:** [[Ilha da Lâmina Eterna]]\n- **Função:** Líder da Guilda dos Heróis\n- **Espécie:** Elfo. O último de **Os Sete**, o grupo que matou o Monstro Colossal.\n- **Resumo:** Cabelo grisalho, calmo mas com poder avassalador. Domina a técnica do raio vermelho. Governa secretamente. **Matou e reviveu um jogador na Sessão 1** como aviso."
+ },
+ {
+  "id": "p0225",
+  "pergunta": "Qual é a relação inadvertida entre a forma corpórea adotada por Lívia e o esgotamento do leito do rio?",
+  "pedaco": "[Nota: Lívia | Pasta: npcs importantes lore | Seção: A verdade]\n## A verdade\n\nO [[Ancião Garrick]] a chama de bruxa e súcubo das águas. Não é nada disso.\n\nEla **não sabia** que o rio era ela. Ao assumir forma humana, secou o rio sem querer, e a seca atraiu os elementais de pó e o Elemental Gigante (o Lamento da Seca).\n\nA magia dela é instável e reage ao medo, à culpa e à confusão. Quando entende o que fez, o choro dela invoca a **chuva torrencial** que enfraquece o elemental (vulnerável a Frio e Elétrico).\n\n---"
+ },
+ {
+  "id": "p0293",
+  "pergunta": "De que forma o demônio Heartedur emprega sua extrema inteligência para caçar praticantes de magia de gelo?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Heartedur]], o Demônio de Três Cabeças]\n### [[Heartedur]], o Demônio de Três Cabeças\n\n- **Local:** Itinerante (era da caçada de demônios)\n- **Espécie:** Demônio sobrevivente\n- **Resumo:** Cinza-pálido humanoide, 3m, 3 braços, 3 cabeças. Inteligência absurda. Caça usuários de gelo (sua fraqueza)."
+ },
+ {
+  "id": "p0007",
+  "pergunta": "De que maneira o desabastecimento fluvial impede que o ferreiro de Vila Serena realize o seu trabalho na forja?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Cena 3: Investigação - Sussurros na Poeira]\n### **Cena 3: Investigação - Sussurros na Poeira**\n\nOs jogadores têm liberdade para explorar a vila antes de partir.\n\n- **Falando com os Moradores:** A maioria está assustada demais para contradizer o ancião. Eles podem falar de como Kael era um homem bom, porém solitário, e como ele passava horas na beira do rio, \"falando com a água\". Um ferreiro pode lamentar que não pode mais trabalhar, pois não tem água para temperar o aço. Uma mãe pode oferecer uma pequena quantia de moedas se eles prometerem trazer a água de volta para seus filhos doentes.\n- **A Margem do Rio e a Menina:** Perto do leito seco, eles encontram [[Tessa]], uma menina de uns 7 anos. Ela não está assustada. Ela está triste. Se abordada com gentileza, ela conta uma história diferente:"
+ },
+ {
+  "id": "p0191",
+  "pergunta": "Qual magia é conjurada ao utilizar a Pena de Grifo vendida pelo Mercante Extravagante?",
+  "pedaco": "[Nota: Mercante Extravagante | Pasta: mercado do continente novo/mercantes viajantes | Seção: Itens Genuínos (Funcionam de Verdade)]\n### Itens Genuínos (Funcionam de Verdade)\n\n- **Pena de Grifo (40 PS):** (Ele tem 1d4-1). (Item Incomum). Um único uso. Reação: Quando você cai, você lança *Queda Suave* (Feather Fall) em si mesmo.\n- **Biscoito de Amizade Halfling (55 PS):** (Ele tem 1d4). Ação: Dar a uma **Besta**. A besta deve ser bem-sucedida num teste de Sabedoria (CD 13) ou fica *Encantada* por você por 1 hora (como *Amizade Animal*).\n- **Tinta da Lula Esmagada (80 PS):** (Ele tem 1 frasco). Ação: Arremessar o frasco (6m). Ele explode num raio de 3m de *Escuridão* mágica (como a magia *Escuridão*), que dura 1 minuto."
+ },
+ {
+  "id": "p0027",
+  "pergunta": "Como o sabotador justifica abandonar sua missão em favor do romance do casal?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Cena 3: O Testemunho do Cínico]\n### **Cena 3: O Testemunho do Cínico**\n\nNeste momento, os aventureiros podem notar o Sr. K, que observava a batalha de longe, escondido. Ele não está mais com seu sorriso cínico. Seu rosto está molhado (e não é só da chuva). Ele está visivelmente comovido, enxugando os olhos.\n\n> Sr. K: (Com a voz embargada) \"Droga... droga, droga. Eu odeio essa parte do trabalho.\" Ele guarda sua besta. \"Meus patrões da Cervejaria Machado de Ferro... eles queriam que eu garantisse a seca. Mas isso...\"\nEle gesticula para a cena de Lívia e o Kael inconsciente.\nSr. K: \"Isso não é sobre lucro. É... é um romance. E eu, que inferno, sou um romântico incorrigível.\"\nEle acena para os heróis. \"Eu não vi nada. O elemental era muito forte, e a fonte da seca foi destruída. Entenderam? Eu não vou interferir. Algumas coisas não têm preço.\"\n> \n\nEle se vira e se afasta, deixando o grupo sozinho com o casal."
+ },
+ {
+  "id": "p0101",
+  "pergunta": "Como as autoridades e habitantes de Theragon denominam informalmente a masmorra impenetrável do reino?",
+  "pedaco": "[Nota: Bastilhão Imemorial | Pasta: cidades e reinos | Seção: Bastilhão Imemorial]\n# Bastilhão Imemorial\n\n> 🔒 A prisão mais profunda do reino, debaixo de [[Theragon]]. De conhecimento geral, de acesso impossível.\n>\n\n**Também chamado de:** Forte Carcereiro (a fortaleza de entrada) · A Grande Masmorra (como o [[Theragon]] se refere a ela).\n\n---"
+ },
+ {
+  "id": "p0266",
+  "pergunta": "Quais valores de recompensa em PS são disponibilizados na missão do Reino de Barkus de acordo com a rota escolhida?",
+  "pedaco": "[Nota: painel do mestre | Seção: M-02 — [[O Reino de Barkus]]]\n## M-02 — [[O Reino de Barkus]]\n\n**Missão:** Doug recruta heróis para ir ao reino dos cães humanoides ([[Lykoria]]). O [[Rei Barkus]] está sob influência de [[Zoldrack]].\n\n**Recompensa:** 30 PS (caminho bom) ou 40 PS em ouro do traidor (caminho mau).\n\n| Gatilho | Onde | Quem | O que acontece |\n| --- | --- | --- | --- |\n| Busca trabalho / missão | Guilda dos Heróis | Doug Fury | Cachorro aguarda no saguão com a proposta |\n| Vence uma luta | Clube de Pancadaria | Doug Fury | Oferece prêmio extra + convite para a missão |\n\n---"
+ },
+ {
+  "id": "p0036",
+  "pergunta": "O que o antagonista declara sobre suas intenções com as jovens ao ser vencido?",
+  "pedaco": "[Nota: As Vozes que se Calam | Pasta: Missões do mundo | Seção: As Vozes que se Calam]\napos as investigações eles podem descobrir sobre o druida, mas a dificuldade de achar sobram a uma opção, se disfarçar de mulher para atrair a atenção dele, ao fazer o disfarçado no meio da madrugada escuta uma voz misteriosa falando para ir para casa, que é perigoso pois um belo lobo sequestra mulheres lindas, o sequestrado pode falar com ele, porem derrepente ele surgira como se fosse das sombras e pegara o disfarçado com a boca, e fugira, o grupo ira começar a perseguição, em uma carruagem dos guardas, o grupo deve atacar e fazer o lobo cair, ao ele cair uma batalha ira começar, ao derrotarem sua forma lobo, ele ira voltar como humano e deve ser derrotado tbm, ao vencer ele revela que so quer amar as mulheres e manter sua beleza e depois cai morto ou derrotado dependendo da forma que o grupo lidar com ele, logo atras do caminho aonde cercaram ele esta a base, la eles veem pertences das meninas e as provas que foi o druida para desincrimanar o ben\n\na perseguição:\n\no grupo estara na carruagem de cavalo com dois cavalos perseguindo o lobo, a cada 1 turno o lobo se afasta dois metros, o importante nesse momento e aceitar as ideias malucas para derrubar o lobo, mas se eles derem um X dano o lobo ira cair para começar um combate classico\n\nao morrer, quando sua forma chegar a 0 pontos de vida ele ira falar sua frase final:"
+ },
+ {
+  "id": "p0325",
+  "pergunta": "Quais armas e armamentos compõem o equipamento tradicional do Grupo dos Cavaleiros Nobres?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Grupo dos Cavaleiros Nobres]]]\n### [[Grupo dos Cavaleiros Nobres]]\n\n- **Resumo:** Guerreiros clássicos em armaduras polidas. Escudos, lanças, espadas longas, brasões nobres. Falam de honra e estratégia.\n\n### [[Grupo dos Arruaceiros]]\n\n- **Resumo:** Mercenários e ladrões. Couro escuro, cicatrizes, olhares debochados. Reprovados na prova."
+ },
+ {
+  "id": "p0190",
+  "pergunta": "Qual é a diferença de preço entre o Pó do Espirro do Goblin e o Amuleto da Detecção de Ouro?",
+  "pedaco": "[Nota: Mercante Extravagante | Pasta: mercado do continente novo/mercantes viajantes | Seção: As \"Oportunidades\" (Suspeitas)]\n### As \"Oportunidades\" (Suspeitas)\n\n- **Pó do Espirro do Goblin (3 PS):** \"Uma arma de distração potente!\". Provavelmente inútil.\n- **A Moeda da Indecisão (5 PS):** \"Nunca erre uma decisão!\". Claramente vigarice.\n- **Amuleto da Detecção de Ouro (25 PS):** \"Ele vibra na presença de grandes tesouros!\". Muito suspeito.\n- **\"O Manto do Imperador\" (130 PS):** Ele diz: \"Torna o usuário completamente invisível!\". Muito suspeito."
+ },
+ {
+  "id": "p0202",
+  "pergunta": "Por quanto tempo dura a vantagem obtida após ler o Tomo do Historiador no Mercante Mago?",
+  "pedaco": "[Nota: Mercante Mago | Pasta: mercado do continente novo/mercantes viajantes | Seção: Obras de Conhecimento (Sua Especialidade)]\n### Obras de Conhecimento (Sua Especialidade)\n\n- **Tomo do Historiador (130 PS):** (Item Especial / Apenas 1). Um personagem que gastar 1 hora lendo este livro ganha **Vantagem em todos os testes de Inteligência (História)** que fizer nas próximas 24 horas. (Usável uma vez por semana)."
+ },
+ {
+  "id": "p0240",
+  "pergunta": "Qual é a dúvida sobre o testemunho de Lorde Baldur ao asseverar que o trono do Rei Theo decorre do Grande Herói?",
+  "pedaco": "[Nota: O Grande Herói | Pasta: npcs importantes lore | Seção: ❓ Perguntas em aberto]\n## ❓ Perguntas em aberto\n\n- ⚠️ **Que acordo ele tem com [[Zoldrack]]?** Ele o chama de \"velho amigo\" e o Caos Imortal obedece na hora. Um dos dois maiores vilões do mundo tem um pacto com o maior herói do mundo, e o conteúdo do pacto não está escrito em lugar nenhum. É o gancho mais forte que ele tem.\n- ⚠️ **O que ele sabe e nunca contou?** A [[🌍 Timeline do Mundo]] diz que ele \"é o único que sabe, com certeza, que a paz não vai durar\", e lista como mistério em aberto: *\"O Grande Herói sabe algo que nunca contou a ninguém?\"*\n- ⚠️ **Ele colocou o [[Rei Theo]] no poder mesmo?** Quem afirma isso é o [[Lorde Baldur]] — e Baldur mente por profissão.\n- ⚠️ **Ele tem nome próprio?** \"Sem nome por muito tempo\" sugere que teve um antes de Os Sete.\n- ⚠️ **[[Os 5]] nunca foram nomeados nem detalhados.**"
+ },
+ {
+  "id": "p0092",
+  "pergunta": "O que se encontra ilustrado nas paredes rochosas da passagem antes de o trajeto se ramificar em duas direções?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Cena 5: A Divisão de Caminhos]\n### **Cena 5: A Divisão de Caminhos**\n\nDentro da caverna, o grupo vê **paredes marcadas com símbolos e figuras antigas**, como uma história sendo contada em imagens (você pode desenvolver essa parte depois, como comentou).\n\nO corredor principal se divide:\n\n- Um caminho segue para a direita, mais aberto, com clarões de luz púrpura.\n- O outro é estreito, quase invisível à primeira vista, coberto de trepadeiras.\n\nO **homem misterioso** para, observa os dois caminhos, e diz com uma risada leve:\n\n> — Eu gosto de surpresas. Vamos ver o que o outro lado reserva.\n> \n\nE desaparece no caminho oposto.\n\n---"
+ },
+ {
+  "id": "p0017",
+  "pergunta": "Que instrumento musical Kael está tocando ao ser avistado no oásis secreto em A Mulher do Rio?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Cena 4: O Precipício das Flores Azuis]\n### **Cena 4: O Precipício das Flores Azuis**\n\nAssumindo que os jogadores conseguiram despistar, atrasar ou enganar o Sr. K, eles seguem a trilha principal das flores azuis. O desfiladeiro finalmente se abre, e o ar seco dá lugar a uma umidade fresca e perfumada.\n\nEles emergem em um **precipício deslumbrante**.\n\nA cena é de uma beleza de outro mundo, um forte contraste com a morte em Vila Serena. Eles estão no topo de um paredão rochoso, olhando para uma gruta escondida abaixo, que se abre para um pequeno vale. Onde a cachoeira deveria estar, agora há apenas um filete de água mágica.\n\nMas este filete é o suficiente. Ele alimenta um oásis secreto, um tapete de grama verde-esmeralda e centenas de **Lágrimas-de-Lua** azuis brilhantes.\n\nE lá embaixo, no centro desse paraíso escondido, eles os veem.\n\n[[Kael]] está sentado em uma pedra lisa, tocando uma melodia suave e alegre em seu alaúde. [[Lívia]], a mulher-rio, está em forma humana. Ela usa um vestido simples, e seus cabelos fluem como água escura. Ela está descalça, dançando na grama e cantando uma canção sem palavras, sua voz se misturando ao vento.\n\nEles não parecem monstros. Não parecem prisioneiro e captora. Eles parecem... em paz. Felizes."
+ },
+ {
+  "id": "p0186",
+  "pergunta": "Qual é a diferença de benefício furtivo entre o Traje de Camuflagem e a Armadura de Pele de Urso-Coruja?",
+  "pedaco": "[Nota: Mercante Druida | Pasta: mercado do continente novo/mercantes viajantes | Seção: Proteção Natural (A Obra-Prima)]\n### Proteção Natural (A Obra-Prima)\n\n- **Armadura de Couro (8 PS):** CA 11 + Mod. Destreza.\n- **Armadura de Couro Batido (25 PS):** CA 12 + Mod. Destreza.\n- **Máscara de Demônio (20 PS):** Pode ser usada para dar vantagem em testes que envolvem assustar alguém.\n- **Traje de Camuflagem (22 PS):** (Item Especial). Concede **Vantagem em testes de Destreza (Furtividade)** feitos para se esconder em **terreno selvagem** (floresta, selva).\n- **Armadura de Pele de Urso-Coruja (220 PS):** (Item Especial / Apenas 1). **CA 15 + Mod. Destreza (máx 2)**. Esta armadura **não impõe desvantagem em testes de Furtividade**."
+ },
+ {
+  "id": "p0290",
+  "pergunta": "Quais particularidades comportamentais e pretensões globais caracterizam a figura de The Queen?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[The Queen]]]\n### [[The Queen]]\n\n- **Local:** Engenharia (Agulha de Platina)\n- **Função:** Governante autônoma de Engenharia\n- **Resumo:** Excêntrica, aparenta ser boba mas tem controle absoluto. \"The\" faz parte do título por exigência dela. Quer controle mundial \"eficiente e feliz\".\n\n---"
+ },
+ {
+  "id": "p0135",
+  "pergunta": "De que maneira as maquinações de Lorde Baldur afetam a atmosfera de ordem e orgulho sentida nas ruas de Theragon?",
+  "pedaco": "[Nota: Theragon | Pasta: cidades e reinos | Seção: Theragon]\n# Theragon\n\n### **Theragon: A Capital do Leão**\n\nTheragon é o coração pulsante do Continente Médio. Reconstruída sobre as cinzas da era do Monstro Colossal, é um símbolo de resiliência e poder. Suas imponentes muralhas brancas circundam a cidade, que é inteiramente contida dentro da fortaleza do castelo, com o palácio real no seu ponto mais alto e seguro. A cidade exala um ar de ordem e orgulho, mas para os mais atentos, uma tensão sutil pode ser sentida nas ruas — o resultado das maquinações secretas do conselheiro [[Lorde Baldur|Baldur]].\n\n---"
+ },
+ {
+  "id": "p0177",
+  "pergunta": "O que ainda falta definir a respeito do domínio teológico e da esfera de patronato do deus principal do reino?",
+  "pedaco": "[Nota: Religião do Reino | Pasta: grupos da continente antigo | Seção: ❓ Perguntas em aberto]\n## ❓ Perguntas em aberto\n\n- ⚠️ **Qual é o nome do deus principal?** Ainda não foi pensado.\n- ⚠️ **Do que ele é deus?** Ainda não foi pensado. Explica por que o poder dele é reviver e o preço é servidão.\n- ⚠️ **Como a Igreja vê os outros deuses?** Aceita, ignora ou combate?"
+ },
+ {
+  "id": "p0029",
+  "pergunta": "De que maneira o Ancião Garrick recompensa os aventureiros no epílogo?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Epílogo: A Água Amarga]\n### **Epílogo: A Água Amarga**\n\n- **A Vila:** A Vila Serena celebra. A roda d'água da Cervejaria Água Prateada começa a girar. O Ancião Garrick paga os heróis generosamente, chamando-os de salvadores.\n- **Kael:** Os heróis encontram Kael quando ele acorda (talvez em sua cabana, para onde o levaram). Eles lhe dão o colar e a mensagem. Ele não diz nada. Ele apenas aperta o colar contra o peito e caminha até a margem do rio que flui novamente, observando a correnteza.\n- **O Sabor:** Na taverna, comemorando, os heróis encontram Sr. K. Ele levanta uma caneca da recém-fabricada cerveja \"Lágrima de Prata\".\n\n    > Sr. K: \"À vocês, heróis. Salvaram a vila. Arruinaram meus patrões. Um bom dia de trabalho.\"\n    Ele toma um gole e faz uma careta.\n    Sr. K: \"Engraçado... para a minha 'felicidade', a cerveja voltou. Mas o sabor... nunca mais foi o mesmo. A água... está amarga. Tem gosto de arrependimento.\"\n    > \n- **A Canção Final (Narrado pelo Mestre):**\n\n    > \"Sr. K tinha razão. A vida voltou a Vila Serena, mas a famosa água prateada agora tinha um gosto amargo, um gosto de perda. As pessoas bebiam, mas não com a mesma alegria.\n    Até que, uma noite, sob a lua cheia, os moradores ouviram. A música de Kael. Ele estava na margem, tocando seu alaúde.\n    E naquela noite, e somente nas noites em que ele tocava, as pessoas que iam buscar água no rio juravam... que a água voltava a ter o sabor doce e prateado de antes. O sabor de um amor que, mesmo perdido, ainda ouvia a sua canção.\"\n    >"
+ },
+ {
+  "id": "p0107",
+  "pergunta": "Qual é a relação entre o propósito inicial do cofre da Guilda e sua transição para cárcere político monárquico?",
+  "pedaco": "[Nota: Bastilhão Imemorial | Pasta: cidades e reinos | Seção: 🧭 A deriva do propósito]\n## 🧭 A deriva do propósito\n\nFoi construído para guardar monstros e seres de outros planos. Hoje guarda uma falsificadora, um ativista político executado, e tem uma sala de execução do reino no Nível 4.\n\nNinguém escreveu isso em lugar nenhum, mas está nos textos: o lugar mudou de dono e de função. Um cofre da Guilda virou prisão política da coroa. É o motor de lore mais forte que o Bastilhão tem.\n\n---"
+ },
+ {
+  "id": "p0340",
+  "pergunta": "Quais estabelecimentos e pontos de apoio servem como base para os aventureiros em Porto Altheris?",
+  "pedaco": "[Nota: 🗺️ Índice de Locais | Seção: [[Porto Altheris]]]\n### [[Porto Altheris]]\n\n- **Região:** Costa\n- **Governo:** Igreja ([[Angelina Trasseiro]], que se divide entre aqui e [[Theragon]])\n- **População:** a maior concentração de não-humanos do continente — vieram atrás da proteção de Angelina. Por isso, alvo número um da [[A Ordem|Ordem]].\n- **Resumo:** Cidade refinada, segura, ruas iluminadas por cristais. Mercado portuário com criaturas marinhas raras. Ponto de descanso de aventureiros famosos.\n- **Pontos:** Grande Bazar dos Bravos.\n- **Base do grupo:** é aqui que os jogadores moram e operam. Igreja no morro ([[Sacerdotisa Mira]]), sede da [[Guilda dos Heróis]] ([[Doug Fury]]), Hospedagem dos PCs, Taverna da Cruz ([[Mestre Cevada]]), Departamento do Reino ([[Capitã Undyne]]), Feira de Lojas (onde [[Tibio]] aparece), Clube de Pancadaria ([[Sirmus]]), Loja de Itens. Detalhado no [[painel do mestre]]."
+ },
+ {
+  "id": "p0059",
+  "pergunta": "Como o portal de Orion permite a fuga dos heróis caso a mentira falhe?",
+  "pedaco": "[Nota: O Reino de Barkus | Pasta: Missões do mundo | Seção: O Caminho da Aliança (O Caminho Bom)]\n### **O Caminho da Aliança (O Caminho Bom)**\n\n**(Este caminho se inicia se os jogadores decidirem trair o rei e ajudar a resistência)**\n\n**Cena 1: Ganhando Confiança**\nO grupo aceita a missão do Rei, mas secretamente planeja ajudar a \"Luz da Alvorada\". Na padaria, eles precisam provar a Abel que são confiáveis.\n\n> Exemplo de Diálogo do Jogador para Abel Pão Doce: \"Abel... nós viemos a mando do Rei. Ele nos contratou para caçar vocês. Mas ele nos contou algo que não deveria... sobre uma carta de socorro que ele interceptou. Nós não estamos aqui para feri-los. Estamos aqui porque a sua carta nos alcançou, de um jeito ou de outro.\"\n> \n\n**Cena 2: O Conselho da Alvorada e a Interrupção**\nNo porão, a aliança é formada. Eles ouvem a história de Corbin, a profecia de Anja sobre [[Zoldrack]] e o plano de Orion. A esperança começa a florescer, até ser esmagada pelas batidas na porta. O [[Capitão dos Olhos]] está lá fora. A pedido de Corbin, os jogadores sobem para distraí-lo. O sucesso da mentira (Teste de Enganação CD 15) lhes dá tempo para planejar. O fracasso resulta em uma batalha desesperada e uma fuga imediata pelo portal de Orion para o telhado do castelo.\n\n**Cena 3: Invasão do Castelo do Ocaso**\nO grupo se infiltra no castelo pelo telhado."
+ },
+ {
+  "id": "p0241",
+  "pergunta": "Qual é o título honorífico ostentado pelo Rei Theo IV?",
+  "pedaco": "[Nota: Rei Theo | Pasta: npcs importantes lore | Seção: o rei: theo trasseiro]\n# o rei: theo trasseiro\n\n### **Rei Theo IV**\n\n- **Título:** Rei do Reino Principal, Protetor do Continente.\n- **Aparência:** Um homem de meia-idade com um rosto gentil e olhos que, um dia, foram cheios de otimismo, mas que hoje carregam o peso do mundo. Seu cabelo está começando a ficar grisalho nas têmporas, e ele tem uma postura ligeiramente curvada, como se o peso de sua coroa e manto fosse literal. Ele nunca parece totalmente confortável em seus trajes reais, como se estivesse sempre desempenhando um papel.\n- **Personalidade (Inocente e Manipulável):** Theo é, em sua essência, um homem bom. Ele genuinamente ama seu povo e deseja ser o rei justo e sábio que todos esperam que ele seja. Contudo, ele não possui uma vontade forte e é terrivelmente ingênuo. Ele confia cegamente em [[Lorde Baldur|Baldur]], a quem vê como seu maior amigo, um gênio político e o representante da sabedoria do [[O Grande Herói|Grande Herói]] que o colocou no poder. Cada decisão que resulta em fracasso o destrói por dentro, enchendo-o de culpa e autoaversão, sem que ele jamais perceba que a arquitetura de seu fracasso é obra de seu conselheiro. Ele é um peão trágico no jogo de um mestre."
+ },
+ {
+  "id": "p0312",
+  "pergunta": "De que forma o elegante membro da Associação dos Magos emprega forasteiros sob pretextos enganosos para prejudicar seus concorrentes?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Lucian Vane]]]\n### [[Lucian Vane]]\n\n- **Local:** Cadáver Colossal\n- **Função:** Membro da [[Associação dos Magos]]\n- **Resumo:** Jovem mago bem-vestido, charmoso mas com olhos frios. Contrata heróis para missões de fachada que servem para sabotar rivais."
+ },
+ {
+  "id": "p0037",
+  "pergunta": "Quais justificativas o druida dá para afirmar que salvou as mulheres da velhice?",
+  "pedaco": "[Nota: As Vozes que se Calam | Pasta: Missões do mundo | Seção: As Vozes que se Calam]\neu… eu sou um heroi, todos deveriam agradeçer a mim, eu fiz com que elas nunca ficassem feias, as eternizei, salvei de ficarem velhas e feias que nem as outras… eu ja vivi tanto seculos, tantas ficaram feias e nojentas, eu não permitirei, isso acontecer, seja com eu vivo… ou eu morto\n\nele abre um poçao roxa que ao abrir sai uma fumaça roxa dentro dela, \n\no grupo pode matar ou deixar ele vivo, mas ele ri dizendo que todos irão morrer"
+ },
+ {
+  "id": "p0262",
+  "pergunta": "Por qual razão comprovar a existência real de Zoldrack tornaria a Guilda dos Heróis uma inimiga dos jogadores?",
+  "pedaco": "[Nota: Zoldrack | Pasta: npcs importantes lore | Seção: 🤐 Por que não existe registro]\n### 🤐 **Por que não existe registro**\n\nA raridade das aparições de Zoldrack é fama. A **ausência de registro** é outra coisa: é trabalho.\n\nNa [[Sessão 1]], ele apareceu em pleno pátio da [[Guilda dos Heróis]], flutuando montado num dragão prateado jovem, na frente de recrutas, funcionários e de quem estava por perto. Não foi discreto — foi um espetáculo.\n\nO que aconteceu depois é que importa. [[O Grande Herói]] atravessou o pátio, dispensou o dragão e, no escritório, deu a ordem:\n\n> \"Quanto ao que aconteceu lá fora... aquilo não aconteceu. Zoldrack não esteve aqui. Vocês não viram um dragão. Somos uma guilda de heróis, não uma fonte de pânico para o reino. O silêncio de vocês é obrigatório.\"\n\nPara deixar claro que não era pedido, ele parou o coração de um dos heróis com um gesto — e devolveu a vida com outro.\n\n**A conclusão desconfortável:** o mito do \"vilão que ninguém consegue provar que existe\" é mantido pela maior autoridade legítima do mundo. Toda vez que Zoldrack aparece, a Guilda apaga.\n\nE não é negligência. Os dois se conhecem: o Grande Herói o chamou de **\"velho amigo\"** e cobrou um acordo que já existia entre eles — *\"Achei que tínhamos um acordo sobre não destruir minha base de operações\"*. Zoldrack obedeceu na hora e foi embora.\n\n> ⚠️ Se os jogadores algum dia provarem que Zoldrack existe, o inimigo que vão fazer não é o Zoldrack.\n\n---"
+ },
+ {
+  "id": "p0181",
+  "pergunta": "Como o Veneno Básico pode ser aplicado em armas cortantes ou perfurantes em comparação à quantidade de munições?",
+  "pedaco": "[Nota: Mercante Boticário | Pasta: mercado do continente novo/mercantes viajantes | Seção: Alquimia Tática (Não-Mágica)]\n### Alquimia Tática (Não-Mágica)\n\n- **Ácido (frasco) (15 PS):** (Ele tem 1d6). Ação: Arremesso (6m). Ataque à distância. Causa 2d6 de dano ácido no acerto.\n- **Fogo Alquímico (frasco) (30 PS):** (Ele tem 1d4+1). Ação: Arremesso (6m). Causa 1d4 de fogo no início de cada turno do alvo. Alvo usa Ação (CD 10 Des) para apagar.\n- **Veneno Básico (frasco) (55 PS):** Ação: Aplicar em 1 arma cortante/perfurante ou 3 munições. Teste de Const. (CD 10). Em falha, causa 1d4 de dano de veneno."
+ },
+ {
+  "id": "p0333",
+  "pergunta": "Qual é a idade da menina Tessa encontrada às margens do rio na Vila Serena?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Tessa]]]\n### [[Tessa]]\n\n- **Local:** Vila Serena (margem do rio)\n- **Idade:** ~7 anos\n- **Resumo:** Triste, não assustada. Conta a verdadeira história do amor entre Kael e Lívia. Conhece as Lágrimas-de-Lua.\n\n### [[Kael]]\n\n- **Local:** Vila Serena → Gruta da Cascata Silenciosa\n- **Função:** Bardo prodigioso\n- **Resumo:** Apaixonado por Lívia. Não foi enfeitiçado — ama de verdade. Após a partida dela, toca à beira do rio nas noites de lua cheia.\n\n---"
+ },
+ {
+  "id": "p0303",
+  "pergunta": "Quais características de temperamento militar e fraquezas cômicas compõem o comportamento de Doug Fury?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Doug Fury]]]\n### [[Doug Fury]]\n\n- **Local:** [[Porto Altheris]] / [[Guilda dos Heróis]]\n- **Espécie:** Cão humanoide\n- **Resumo:** Militar disciplinado, postura rígida. *\"Não sou um animal, sou um soldado.\"* Perde a postura se vê um osso. Recruta heróis para a missão do Reino de Barkus."
+ },
+ {
+  "id": "p0051",
+  "pergunta": "Quantos Pontos de Vida possui o Rei do Sono em sua ficha de combate?",
+  "pedaco": "[Nota: O Reino das Cabras | Pasta: Missões do mundo | Seção: O Reino das Cabras]\n**⚔️ Fichas Técnicas (Dados para Combate)**\n**O REI DO SONO (SOBERANO DO TRIDENTE)** \n\n• **Tipo**: Monstruosidade (Titã), Leal e Neutro.\n• **Defesa**: CA 16 (Pele de Musgo) | **Vida**: 450 PV.\n• **Ação - Tridente de Prata**: +10 para acertar. Dano: **3d10+6** perfurante.\n• **Ação - Chá do Esquecimento**: Cone de 6m. **Sabedoria CD 15** ou fica Atordoado por 1 rodada em memórias felizes.\n• **Ação Lendária - Desejo de Morte**: Ao chegar a 0 PV, ele oferece um golpe livre. Se recusado, ele usa o próprio tridente contra si mesmo.\n**ASRIEL (O LADRÃO)** \n\n• **Arma**: Espada dos Sonhos (Espada Longa, Rara).\n• **Dano**: 1d8+2 cortante + **1d8 psíquico**.\n• **Propriedade**: Permite conjurar *Passagem Invisível* para entrar em reinos oníricos.\n**🔚 Desfecho da Trama**\n• \n**O Colapso**: Após a derrota do Rei, o grupo é expulso do mundo dos sonhos.\n\n• \n**Se Asriel estiver vivo**: O Rei se despede chamando-o de filho e pedindo que ele suporte o fardo de ser o último da espécie.\n\n• \n**Consequência para Asriel**: Ele perde a espada e a capacidade de realizar o ritual, tornando-se o último de seu povo no mundo real."
+ },
+ {
+  "id": "p0207",
+  "pergunta": "Qual é a diferença funcional de aplicação entre a Poção de Cura (Padrão) e o Kit de Cura?",
+  "pedaco": "[Nota: Mercante Simples | Pasta: mercado do continente novo/mercantes viajantes | Seção: Provisões e Cura]\n### Provisões e Cura\n\n- **Poção de Cura (Padrão) (30 PS):** (Ele tem 1d4 delas). Recupera 2d4 + 2 PV.\n- **Kit de Cura (5 PS):** 10 usos. Gasta 1 uso para estabilizar um alvo (sem teste).\n- **Rações (pacote 5 dias) (3 PS).**"
+ },
+ {
+  "id": "p0113",
+  "pergunta": "Qual é a relação entre a presença de carne congelada e o comportamento não agressivo dos monstros nas áreas seguras?",
+  "pedaco": "[Nota: Cadáver Colossal | Pasta: cidades e reinos | Seção: dentro do corpo —- areas seguras]\n# dentro do corpo —- areas seguras\n\ndentro do corpo do monstro e uma area que a mana fica mais pesada, sendo ate mais dificil de se mover, e possivel encontrar ainda algumas construçoes aonde magos fazem estudos secretos, ate por causa disso e tbm pelo perigo e proibido entrar sem autorização e um guia,\n\ne comum ver monstros rondando por la, atraidos pela mana, e a carne congelada do monstro, mas eles não costumam ser agressivos"
+ },
+ {
+  "id": "p0094",
+  "pergunta": "De que forma a líder do bando rival ironiza a aproximação dos heróis antes do início do confronto mágico?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Cena 7: O Confronto com as Magas e Bardas]\n### **Cena 7: O Confronto com as Magas e Bardas**\n\nAo alcançar a câmara final, encontram um **salão natural de cristais**, com o **Reaktar** brilhando no centro como um coração pulsante.\n\nO grupo rival das garotas está ali.\n\n> Se alertadas pelas armadilhas:\n> \n> \n> Estão em **formação defensiva**, com magias já preparadas e olhares irônicos.\n> \n\n> Se surpreendidas:\n> \n> \n> São pegas em momento de distração, ajustando seus equipamentos e estudando o Reaktar.\n> \n\nA **barda líder** caminha à frente com seu alaúde brilhando, e diz com voz melódica:\n\n> — Hm… vocês chegaram. Que pena.\n> \n> \n> O palco já está montado. Só falta a plateia ver nossa vitória.\n> \n\nAs outras sorriem. Uma maga ergue um grimório com runas flamejantes.\n\nA batalha começa."
+ },
+ {
+  "id": "p0091",
+  "pergunta": "Em que estado deplorável surge o guerreiro aristocrata ao cambalear para fora da galeria subterrânea pedindo socorro?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Cena 4: O Cavaleiro Queimado]\n### **Cena 4: O Cavaleiro Queimado**\n\nAntes que o grupo possa entrar, ouvem passos arrastados.\n\nDe dentro da caverna, **um homem em armadura nobre cambaleia**, envolto em **fumaça negra e brasas ainda vivas**. Seu elmo está derretido, e ele segura a lateral do corpo, onde sangue escapa por uma fresta da armadura.\n\nEle cai de joelhos diante do grupo.\n\n> — Me... ajudem… por favor. Elas... elas estão esperando lá dentro.\n> \n> \n> Afastem-se. Elas não querem... compartilhar a glória.\n> \n\nSe o grupo o ajudar, ele entrega um **brasão da casa nobre** e revela:\n\n> — Elas chegaram primeiro. Usaram ilusões, armadilhas e... sorrisos falsos.\n> \n> \n> Estão posicionadas, esperando emboscar qualquer um que passe.\n> \n\nSe o grupo ignorá-lo, ele cai ali mesmo, com a mão estendida, os olhos se fechando lentamente.\n\n---"
+ },
+ {
+  "id": "p0180",
+  "pergunta": "Quais odores característicos denunciam a presença do Boticário Itinerante na estrada?",
+  "pedaco": "[Nota: Mercante Boticário | Pasta: mercado do continente novo/mercantes viajantes | Seção: mercante oboticario]\n# mercante oboticario\n\n### 2. O Boticário Itinerante (O Químico da Estrada)\n\nCheira a enxofre e ervas. Vende coisas que queimam, curam ou paralisam.\n\n> 💰 Moeda: Prata (PS) | Recompensa de missão principal: 30 PS\n>"
+ },
+ {
+  "id": "p0011",
+  "pergunta": "Quais reações físicas e luminosas ocorrem nos monólitos ao se interpretar corretamente A Valsa das Águas Prateadas?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Ato 2: O Sabotador e o Precipício]\n### **Ato 2: O Sabotador e o Precipício**\n\n### **Cena 1: O Lamento do Desfiladeiro (O Puzzle)**\n\nApós lidarem com os perigos iniciais da trilha (os animais e elementais menores do Ato 1), os aventureiros seguem o rastro das flores azuis. O caminho os leva para dentro de um desfiladeiro estreito, onde o leito seco do rio foi esculpido na rocha. O silêncio aqui é profundo, quebrado apenas pelo eco de seus próprios passos.\n\n**Paredão Silencioso**\nO caminho termina abruptamente diante dos três grandes monólitos de pedra. Não há frestas, não há alavancas e, desta vez, não há runas ou símbolos mágicos visíveis. Apenas a pedra fria e lisa bloqueando o avanço.\n\nO vento aqui faz um som estranho ao bater nas rochas, como se o próprio cânion estivesse esperando por algo.\n\n**A Solução:**\nOs jogadores devem **tocar ou cantar** a música encontrada na cabana (\"A Valsa das Águas Prateadas\").\n\n- **Se tocarem a música corretamente (Teste de Atuação CD 12):**\nAs pedras não se movem mecanicamente. Elas *vibram*. A música entra em ressonância com o cristal natural dentro das rochas. Primeiro, elas brilham com uma luz azul suave, pulsando no ritmo da canção. Depois, como se estivessem líquidas, elas deslizam suavemente para o lado, revelando a passagem oculta, enquanto o eco da música continua soando no túnel escuro.\n- **Se falharem ou tocarem outra música:**\nO cânion responde com um eco dissonante e agudo (dano trovejante leve, 1d4, apenas para assustar), e as pedras permanecem imóveis."
+ },
+ {
+  "id": "p0120",
+  "pergunta": "Quais irregularidades no envio de mantimentos para as entranhas do monstro a Arquivista Anya Volkov conseguiu detectar?",
+  "pedaco": "[Nota: Cadáver Colossal | Pasta: cidades e reinos | Seção: 2. Os Professores da Faculdade de Magia]\n- **A Professora da Resistência:**\n    - **Nome:** [[Anya Volkov|Arquivista Anya Volkov]]\n    - **Espécie e idade:** Meia-elfa, 120 anos.\n    - **Descrição:** Uma mulher mais velha, com cabelos grisalhos presos em um coque severo e óculos na ponta do nariz. Suas vestes são simples e manchadas de tinta e poeira de livros. Ela parece perpetuamente cansada, mas seus olhos são afiados como adagas.\n    - **História e Segredo:** Anya é a historiadora-chefe das faculdades. Tinha cerca de vinte anos quando o Monstro Colossal caiu, e se lembra vividamente do pânico e da destruição — é uma das últimas pessoas vivas que viu aquilo com os próprios olhos. Dedicou a vida a garantir que tamanho poder nunca mais fosse usado levianamente. Através de seus estudos, ela descobriu inconsistências, desaparecimentos e o fluxo de recursos para o interior do Cadáver. Ela suspeita fortemente de Valerius e sabe da existência dos Acólitos, mas não tem poder ou provas para confrontá-lo abertamente. Ela lidera uma pequena e secreta facção de professores e alunos leais que monitoram as atividades do culto, buscando uma forma de expô-los. Ela pode ver o grupo de heróis como a \"arma\" que ela precisa para agir."
+ },
+ {
+  "id": "p0195",
+  "pergunta": "Que restrição de agilidade e mobilidade sofre um combatente ao portar a placa defensiva avantajada de três pontos na defesa?",
+  "pedaco": "[Nota: Mercante Ferreiro | Pasta: mercado do continente novo/mercantes viajantes | Seção: Armaduras e Escudos Especiais]\n### Armaduras e Escudos Especiais\n\n- **Escudo (de aço reforçado) (8 PS):** +2 CA.\n- **Broquel de Antebraço (40 PS):** (Item Especial). +1 CA. Preso ao antebraço, permite usar armas de **Duas Mãos**. (Não acumula com escudo normal).\n- **Cota de Talas (100 PS):** CA 17. Pesada (Exige For 15, Desv. Furtividade).\n- **Peitoral de Aço (180 PS):** CA 16 + Mod. Destr. (máx 2).\n- **Escudo grande (180 PS):** +3 na CA. Perde metade do movimento (apenas mod força 15 ou mod destreza 16 podem usar)."
+ },
+ {
+  "id": "p0201",
+  "pergunta": "O que acontece com o fragmento mágico vegetal no instante em que é comprimido sobre o gume de uma arma?",
+  "pedaco": "[Nota: Mercante Mago | Pasta: mercado do continente novo/mercantes viajantes | Seção: Poções e Runas (Consumíveis)]\n### Poções e Runas (Consumíveis)\n\n- **Poção do Ajudante Efêmero (22 PS):** (Ele tem 1d4). Ação: Beber. Conjura um *Servo Invisível* (como a magia) que obedece ao bebedor por **10 minutos**.\n- **Runa de Papel (Chama) (55 PS):** (Ele tem 1d4-1). Ação: Pressionar este papel rúnico contra uma arma. O papel se desintegra. Pelos próximos **10 minutos**, a arma causa **+1d4 de dano de Fogo** a cada acerto.\n- **Runa de Papel (Gelo) (55 PS):** (Ele tem 1d4-1). Ação: Pressionar este papel rúnico contra uma arma. O papel se desintegra. Pelos próximos **10 minutos**, a arma causa **+1d4 de dano de Frio** a cada acerto.\n- **Pó de Diamante (pequena bolsa) (55 PS):** (Ele tem apenas 1). Um componente material caro."
+ },
+ {
+  "id": "p0098",
+  "pergunta": "Quais determinações de confidencialidade o Mestre da Guilda impõe aos aprovados em seu gabinete particular?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Sessão 1 - Ato 3: O Veredito e a Recompensa Inesperada]\n**Zoldrack (revirando os olhos):** \"Ah, qual é. É só um teste de campo. Eles precisam saber o que os espera no mundo real.\"\n\n**Mestre da Guilda:** \"Dê a eles uma colher de chá hoje. Você poderá tentar matá-los em outro dia.\"\n\nZoldrack suspira, como se estivesse entediado.\n\n**Zoldrack:** \"Tudo bem, tudo bem. Mas que fique claro: quem quer matar eles é o dragão, não eu. Eu os deixarei em paz.\" Ele dá um tapinha no pescoço do dragão. \"Vamos, garoto. Deixa pra depois.\"\n\nO dragão fita o grupo com ódio e fala, sua voz uma mistura de silvo e trovão: **\"Isso não acabou. Quando eu atingir minha idade adulta, caçarei cada um de vocês. E então, terão o fim que merecem.\"**\n\nCom um bater de asas poderoso, Zoldrack e o dragão sobem aos céus e desaparecem.\n\n**Cena 5: Bem-vindos à Guilda**\n\nO Mestre da Guilda se vira para os jogadores, sua expressão agora serena.\n\n**Mestre da Guilda:** \"Perdoem a interrupção. Vamos para minha sala.\"\n\nNo escritório, ele os aprova oficialmente como heróis da guilda, entregando suas novas insígnias. Ele lhes mostra um quadro com várias missões já disponíveis.\n\n**Mestre da Guilda:** \"Quanto ao que aconteceu lá fora... aquilo não aconteceu. Zoldrack não esteve aqui. Vocês não viram um dragão. Somos uma guilda de heróis, não uma fonte de pânico para o reino. O silêncio de vocês é obrigatório.\""
+ },
+ {
+  "id": "p0052",
+  "pergunta": "Quais opções morais os heróis enfrentam na sinopse de O Manto de Crepúsculo?",
+  "pedaco": "[Nota: O Reino de Barkus | Pasta: Missões do mundo | Seção: O Reino de Barkus]\n# O Reino de Barkus\n\n<aside>\n💡\n\nmissao lendaria 80PS DE PREMIO\n\n</aside>\n\n[[Tabelas de Acesso Rápido (Barkus)]]\n\n### **Aventura de D&D: O Manto de Crepúsculo**\n\n**Sinopse da Aventura:**\nNa borda leste da [[Floresta Velha|Floresta Antiga]], a autodenominada \"[[Cidade do Rei Barkus]]\" sofre sob uma maldição de escuridão. O grupo é contratado pelo rei para eliminar uma suposta célula terrorista chamada \"A [[Luz da Alvorada]]\". Contudo, eles rapidamente descobrem que o rei é um peão nas mãos de Zoldrack, um nefasto agente da Liga do Caos, e que os \"terroristas\" são a única esperança da cidade. Os heróis se encontram em uma encruzilhada moral: seguir as ordens por ouro e poder, mergulhando a cidade em um desespero eterno, ou arriscar tudo para se aliar à resistência e tentar acender uma chama em meio à noite sem fim.\n\n**Localização:** A Cidade do Rei Barkus, um assentamento murado de tamanho médio, aninhado em um vale úmido e sombrio na extremidade leste da Floresta Antiga.\n\n---"
+ },
+ {
+  "id": "p0176",
+  "pergunta": "Qual divindade habita e rege a Floresta Velha ao lado dos druidas?",
+  "pedaco": "[Nota: Religião do Reino | Pasta: grupos da continente antigo | Seção: Outros deuses do mundo]\n## Outros deuses do mundo\n\nExistem e continuam existindo ao lado do principal:\n- O **deus do verde**, morada da [[Floresta Velha]] e dos druidas.\n- Uma **divindade da natureza**, em santuários de pedra (oferenda dá Inspiração).\n- Uma **divindade do inverno**, em santuários de gelo (oferenda garante passagem segura).\n\n---"
+ },
+ {
+  "id": "p0015",
+  "pergunta": "Qual é a CD exigida no teste de Enganação para mentir ao Sr. K dizendo que caçam elementais em A Mulher do Rio?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Cena 3: O Jogo da Sabotagem (Interação/Decisão)]\n- **Opção 1: Contar a Verdade (Arriscado)**\n    - Eles explicam sobre Kael e a mulher-rio.\n    - **Consequência:** Os olhos de Sr. K se arregalam. \"Uma... mulher-rio? Então a fonte do problema é *mágica* e *móvel*.\" Isso complica o trabalho dele, mas também o foca. Ele agora sabe que não pode apenas bloquear uma caverna; ele precisa impedir que os heróis interajam com esse casal. \"Obrigado pela informação. Agora, infelizmente, tenho que garantir que vocês não cheguem até ela.\" Ele pode usar uma bomba de fumaça para fugir e tentar armar uma armadilha mais à frente, ou até correr para tentar chegar ao casal primeiro e oferecer-lhes \"proteção\" (para mantê-los longe do rio).\n- **Opção 2: Mentir (Enganação - CD 14)**\n    - \"Estamos apenas perdidos.\" / \"O Ancião nos enviou para caçar os elementais que atacaram a vila.\"\n    - **Consequência (Falha):** Sr. K zomba. \"Mentira. Ninguém passa por aquele puzzle de pedras só para 'caçar'. Vocês estão indo para a fonte do problema. E eu estou aqui para dizer: parem.\"\n    - **Consequência (Sucesso):** Sr. K estreita os olhos, incerto. \"Seja. Mas este território é perigoso. Se eu fosse vocês, daria meia-volta.\" Ele os deixa passar, mas os **seguirá das sombras** (ele fará testes de Furtividade contra a Percepção Passiva do grupo) para ver o que eles realmente descobrem.\n- **Opção 3: Intimidar ou Subornar**\n    - **(Intimidação CD 15):** \"Quem é você para nos dar ordens? Saia do nosso caminho ou faremos você sair.\""
+ },
+ {
+  "id": "p0042",
+  "pergunta": "Quantos PV restam ao druida ao retornar à forma humana após a forma lupina?",
+  "pedaco": "[Nota: As Vozes que se Calam | Pasta: Missões do mundo | Seção: Morte e Transição (Druida Humano)]\n### **Morte e Transição (Druida Humano)**\n\n- **Gatilho:** Quando o Druida Lobo atinge 0 Pontos de Vida em sua forma lupina.\n- **Efeito:** Ele **não morre imediatamente**. Em vez disso, sua forma lupina se dissipa em uma explosão de energia estelar, e ele retorna à sua **forma humana**, gravemente ferido e cambaleante, com **20 PV** restantes.\n- **Ação Final: Espada da Constelação (Uma única utilização)**\n    - **Ataque:** Na sua próxima (e última) ação em forma humana, ele tenta um **único ataque desesperado** com uma espada etérea feita de luz estelar.\n    - **Alvo:** Um único inimigo.\n    - **Ataque:** **+6** para acertar\n    - **Dano:** **4d6** de dano mágico de força (média: 14 de dano)."
+ },
+ {
+  "id": "p0117",
+  "pergunta": "Qual atitude supersticiosa muitos praticantes de magia exercem sobre a estátua dos heróis da cidade em busca de sorte?",
+  "pedaco": "[Nota: Cadáver Colossal | Pasta: cidades e reinos | Seção: outros]\n# outros\n\nna cidade a uma grande estatua dos herois que mataram o monstro, eles são praticamente idolatrados e muitas magos gostam de dar tapas nos herois como forma de ganhar sorte\n\n# npcs importantes"
+ },
+ {
+  "id": "p0061",
+  "pergunta": "Quais são as três condições necessárias para reduzir os pontos de controle e alcançar a Vitória pela Redenção do Rei Barkus?",
+  "pedaco": "[Nota: O Reino de Barkus | Pasta: Missões do mundo | Seção: O Caminho da Aliança (O Caminho Bom)]\n- **Vitória pela Destruição:** Eles focam seus ataques para matar barkus, vencendo barkus morre e zoldrack se revela e foge, porem com poucas cachorros humanoides sobreviventes, a cidade esta a beira do colapso e a raça a beira da extinção, zoldrack foi o vitorioso\n- **Vitória pela Redenção:** Eles focam em salvar o Rei. (esse final so é possivel usando as armas do gael) Eles o atacam com as armas de Gael (reduzindo 1 ponto de \"Controle\"), diminuem sua vida para menos da metade (reduzindo 1 ponto) e usam suas ações para apelar à sua antiga nobreza (Teste de Persuasão CD 15 para reduzir 1 ponto). Ao zerar os  pontos de controle, a transformação ocorre. O pelo branco de Barkus se incendeia em **escarlate e dourado**. Os golens de gelo se tornam **Espíritos de Fogo** aliados. Ele libera uma onda de **fogo curativo (4d8+4 PV para os aliados)** que revive os rebeldes caídos. O Rei Barkus redimido se vira para Zoldrack.\n\n    > Rei Barkus (com voz trovejante): \"ZOLDRACK! Por seus crimes contra [[Lykoria]]... contra meu povo... sua escuridão morre hoje!\"\n    Zoldrack, genuinamente irritado, rosna \"Isso ainda não acabou, vira-lata glorificado!\" e foge às pressas.\n    > \n- A Cidade do Rei Barkus é salva. O primeiro nascer do sol em meses é um evento emocionante.\n- Se Barkus for redimido, o grupo ganha um poderoso e leal aliado, agora um rei avatar do fogo sagrado."
+ },
+ {
+  "id": "p0338",
+  "pergunta": "Qual é a relação de disputa tecnológica entre o Distrito do Vapor e o Distrito da Carga na chamada Guerra das Correntes?",
+  "pedaco": "[Nota: 🗺️ Índice de Locais | Seção: [[Engenharia]] — Cidade Tecnológica]\n### [[Engenharia]] — Cidade Tecnológica\n\n- **Região:** Centro-norte do continente\n- **Governo:** The Queen (autonomia dentro do Reino)\n- **Resumo:** Metrópole steampunk com aversão à magia. Policíada por Golems de Engrenagem. Dividida pela \"Guerra das Correntes\" (vapor vs eletricidade).\n- **Distritos:** Vapor ([[Balthazar Vulk|Mestre Balthazar Vulk]]) e Carga ([[Isadora Volt]]).\n- **Pontos:** Praça da Eficiência (estátuas do Rei e da Queen), Agulha de Platina (Queen), Academia de Inovação, Mercado de Sucata, Taverna A Válvula Enferrujada."
+ },
+ {
+  "id": "p0337",
+  "pergunta": "Qual é a relação política entre o Rei Theo IV e Lorde Baldur no governo de Theragon?",
+  "pedaco": "[Nota: 🗺️ Índice de Locais | Seção: 🗺️ Índice de Locais]\n# 🗺️ Índice de Locais\n\n> Índice completo de todos os locais do mundo. Use Ctrl+F para buscar rapidamente.\n> \n\n---\n\n## 🏛️ CIDADES PRINCIPAIS\n\n### [[Theragon]] — Capital do Leão\n\n- **Região:** Centro do Continente Médio\n- **Governo:** [[Rei Theo|Rei Theo IV]] (manipulado por [[Lorde Baldur|Baldur]])\n- **Resumo:** Capital reconstruída sobre as cinzas da era do Monstro Colossal. Muralhas brancas, castelo no ponto mais alto. Distritos: Mercado do Martelo (comércio), Praça do Herói (social), Alameda dos Sussurros (arcano), Distrito Militar.\n- **Pontos importantes:** Forja do Leão ([[Borin]]), Empório do Viajante, Taverna A Lança Quebrada, Estalagem O Descanso do Rei, Mural do Protetor, Torre dos Magos ([[Arquimaga Leona|Leona]]), Caldeirão Borbulhante ([[Pippa]]).\n- **Sob a cidade:** [[RPG - Novo Antigo Continente/Bastilhão Imemorial]] (a Grande Masmorra). De conhecimento geral, de acesso impossível."
+ },
+ {
+  "id": "p0103",
+  "pergunta": "Em qual setor militar de Theragon está localizada a única entrada do Bastilhão Imemorial?",
+  "pedaco": "[Nota: Bastilhão Imemorial | Pasta: cidades e reinos | Seção: 🚪 O que se vê de fora]\n## 🚪 O que se vê de fora\n\nEntrada única, no centro do Distrito Militar de [[Theragon]]. Fortaleza de basalto negro, sem janelas — só seteiras estreitas e gárgulas vigilantes. Portão único: laje de ferro e adamante, coberta de runas de aprisionamento que brilham com luz fria.\n\nGuarda: os [[Vigias do Silêncio]], a elite carcerária. Guerreiros e magas que fazem voto de silêncio, treinados para conter ameaça mágica. Aproximação não autorizada é recebida com força letal e silenciosa.\n\n---"
+ },
+ {
+  "id": "p0328",
+  "pergunta": "Quais funções e trabalhos punitivos o reino atribui à Sombra do Doutor Alistair?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Doutor Alistair|Sombra do Doutor Alistair]]]\n### [[Doutor Alistair|Sombra do Doutor Alistair]]\n\n- **Local:** Bastilhão Imemorial (Níveis inferiores)\n- **Resumo:** Manifestação de um cientista genial. Usada pelo reino como carrasco para encobrir segredos."
+ },
+ {
+  "id": "p0247",
+  "pergunta": "Quais comportamentos e traços compõem a personalidade sarcástica do Senhor K durante suas negociações?",
+  "pedaco": "[Nota: Sr. K | Pasta: npcs importantes lore | Seção: Sr. K]\n# Sr. K\n\n**Senhor K, o Advogado Arcano**\n\n**Conceito:** No submundo das guildas e nos salões empoeirados do poder, sussurram o nome de um homem que transformou a lei em uma arma: Senhor K. Ele é, para todos os efeitos, o primeiro e talvez o único advogado desta era, um mestre em explorar brechas em contratos mágicos e decretos reais com a mesma facilidade com que um ladrão arromba uma fechadura.\n\n**Personalidade:** A cordialidade de K é uma fina camada de verniz sobre um poço de veneno e sarcasmo. Ele tem o dom de encontrar a insegurança de qualquer um e transformá-la em uma piada cruel, muitas vezes com um sorriso largo no rosto. Comentários como *\"Sua perspicácia me lembra sua mãe; ela também não tinha nenhuma\"* são sua marca registrada, uma tática para desequilibrar clientes e rivais antes mesmo que a negociação comece.\n\n**Métodos e Poderes:**"
+ },
+ {
+  "id": "p0067",
+  "pergunta": "Quantos combatentes não-humanos estão envolvidos na luta na nascente em Sangue Dourado na Nascente?",
+  "pedaco": "[Nota: Sangue Dourado na Nascente | Pasta: Missões do mundo | Seção: Gancho de entrada]\n### Gancho de entrada\n\nO grupo, viajando por terreno aberto, chega numa nascente de rio e encontra um combate **já em andamento**. De um lado, 5 a 6 humanos com armadura de ouro — completa em um ou dois, parcial no resto. Do outro, um grupo de 3 a 4 aventureiros não-humanos (espécie livre para decidir na mesa) que claramente sabem lutar: magias, técnicas, nada de vítimas indefesas.\n\n**Os jogadores não têm contexto nenhum.** Não sabem quem começou o confronto, não sabem os motivos, e essa informação nunca vai ser revelada de forma confiável. É esse vazio que sustenta a cena."
+ },
+ {
+  "id": "p0053",
+  "pergunta": "Qual animal estampa o selo de cera na carta do Rei Barkus na guilda?",
+  "pedaco": "[Nota: O Reino de Barkus | Pasta: Missões do mundo | Seção: Parte 1: O Contrato e a Chegada Sombria]\n### **Parte 1: O Contrato e a Chegada Sombria**\n\n**(Esta parte é a mesma para ambos os caminhos)**\n\n**Cena 1: A Guilda de Heróis**\nNo quadro de missões, um pergaminho de qualidade impecável se destaca. O selo de cera exibe a efígie de um lobo uivante.\n\n> Texto do Pergaminho: \"Ao nobre que ler, No reino do grande [[Rei Barkus]], a leste da Floresta Antiga, terroristas que se autodenominam 'A Luz da Alvorada' conspiram contra a coroa e ameaçam a paz de nosso povo. Contrato heróis de renome a fim de ajudar o grande rei nesta situação delicada. A recompensa será discutida pessoalmente, mas será generosa. Assinado, Rei Barkus.\"\n> \n\nAo aceitarem, [[Barnaby]], o mordomo que administra a guilda, os direciona a um mensageiro que aguarda impacientemente. [[Rocco Roedor]], um humanoide canino esguio, os avalia com um olhar. *\"Finalmente. O Rei não gosta de esperar. Peguem o que precisam. Partimos imediatamente.\"*\n\n**Cena 2: A Viagem e a Chegada**\nA viagem é tensa. Rocco mal fala, respondendo a perguntas com monossílabos. A paisagem se torna mais sombria à medida que se aproximam da Floresta Antiga, sob cujas árvores a luz do sol parece lutar para penetrar. Eles chegam a um vale onde se assenta a cidade. Rocco os deixa nos portões. *\"Esperem aqui. Vou anunciar sua chegada.\"*\n\n**Cena 3: A \"Boas-Vindas\"**\nTrês guardas, os **\"Olhos do Rei\"**, se aproximam. Eles são brutamontes com armaduras malcuidadas."
+ },
+ {
+  "id": "p0225",
+  "pergunta": "De que forma as lágrimas da dama fluvial provocam tempestades que auxiliam no confronto da anomalia árida?",
+  "pedaco": "[Nota: Lívia | Pasta: npcs importantes lore | Seção: A verdade]\n## A verdade\n\nO [[Ancião Garrick]] a chama de bruxa e súcubo das águas. Não é nada disso.\n\nEla **não sabia** que o rio era ela. Ao assumir forma humana, secou o rio sem querer, e a seca atraiu os elementais de pó e o Elemental Gigante (o Lamento da Seca).\n\nA magia dela é instável e reage ao medo, à culpa e à confusão. Quando entende o que fez, o choro dela invoca a **chuva torrencial** que enfraquece o elemental (vulnerável a Frio e Elétrico).\n\n---"
+ },
+ {
+  "id": "p0177",
+  "pergunta": "Por qual razão a definição da natureza do deus principal ajudaria a justificar os milagres de ressurreição e a exigência de servidão?",
+  "pedaco": "[Nota: Religião do Reino | Pasta: grupos da continente antigo | Seção: ❓ Perguntas em aberto]\n## ❓ Perguntas em aberto\n\n- ⚠️ **Qual é o nome do deus principal?** Ainda não foi pensado.\n- ⚠️ **Do que ele é deus?** Ainda não foi pensado. Explica por que o poder dele é reviver e o preço é servidão.\n- ⚠️ **Como a Igreja vê os outros deuses?** Aceita, ignora ou combate?"
+ },
+ {
+  "id": "p0233",
+  "pergunta": "Qual é a disparidade entre a verdade que o mestre conhece sobre Noctarion e os boatos espalhados no cenário?",
+  "pedaco": "[Nota: Noctarion | Pasta: npcs importantes lore | Seção: 🔒 Nota do Mestre]\n### 🔒 Nota do Mestre\n\nTudo acima é o que os pergaminhos dizem, e o próprio texto avisa que é especulação. **Para o mestre: é verdade.** Noctarion criou mesmo o Monstro Colossal, e a missão dele de sabotar a evolução humana é real.\n\nNo mundo, porém, nada disso passa de teoria. Nenhuma dessas afirmações foi provada, e a única certeza pública é que ele é um vampiro e causa caos. Um jogador que investigar vai achar convicção, não evidência.\n\n---"
+ },
+ {
+  "id": "p0245",
+  "pergunta": "Quais serviços os aventureiros costumam procurar com a Sacerdotisa Mira quando estão em Porto Altheris?",
+  "pedaco": "[Nota: Sacerdotisa Mira | Pasta: npcs importantes lore | Seção: 🎭 Na mesa]\n## 🎭 Na mesa\n\nEla é a curandeira dos jogadores. Toda vez que o grupo procura cura ou bênção em [[Porto Altheris]], é com ela que falam — e é assim que a missão **[[A Mulher do Rio]]** abre: a água benta falha, porque a fonte secou.\n\nO grupo pode viver a campanha inteira sem suspeitar de nada. Se algum deles for não-humano, está na lista dela desde o primeiro dia.\n\n---"
+ },
+ {
+  "id": "p0361",
+  "pergunta": "Que masmorra nominal foi indicada como a única do gênero ainda totalmente desprovida de documentação?",
+  "pedaco": "[Nota: 🗺️ Índice de Locais | Seção: 📌 PENDÊNCIAS DESTE ÍNDICE]\n## 📌 PENDÊNCIAS DESTE ÍNDICE\n\n- ⚠️ **Cidade pequena perto das ruínas antigas:** página vazia, falta tudo.\n- ⚠️ **Dungeon das Serpentes Humanas:** página vazia, única dungeon nominal do RPG.\n- ⚠️ **Cadáver Colossal vs Esqueleto do Monstro Colossal (Planícies Cinzentas):** podem ser o mesmo local descrito em duas páginas. Verificar e fundir.\n- ⚠️ **A Torre Infinita:** aparece como flavor mas sem documentação própria.\n- ⚠️ **Ilhas do Oriente, Planícies Cinzentas, Ruínas do Reino Caído:** mencionadas só dentro de missões, sem página própria.\n\n*Última atualização: 07/09/2026*"
+ },
+ {
+  "id": "p0106",
+  "pergunta": "Que benefício místico o mercador errante pretende absorver da armadura repousada no quinto pavimento da masmorra?",
+  "pedaco": "[Nota: Bastilhão Imemorial | Pasta: cidades e reinos | Seção: 🎣 Como o Bastilhão entra em jogo]\n## 🎣 Como o Bastilhão entra em jogo\n\n- **[[Tibio, o Negociador — A Prisão de Theragon]]** — o Ato II é a infiltração inteira, nível por nível. A Armadura Soberana do Nível 5 guarda poder acumulado, e é esse poder que o [[Tibio]] quer absorver.\n- **O plano do [[Lorde Baldur]]** — ele já usou sua influência para ganhar acesso aos **registros da prisão**, e estuda a fraqueza das celas e dos monstros. O plano de longo prazo é uma \"falha de segurança\" catastrófica: soltar o caos no coração da cidade e desestabilizar o reinado do [[Rei Theo]] de uma vez.\n- **Reputação 200+ (Herói Imortal)** — na tabela do [[⚖️ Sistema de Reputação e Moralidade]], esse patamar dá \"acesso ao Bastilhão\".\n\n---"
+ },
+ {
+  "id": "p0074",
+  "pergunta": "Quais são os termos e a punição mortal explicados por Tibio ao firmar a Maldição do Contrato?",
+  "pedaco": "[Nota: Tibio, o Negociador — A Prisão de Theragon | Pasta: Missões do mundo | Seção: Tibio, o Negociador — A Prisão de Theragon]\n**Cena 3: A Maldição do Contrato**\nNo momento em que o grupo cede, mesmo que com relutância, o pacto é selado. O **\"Cronômetro da Alma\"** irrompe em suas mãos como uma tatuagem mágica dolorosa, exibindo uma contagem regressiva. Tibio, agora com a frieza de um credor, explica os termos: eles foram amaldiçoados e agora são forçados a levar sua essência (a \"Fita Anímica\") até a **Armadura Soberana** no fundo da prisão mais segura do reino antes que o tempo acabe, sob pena de definharem até a morte por exaustão."
+ },
+ {
+  "id": "p0147",
+  "pergunta": "O que o Conjurador Errante está estudando ao ser encontrado na região gélida?",
+  "pedaco": "[Nota: Região Gélida | Pasta: encontros aleatorios | Seção: região gelida]\n| 9 | **Conjurador Errante** | Um mago ou feiticeiro envolto em peles, estudando o fluxo de mana. Pode ser amigável ou hostil, vendo os jogadores como rivais. |\n| 10 | **Sinais do Monstro** | Pegadas gigantes e não humanas, fundidas no gelo como se fossem feitas de calor extremo. Árvores próximas estão petrificadas. É um sinal do \"Adaptável\". |\n| 11 | monstro de gelo | monstro aleatorio de gelo na trilha |\n| 12 | **Posto Avançado Abandonado** | Uma pequena torre de vigia ou cabana de caça abandonada às pressas. Um diário pode revelar o que fez os antigos ocupantes fugirem. |\n\nExportar para as Planilhas"
+ },
+ {
+  "id": "p0116",
+  "pergunta": "Quais benefícios e privilégios são usufruídos por aqueles que participam da Associação dos Magos?",
+  "pedaco": "[Nota: Cadáver Colossal | Pasta: cidades e reinos | Seção: ECONOMIA DO LOCAL]\n# ECONOMIA DO LOCAL\n\ntodo o local e sustentado pelos mais ricos, existem uma associação dos magos aonde muitos magos participam para ganhar beneficios, e acesso ao corpo do monstro, tbm as faculdades da magias são pagas, e isso ajuda a sustentar uma pequena vila local, que e cheia de estudantes dos mais diversos tipos, os que fazem parte da associação ganham beneficios na cidade."
+ },
+ {
+  "id": "p0003",
+  "pergunta": "Qual aventura pronta envolve Theragon na lista de Missões do mundo?",
+  "pedaco": "[Nota: Missões do mundo | Seção: Missões do mundo]\n# Missões do mundo\n\n# Missões (prontas)\n\n[[O Reino das Cabras]]\n\n[[A Mulher do Rio]]\n\n[[O Reino de Barkus]]\n\n[[Tibio, o Negociador — A Prisão de Theragon]]\n\n[[As Vozes que se Calam]]\n\n---\n\n# Missões (ideias / em desenvolvimento)\n\n[[A Nova Tecnologia]]\n\n[[Proteger Árvore Sagrada|Proteger  Árvore Sagrada]]\n\n[[Sangue Dourado na Nascente]]\n\n---"
+ },
+ {
+  "id": "p0334",
+  "pergunta": "Que ato de vandalismo agrário pode ser executado pelos aventureiros para demonstrar fidelidade às queixas da eremita?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: 🐐 NPCs DA MISSÃO \"REINO DAS CABRAS\"]\n## 🐐 NPCs DA MISSÃO \"REINO DAS CABRAS\"\n\n### [[Capitã Undyne]] *(também listada em Igreja)*\n\n- **Função aqui:** Persegue Asriel mas não entra na Floresta Velha.\n\n### [[Garth]]\n\n- **Local:** Condado dos Druidas\n- **Função:** Fazendeiro\n- **Resumo:** Acusado por Vovó Amora de roubar suas plantas. Sua fazenda pode ser destruída como prova para Amora.\n\n---"
+ },
+ {
+  "id": "p0292",
+  "pergunta": "De que modo Zoldrack costuma intervir em locais públicos mesmo sem possuir registros comprovados de suas ações?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Zoldrack]], o Caos Imortal]\n### [[Zoldrack]], o Caos Imortal\n\n- **Local:** Itinerante\n- **Espécie:** Humano imortal\n- **Resumo:** Codinome \"Matador de Humanos\". Membro suposto da Liga do Caos. Só mata se gerar caos. Aparece publicamente quando quer."
+ },
+ {
+  "id": "p0026",
+  "pergunta": "Qual objeto Lívia pede para entregarem a Kael quando ele acordar?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Cena 2: Os Presentes de Despedida]\n### **Cena 2: Os Presentes de Despedida**\n\nLívia se vira para os aventureiros.\n\n**(Se os heróis seguiram o caminho pacífico e não atacaram Kael no início do Ato 3):**\n\n> Lívia: \"Vocês podiam ter usado a força. Mas escolheram palavras. Tentaram entender. Mesmo quando meu amor parecia um monstro... vocês hesitaram. Por isso, eu lhes agradeço.\"\nEla estende a mão. A garoa ao seu redor se condensa em sua palma, formando um cristal sólido e azul-pálido, que pulsa com uma luz suave, como uma lágrima congelada.\nLívia: \"Um Cristal da Lágrima-de-Lua. É o último presente que minha forma humana pode dar. Que ele os proteja.\"\n(Isso pode ser um item mágico, como uma Poção de Cura Superior de uso único, ou um item que concede a bênção de Respirar na Água por 24 horas.)\n> \n\n**(Para todos):**\nEla então retira um simples colar de seu pescoço, feito de pedras de rio polidas que Kael deve ter feito para ela.\n\n> Lívia: \"Eu não posso... eu não posso me despedir. Dói demais. Quando ele acordar, por favor, entreguem isto a ele.\"\nEla coloca o colar nas mãos de um dos aventureiros.\nLívia: \"E digam-lhe... digam-lhe para 'continuar cantando ao rio'. Mesmo que eu não possa mais responder... eu estarei ouvindo.\"\n>"
+ },
+ {
+  "id": "p0109",
+  "pergunta": "De que forma a abominação de escala monumental empurrou a civilização continental para perto do aniquilamento total?",
+  "pedaco": "[Nota: Cadáver Colossal | Pasta: cidades e reinos | Seção: cadaver colossal]\n# cadaver colossal\n\n### **O Cataclismo de um Século Atrás**\n\nHá quase um século — a Segunda Era, de −20 a 0 CA.U — [[Noctarion]] liberou sua mais terrível criação: um demônio gigante, do tamanho de castelos. Este Monstro Colossal não caçava ativamente, mas sua mera existência era uma força de destruição, aniquilando cidades e reinos inteiros em seu caminho e matando milhares de pessoas no processo. A estrutura da sociedade medieval do continente foi levada à beira do colapso total."
+ },
+ {
+  "id": "p0229",
+  "pergunta": "De que modo a entidade transcendental extermina divindades e séculos caso o desenvolvimento ultrapasse os limites?",
+  "pedaco": "[Nota: Noctarion | Pasta: npcs importantes lore | Seção: ❖ A Revelação dos Céus]\n### ❖ A Revelação dos Céus\n\nAnos mais tarde, Noctarion enfrentou um deus enlouquecido, que buscava exterminar a humanidade como um ato de vingança. Ele o derrotou, mas nas últimas palavras desse ser divino, um segredo obscuro foi revelado:\n\n> \"Existe algo acima de nós. Um ser que observa, espera e consome. Quando o mundo evolui demais, ele apaga tudo — deuses, mortais, o próprio tempo — e reinicia o ciclo. De novo. Para sempre.\"\n> \n\nAtormentado e fascinado, **Noctarion passou décadas mergulhado em estudos arcanos, profecias esquecidas e tratados proibidos**, investigando obsessivamente a existência dessa entidade cósmica e seus efeitos sobre a realidade.\n\n---"
+ },
+ {
+  "id": "p0121",
+  "pergunta": "Quais serviços adicionais e propósitos de memorial a taverna de Griselda oferece aos que frequentam Last Hope Camp?",
+  "pedaco": "[Nota: Cadáver Colossal | Pasta: cidades e reinos | Seção: 3. Outros NPCs Importantes]\n### **3. Outros NPCs Importantes**\n\n- **A Veterana:**\n    - **Nome:** [[Griselda|Griselda \"Ferro Velho\"]]\n    - **Descrição:** A dona da taverna mais popular de \"[[Last Hope Camp]]\". Uma anã de meia-idade com um braço mecânico movido a vapor e um olhar que já viu de tudo.\n    - \n\n        **História:** Griselda foi uma das primeiras mineradoras a explorar o interior do monstro. Perdeu seu braço e sua equipe em uma das \"áreas perigosas\" devido a uma bolha de mana.  Em vez de ir embora, ela abriu uma taverna que serve como ponto de encontro, banco de informações e memorial para os que se perdem lá dentro. Ela não confia nos magos e em seus jogos de poder, e pode oferecer missões e conselhos práticos para os jogadores, sendo uma aliada inesperada e com os pés no chão.\n\n- **O Associado Ambicioso:**\n    - **Nome:** [[Lucian Vane]]\n    - \n\n        **Descrição:** Um jovem mago bem-vestido, membro da \"[[Associação dos Magos]]\".  Ele é charmoso, mas seu sorriso nunca alcança os olhos.\n\n    - "
+ },
+ {
+  "id": "p0157",
+  "pergunta": "Quais organizações com 'Liga' em sua denominação constam entre os grupos do continente antigo?",
+  "pedaco": "[Nota: grupos da continente antigo | Seção: grupos da continente antigo]\n# grupos da continente antigo\n\n[[A Ordem]]\n\n[[Druidas da Floresta Velha]]\n\n[[A Igreja]]\n\n[[Guilda dos Heróis]]\n\n[[Nova Liga do Crime]]\n\n[[Liga do Caos]]\n\n[[A Guarda Real]]\n\n[[Cabras do Mundo dos Sonhos]]"
+ },
+ {
+  "id": "p0084",
+  "pergunta": "Qual argumento financeiro o misterioso indivíduo apresenta para justificar levar consigo o veículo naval destruído?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Desfecho]\n### **Desfecho**\n\nSe os heróis conseguirem impedir a colisão, quase encostando na ilha, o “herói” misterioso reaparece no céu. Seu tom agora é de surpresa e leve irritação:\n\n> — Uau... Vocês nem são heróis de verdade ainda, mas conseguiram impedir meu plano. Impressionante.\n> \n> \n> Vou deixar essa vitória com vocês… por enquanto. Um presente meu.\n> \n> Matar vocês agora não teria graça… nem me daria pontos.\n> \n> Mas saibam que, quando se tornarem heróis profissionais, **serei o primeiro a parabenizá-los**… pessoalmente.\n> \n\nEle então olha para o barco, visivelmente destruído:\n\n> — Hmph… mesmo detonado, esse barco ainda tem valor. Vou levá-lo. Consertá-lo. Barcos estão absurdamente caros hoje em dia!\n> \n\nEle injeta algo em si mesmo. Seu corpo brilha com uma aura roxa, e ele começa a levitar o barco com o poder da mente. Enquanto flutua, diz:\n\n> — Boa sorte na prova! Hahahaha!\n> \n\nEntão, ele se **teletransporta** junto com o barco.\n\nLogo após sua partida, **um homem musculoso vestindo trajes de mordomo aparece**, vindo da base da Guilda. Com uma expressão severa mas calma, diz:\n\n> — Ah, que bom que chegaram. Os atrasados sempre acham um jeito de passar pelo portão, não é?\n> \n> \n> Venham. A prova já vai começar.\n> \n\nEle os guia até a entrada da base, encerrando o primeiro ato da sessão.\n\n**Ato 2 — A Prova de Qualificação**\n\n**Cena de Introdução: A Chegada na Guilda**\n\nOs heróis são recepcionados novamente pelo **mordomo da Guilda**, agora com uma expressão inquisitiva:"
+ },
+ {
+  "id": "p0028",
+  "pergunta": "Qual rio retorna a fluir após o sacrifício de Lívia em Vila Serena?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Cena 4: A Última Dança]\n### **Cena 4: A Última Dança**\n\nLívia dá um último olhar para Kael. \"Cuidem dele.\"\n\nEla começa a caminhar. Ela não volta para a gruta, mas segue o caminho do leito seco do rio, de volta em direção a Vila Serena. Os heróis podem decidir levá-la (e o Kael inconsciente) ou segui-la respeitosamente.\n\nEla não para até chegar à margem principal do rio que corta a vila, no mesmo lugar onde a menina Tessa a viu pela primeira vez.\n\nSob a garoa suave, Lívia para no centro do leito de poeira. Ela fecha os olhos. Ela não chora mais. Ela começa uma dança lenta e fluida, como a água correndo sobre pedras. Seus braços se movem como correntes, seu corpo ondula como ondas.\n\nOnde seus pés tocam, a terra rachada se torna lama escura. Então, seu corpo começa a se desfazer. Não com dor, mas com alívio. Suas pernas se dissolvem em água prateada, seu torso se torna uma correnteza. Com um último suspiro que soa como o vento no cânion, seu rosto se desfaz em uma torrente de água pura.\n\nO Rio das Lágrimas de Prata... voltou.\n\nA água corre, preenchendo o leito. O som da água corrente é o primeiro som de esperança que a vila ouve em semanas. Quase imediatamente, os sons distantes dos elementais atormentados cessam. Eles se dissolvem, sua agonia acalmada."
+ },
+ {
+  "id": "p0035",
+  "pergunta": "Quais pegadas e totens os aventureiros encontram durante a busca na floresta?",
+  "pedaco": "[Nota: As Vozes que se Calam | Pasta: Missões do mundo | Seção: As Vozes que se Calam]\nse assediarem um homem suspeito irão descobrir que ele era um tarado ladrão de calcinhas, porem ele não e o assassino, mas o grupo pode acabar prendendo ele \n\nna floresta ainda acharão pegadas de lobo gigante, e tambem de um humano\n\nna floresta irão encontrar totens que se desfazem em contato com o fogo\n\nna igreja da cidade irão descobrir de um clerigo uma lenda de um ser da floresta que sequestrava mulheres, os antigos usavam tochas e fogo para espantar a criatura\n\nas informações que podem ser adquiridas são que ele é um druida que tem poder de se tranformar em um lobo gigante e invocar poderes de espadas de energia\n\nele so age a noite\n\nele tem fraqueza contra fogo"
+ },
+ {
+  "id": "p0332",
+  "pergunta": "Qual posição de liderança o Ancião Garrick ocupa na Vila Serena?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: 🐟 NPCs DA MISSÃO \"MULHER DO RIO\"]\n## 🐟 NPCs DA MISSÃO \"MULHER DO RIO\"\n\n### [[Ancião Garrick]]\n\n- **Local:** Vila Serena\n- **Função:** Ancião e líder da vila\n- **Resumo:** Ombros largos, postura abatida. Acredita que Lívia é uma bruxa e Kael foi enfeitiçado. Paga generosamente os heróis após a missão."
+ },
+ {
+  "id": "p0194",
+  "pergunta": "Qual quantia um guerreiro deve investir para empunhar a haste de corte a distância conhecida como foice de guerra?",
+  "pedaco": "[Nota: Mercante Ferreiro | Pasta: mercado do continente novo/mercantes viajantes | Seção: Armas Marciais e Customizadas]\n### Armas Marciais e Customizadas\n\n- **Lança (1 PS):** 1d6 perfurante. Arremesso (20/60 pés), Versátil (1d8).\n- **Tridente (4 PS):** 1d8 perfurante. Arremesso (20/60 pés), duas mãos (1d10).\n- **Machadinha (4 PS):** 1d6 cortante. Leve, arremesso (20/60 pés).\n- **Bastão de Guerra Reforçado (10 PS):** (Item Especial). 1d8 concussão. Versátil (1d10).\n- **Espada Longa (12 PS):** 1d8 cortante. Versátil (1d10).\n- **Glaive / Foice de Guerra (14 PS):** 1d10 cortante. Pesada, alcance, duas mãos.\n- **Florete (Rapier) (15 PS):** 1d8 perfurante. Acuidade.\n- **Machado Grande (18 PS):** 1d12 cortante. Pesada, duas mãos."
+ },
+ {
+  "id": "p0306",
+  "pergunta": "Qual é a relação de Sirmus, o Paladino Cego, com o Clube de Pancadaria de Porto Altheris?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Sirmus|Sirmus, o Paladino Cego]]]\n### [[Sirmus|Sirmus, o Paladino Cego]]\n\n- **Local:** [[Porto Altheris]] (Clube de Pancadaria)\n- **Função:** Mestre de treino\n- **Resumo:** Olhos brancos/vendados, forte. Ama quem se esforça, odeia covardes."
+ },
+ {
+  "id": "p0006",
+  "pergunta": "Qual era o nome da cerveja famosa produzida no vilarejo do Ancião Garrick em A Mulher do Rio?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Cena 2: O Contrato do Ancião]\n### **Cena 2: O Contrato do Ancião**\n\nOs aventureiros são rapidamente levados ao salão comunal, onde o [[Ancião Garrick]] os espera. Ele é um homem de ombros largos, mas sua postura está abatida pela situação. Ele não mede palavras e sua voz é carregada de uma fúria justa e desesperada.\n\n> Relato de Garrick (a \"verdade\" dele): \"Bem-vindos a... bem, ao que sobrou. Nossa vila era famosa por uma coisa: a Lágrima de Prata, a melhor cerveja deste lado das montanhas. Tudo graças ao nosso rio. Mas agora ele se foi. Uma bruxa, uma súcubo das águas chamada Lívia, emergiu do rio e enfeitiçou nosso mais talentoso músico, Kael. Ele não era um bardo qualquer, era um mestre, capaz de encantar os pássaros das árvores! Ela torceu a mente dele, o transformou em seu escravo e o usou para roubar a própria essência do rio! E como se a sede não fosse maldição suficiente, a magia vil dela corrompeu a terra. Elementais de pó e rocha surgiram nos arredores, criaturas de pura agonia que atacam qualquer um que tente fugir. Estamos presos. Morrendo. Encontrem essa bruxa. Quebrem o feitiço sobre Kael e a forcem a devolver nossa água. Por bem... ou pela espada.\"\n> \n\n**A Missão é Clara:** Resgatar o \"poderoso bardo Kael\" e trazer o rio de volta, lidando com a \"bruxa Lívia\". A importância é elevada: não é apenas uma vila, é um centro de produção cuja paralisação afeta a economia de outras cidades."
+ },
+ {
+  "id": "p0020",
+  "pergunta": "O que o Ancião de Vila Serena afirmava sobre Lívia segundo os aventureiros contam no diálogo no oásis?",
+  "pedaco": "[Nota: A Mulher do Rio | Pasta: Missões do mundo | Seção: Ato 3: O Canto e a Tempestade]\n- **Opção A: Caminho Pacífico (Foco em Role-play)**\n    - Os jogadores baixam suas armas e tentam explicar. \"Não viemos machucar ninguém. Viemos de Vila Serena. O rio secou, Kael. As pessoas estão morrendo de sede. A cervejaria faliu. O Ancião acha que Lívia é uma bruxa que o enfeitiçou.\"\n    - Ao ouvir sobre a \"vila morrendo\", o rosto de Lívia se enche de horror. \"Secou? Morrendo? Mas... eu pensei que o rio era... eu. Eu só... eu não sabia.\"\n    - Kael permanece cético. \"Eles estão mentindo, meu amor! Querem te levar, te prender! Vila Serena nunca entendeu nossa música!\"\n- **Opção B: Caminho Agressivo (Foco em Combate Tático)**\n    - Os jogadores decidem que a negociação é inútil e atacam Kael.\n    - **Combate:** Kael é ágil (use estatísticas de **Bardo do Colégio das Espadas** ou **Swashbuckler**). Ele não luta para matar, mas para incapacitar e proteger Lívia. Ele usará *Duelo defensivo*, *Sussurros Dissonantes* para assustar, ou *Risada Histérica de Tasha* para neutralizar um membro do grupo. \"Vocês não vão levá-la!\"\n    - Lívia permanece protegida na cúpula, gritando para que parem."
+ },
+ {
+  "id": "p0037",
+  "pergunta": "Que objeto o druida abre antes de cair em As Vozes que se Calam?",
+  "pedaco": "[Nota: As Vozes que se Calam | Pasta: Missões do mundo | Seção: As Vozes que se Calam]\neu… eu sou um heroi, todos deveriam agradeçer a mim, eu fiz com que elas nunca ficassem feias, as eternizei, salvei de ficarem velhas e feias que nem as outras… eu ja vivi tanto seculos, tantas ficaram feias e nojentas, eu não permitirei, isso acontecer, seja com eu vivo… ou eu morto\n\nele abre um poçao roxa que ao abrir sai uma fumaça roxa dentro dela, \n\no grupo pode matar ou deixar ele vivo, mas ele ri dizendo que todos irão morrer"
+ },
+ {
+  "id": "p0279",
+  "pergunta": "De que maneira o desaparecimento enigmático das Cabras Humanoides intriga os estudiosos do continente?",
+  "pedaco": "[Nota: 🌍 Timeline do Mundo | Seção: 🐐 Era Primordial — Antes do Registro]\n## 🐐 Era Primordial — Antes do Registro\n\n*Sem data · O tempo antes do tempo*\n\nAntes de qualquer civilização conhecida, o mundo pertencia às **Cabras Humanoides** — seres cuja cultura, tecnologia e história foram completamente apagadas da memória coletiva. Não se sabe como surgiram, como viviam, nem o que as fez desaparecer.\n\nO que restou foram apenas ruínas sem nome, estruturas cuja função ninguém compreende, e um silêncio que os estudiosos mais ousados chamam de *o maior mistério não investigado do continente.*\n\n**O que ninguém sabe responder:** as Cabras simplesmente cederam espaço para as outras espécies — ou foram apagadas? E por que o único sobrevivente conhecido, [[Asriel]], carrega a Espada dos Sonhos?"
+ },
+ {
+  "id": "p0216",
+  "pergunta": "Qual assento secreto no conselho da Ordem é ocupado pela Sacerdotisa Mira nas costas de Angelina Trasseiro?",
+  "pedaco": "[Nota: Angelina Trasseiro | Pasta: npcs importantes lore | Seção: 🔒 O que ela não sabe]\n## 🔒 O que ela não sabe\n\nA [[Sacerdotisa Mira]], que trabalha na igreja dela, ocupa a cadeira do Clero da Ordem. Angelina não desconfia.\n\n---\n\n## ❓ Perguntas em aberto\n\n- ⚠️ **Quem é o Deus dela?** Ver [[Religião do Reino]]. Nome e domínio ainda não foram pensados.\n- ⚠️ **O Rei Theo se chama \"IV\".** Se a família é imortal, o que aconteceu com os três reis anteriores?"
+ },
+ {
+  "id": "p0210",
+  "pergunta": "Qual é a relação entre o Ancião Garrick e a liderança comunitária da Vila Serena?",
+  "pedaco": "[Nota: Ancião Garrick | Pasta: npcs importantes lore | Seção: Ancião Garrick]\n# Ancião Garrick\n\nTipo: NPC da missão [[A Mulher do Rio]]\n\n---\n\n## Quem é\n\nLíder da [[Vila Serena]]. Ombros largos, postura abatida e uma fúria \"justa e desesperada\". Não mede as palavras.\n\nContrata o grupo para resgatar o [[Kael]] e trazer o rio de volta, \"por bem ou pela espada\". A vila vive da Cervejaria Água Prateada, famosa pela cerveja Lágrima de Prata.\n\n---"
+ },
+ {
+  "id": "p0061",
+  "pergunta": "De que maneira a libertação do monarca canino afeta as criaturas de gelo presentes no confronto contra Zoldrack?",
+  "pedaco": "[Nota: O Reino de Barkus | Pasta: Missões do mundo | Seção: O Caminho da Aliança (O Caminho Bom)]\n- **Vitória pela Destruição:** Eles focam seus ataques para matar barkus, vencendo barkus morre e zoldrack se revela e foge, porem com poucas cachorros humanoides sobreviventes, a cidade esta a beira do colapso e a raça a beira da extinção, zoldrack foi o vitorioso\n- **Vitória pela Redenção:** Eles focam em salvar o Rei. (esse final so é possivel usando as armas do gael) Eles o atacam com as armas de Gael (reduzindo 1 ponto de \"Controle\"), diminuem sua vida para menos da metade (reduzindo 1 ponto) e usam suas ações para apelar à sua antiga nobreza (Teste de Persuasão CD 15 para reduzir 1 ponto). Ao zerar os  pontos de controle, a transformação ocorre. O pelo branco de Barkus se incendeia em **escarlate e dourado**. Os golens de gelo se tornam **Espíritos de Fogo** aliados. Ele libera uma onda de **fogo curativo (4d8+4 PV para os aliados)** que revive os rebeldes caídos. O Rei Barkus redimido se vira para Zoldrack.\n\n    > Rei Barkus (com voz trovejante): \"ZOLDRACK! Por seus crimes contra [[Lykoria]]... contra meu povo... sua escuridão morre hoje!\"\n    Zoldrack, genuinamente irritado, rosna \"Isso ainda não acabou, vira-lata glorificado!\" e foge às pressas.\n    > \n- A Cidade do Rei Barkus é salva. O primeiro nascer do sol em meses é um evento emocionante.\n- Se Barkus for redimido, o grupo ganha um poderoso e leal aliado, agora um rei avatar do fogo sagrado."
+ },
+ {
+  "id": "p0058",
+  "pergunta": "Para qual grupo nefasto Zoldrack faz um convite velado aos aventureiros?",
+  "pedaco": "[Nota: O Reino de Barkus | Pasta: Missões do mundo | Seção: O Caminho da Traição (O Caminho Mal)]\n> Rei Barkus: \"Magnífico! Vocês arrancaram a erva daninha pela raiz! A cidade finalmente terá a paz da escuridão unificada!\"\nZoldrack se aproxima e lhes entrega um saco pesado de ouro e pedras preciosas.\nZoldrack: \"Um trabalho limpo. Vocês provaram ter um talento para o pragmatismo. A [[Liga do Caos]] sempre tem espaço para... talentos como os seus.\"\nEle lhes oferece um convite velado. Os jogadores são escoltados para fora da cidade, que agora está completamente sem esperança, um peão perfeito para os planos de Zoldrack.\n> \n\n**Consequências do Caminho Mal:**\n\n- A Cidade do Rei Barkus se torna um bastião da [[Liga do Caos]].\n- Os jogadores recebem uma grande recompensa em ouro, mas seu alinhamento pende para o mal.\n- Eles ganham uma reputação sombria e podem ser caçados por facções do bem. Zoldrack os vê como ferramentas úteis, mas descartáveis.\n\n---\n\n---"
+ },
+ {
+  "id": "p0240",
+  "pergunta": "Quais lacunas e segredos não explicados envolvem as alianças e o passado de O Grande Herói?",
+  "pedaco": "[Nota: O Grande Herói | Pasta: npcs importantes lore | Seção: ❓ Perguntas em aberto]\n## ❓ Perguntas em aberto\n\n- ⚠️ **Que acordo ele tem com [[Zoldrack]]?** Ele o chama de \"velho amigo\" e o Caos Imortal obedece na hora. Um dos dois maiores vilões do mundo tem um pacto com o maior herói do mundo, e o conteúdo do pacto não está escrito em lugar nenhum. É o gancho mais forte que ele tem.\n- ⚠️ **O que ele sabe e nunca contou?** A [[🌍 Timeline do Mundo]] diz que ele \"é o único que sabe, com certeza, que a paz não vai durar\", e lista como mistério em aberto: *\"O Grande Herói sabe algo que nunca contou a ninguém?\"*\n- ⚠️ **Ele colocou o [[Rei Theo]] no poder mesmo?** Quem afirma isso é o [[Lorde Baldur]] — e Baldur mente por profissão.\n- ⚠️ **Ele tem nome próprio?** \"Sem nome por muito tempo\" sugere que teve um antes de Os Sete.\n- ⚠️ **[[Os 5]] nunca foram nomeados nem detalhados.**"
+ },
+ {
+  "id": "p0295",
+  "pergunta": "De que forma o Senhor K atuou como sabotador durante a missão A Mulher do Rio na Cervejaria Machado de Ferro?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Sr. K]] — O Advogado Arcano]\n### [[Sr. K]] — O Advogado Arcano\n\n- **Local:** Itinerante / busca entrar na [[Guilda dos Heróis]]\n- **Função:** Primeiro/único advogado da era\n- **Resumo:** Cordial em fachada, sarcástico e cruel. Distribui cartas de baralho que teleportam até ele (a custo alto). Companheiro: [[Ser de Porcelana]] (constructo etéreo sem rosto, faz objetos explodirem).\n- **Aparições:** [[Sessão 1]] (Homem Misterioso, 1º lugar na prova), missão [[A Mulher do Rio]] (sabotador da Cervejaria Machado de Ferro)"
+ },
+ {
+  "id": "p0296",
+  "pergunta": "Qual é a relação entre a corrupção do Rei Barkus na Cidade do Rei Barkus e as maquinações nos bastidores feitas por Zoldrack?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Rei Barkus]]]\n### [[Rei Barkus]]\n\n- **Local:** [[Cidade do Rei Barkus]] (leste da [[Floresta Velha|Floresta Antiga]])\n- **Espécie:** [[Lykoria]] (cão humanoide)\n- **Resumo:** Sob influência de Zoldrack. Pode ser redimido (pelo branco vira escarlate-dourado, vira avatar de fogo sagrado)."
+ },
+ {
+  "id": "p0049",
+  "pergunta": "Quais são as três tarefas que Vovó Amora propõe em troca de orientação?",
+  "pedaco": "[Nota: O Reino das Cabras | Pasta: Missões do mundo | Seção: O Reino das Cabras]\n# O Reino das Cabras\n\n<aside>\n💡\n\nmissão media 30PS de premio\n\n</aside>\n\n**📜 AVENTURA 5: O ÚLTIMO SONHO DO POVO DE CHIFRES\n🌍 Contexto e Conflito Inicial**\n• \n**Localização**: [[Porto Altheris]] e [[Floresta Velha]] (Região dos Druidas).\n\n• \n**A Floresta Velha**: Uma região poderosa e mística; os druidas a guardam como morada do deus do verde e apenas eles conseguem caminhar por lá sem morrer.\n\n• \n**O Estopim**: A [[Capitã Undyne]], líder da guarda da Igreja em Altheris, persegue a cabra [[Asriel]] por roubar itens variados (incluindo relíquias de Prata Solar) e levá-los para dentro da Floresta Velha, onde ela não se atreve a entrar.\n\n**🔍 A Investigação e o [[Condado dos Druidas]]**\n• \n**O Silêncio dos Druidas**: No Condado, ninguém se dispõe a ajudar os aventureiros ou fornecer informações sobre a cabra.\n\n• \n**A Guia**: Apenas uma Hobbit idosa, [[Vovó Amora]], aceita colaborar. Ela é uma guia experiente, podendo ser sarcástica ou séria conforme a situação.\n\n• \n**As Provas de Amora**: Para ganhar a ajuda dela, o grupo deve realizar uma destas tarefas:\n\n    1. Matar uma planta carnívora da região.\n\n    2. Destruir a fazenda de Garth (acusado de roubar as plantas da Hobbit).\n\n    3. Entregar uma carta a um paladino que guarda a estrada.\n\n**🌲 A Travessia e a Casa de Basalto**\n• \n**O Caminho Místico**: Vovó Amora guia o grupo em uma longa travessia de várias horas pela Floresta Velha.\n\n• \n**Mecânica de Sobrevivência**: É necessário um teste de **Sobrevivência/Natureza (CD 16)**."
+ },
+ {
+  "id": "p0039",
+  "pergunta": "Como a habilidade Teletransporte das Sombras combina movimento e dano no alvo?",
+  "pedaco": "[Nota: As Vozes que se Calam | Pasta: Missões do mundo | Seção: Ações (Turno do Druida)]\n### **Ações (Turno do Druida)**\n\n- **Ataque Padrão: Garra Cortante**\n    - **Alcance:** Corpo a corpo (2m / 5ft)\n    - **Alvo:** Um único inimigo.\n    - **Ataque:** **+8** para acertar\n    - **Dano:** **2d8 + 5** de dano cortante (média: 14 de dano)\n    - **Efeito (Amarras da Floresta):** Se o alvo for atingido, ele também sofre **1d6** de dano perfurante (média: 3-4 de dano) e fica **Imobilizado** até o final do próximo turno do Druida Lobo. (O alvo não pode se mover ou usar ações que exijam movimento. Ataques contra ele têm vantagem, e seus ataques têm desvantagem).\n- **Habilidade: Espadas das Estrelas (Recarga: 5-6)**\n    - **Alcance:** Área (Todos os inimigos em um raio de 9m / 30ft do Druida Lobo).\n    - **Efeito:** Força todos os inimigos afetados a fazerem um **Teste de Resistência de Destreza (CD: 15)**.\n    - **Dano:** Quem falhar no teste sofre **3d10** de dano mágico de força (média: 16-17 de dano). Quem passar, sofre metade do dano.\n- **Habilidade: Teletransporte das Sombras**\n    - **Alcance:** 18m (60ft), usando a sombra de uma criatura.\n    - **Alvo:** Move-se para um espaço desocupado atrás de um inimigo que tenha uma sombra.\n    - **Ataque:** Causa **2d6 + 4** de dano necrótico (média: 11 de dano) ao inimigo que foi \"passado\" e o **empurra 3 metros (10ft)** para longe do Druida Lobo. Não gasta ação extra para fazer um ataque.\n\n---"
+ },
+ {
+  "id": "p0218",
+  "pergunta": "Qual é a relação protetora velada entre a Sacerdotisa Mira e a Capitã Undyne quanto à perseguição da Ordem?",
+  "pedaco": "[Nota: Capitã Undyne | Pasta: npcs importantes lore | Seção: 🔒 O que ela não sabe]\n## 🔒 O que ela não sabe\n\nA [[Sacerdotisa Mira]] a poupa da lista dos não-humanos que a Ordem caça. Foi decisão pessoal da Mira. A Undyne nem sabe que estava em perigo.\n\n---\n\n## Na mesa\n\n- **Floresta Velha:** ela não entra. Os druidas proíbem, e ela respeita a regra.\n- **[[O Reino das Cabras]]:** persegue a cabra [[Asriel]], que rouba itens (incluindo relíquias de Prata Solar) e os leva para dentro da Floresta Velha.\n- **[[As Vozes que se Calam]]:** é o gancho da missão. As pessoas fogem das vilas por causa dos sumiços, e as estradas ficam cheias de gente despreparada e de ataques de monstros. A Undyne fica com os refugiados que chegam em Altheris, grita sobre a superlotação e pede ajuda ao grupo na patrulha ou na investigação.\n\n---\n\n## ❓ Perguntas em aberto\n\n- ⚠️ **Como ela trata os jogadores que usam magia?** Ela odeia magos, e o grupo provavelmente tem um."
+ },
+ {
+  "id": "p0355",
+  "pergunta": "Qual é a relação entre as expedições enviadas às Ruínas do Reino Caído e o histórico de desaparecimentos?",
+  "pedaco": "[Nota: 🗺️ Índice de Locais | Seção: [[Ruínas do Reino Caído]]]\n### [[Ruínas do Reino Caído]]\n\n- **Resumo:** Local antigo destruído. Contém **minério estranho** que Dior precisa para sua tecnologia.\n- **Status:** Várias expedições enviadas, ninguém voltou.\n- **Cenário:** Missão Ecos do Futuro / [[A Nova Tecnologia]].\n\n---"
+ },
+ {
+  "id": "p0231",
+  "pergunta": "Quais catástrofes históricas e desaparecimentos sociais estão vinculados às ações de Noctarion?",
+  "pedaco": "[Nota: Noctarion | Pasta: npcs importantes lore | Seção: ❖ Um Vilão Pelo Bem Maior]\n### ❖ Um Vilão Pelo Bem Maior\n\nNoctarion tornou-se um mito sombrio. Onde há avanço, ele lança a estagnação. Onde há descoberta, ele semeia dúvida. Sua presença está atrelada à queda de reinos, ao colapso de cidades, ao desaparecimento de gênios e heróis.\n\n**Não por crueldade.\nNão por ego.\nMas por convicção.**\n\nPara ele, **o verdadeiro ato de heroísmo é impedir o crescimento que traria a destruição total.**\n\n---"
+ },
+ {
+  "id": "p0262",
+  "pergunta": "Que demonstração extrema de autoridade O Grande Herói realizou para calar as testemunhas da aparição de Zoldrack na Guilda?",
+  "pedaco": "[Nota: Zoldrack | Pasta: npcs importantes lore | Seção: 🤐 Por que não existe registro]\n### 🤐 **Por que não existe registro**\n\nA raridade das aparições de Zoldrack é fama. A **ausência de registro** é outra coisa: é trabalho.\n\nNa [[Sessão 1]], ele apareceu em pleno pátio da [[Guilda dos Heróis]], flutuando montado num dragão prateado jovem, na frente de recrutas, funcionários e de quem estava por perto. Não foi discreto — foi um espetáculo.\n\nO que aconteceu depois é que importa. [[O Grande Herói]] atravessou o pátio, dispensou o dragão e, no escritório, deu a ordem:\n\n> \"Quanto ao que aconteceu lá fora... aquilo não aconteceu. Zoldrack não esteve aqui. Vocês não viram um dragão. Somos uma guilda de heróis, não uma fonte de pânico para o reino. O silêncio de vocês é obrigatório.\"\n\nPara deixar claro que não era pedido, ele parou o coração de um dos heróis com um gesto — e devolveu a vida com outro.\n\n**A conclusão desconfortável:** o mito do \"vilão que ninguém consegue provar que existe\" é mantido pela maior autoridade legítima do mundo. Toda vez que Zoldrack aparece, a Guilda apaga.\n\nE não é negligência. Os dois se conhecem: o Grande Herói o chamou de **\"velho amigo\"** e cobrou um acordo que já existia entre eles — *\"Achei que tínhamos um acordo sobre não destruir minha base de operações\"*. Zoldrack obedeceu na hora e foi embora.\n\n> ⚠️ Se os jogadores algum dia provarem que Zoldrack existe, o inimigo que vão fazer não é o Zoldrack.\n\n---"
+ },
+ {
+  "id": "p0344",
+  "pergunta": "Quais seres habitam de forma pacífica o castelo do Rei do Sono no Mundo dos Sonhos?",
+  "pedaco": "[Nota: 🗺️ Índice de Locais | Seção: [[Mundo dos Sonhos]]]\n### [[Mundo dos Sonhos]]\n\n- **Acesso:** Espada dos Sonhos de Asriel (em uma casa de basalto na Floresta Velha)\n- **Resumo:** Plano onde vivem as cabras humanoides. Castelo do [[Rei do Sono]], habitado por cabras e esqueletos pacíficos. Realidade dependente do sacrifício contínuo de vítimas reais."
+ },
+ {
+  "id": "p0249",
+  "pergunta": "Por qual motivo o Senhor K busca se juntar à Guilda dos Heróis mesmo já tendo poder superior ao de um recruta?",
+  "pedaco": "[Nota: Sr. K | Pasta: npcs importantes lore | Seção: Sr. K]\n**Objetivo:** O único deus que K adora é o dinheiro. Ele busca a riqueza não por conforto, mas como a medida definitiva de poder e controle. Recentemente, desenvolveu um interesse peculiar em se juntar à [[Guilda dos Heróis]], não por altruísmo, mas por puro pragmatismo. Ele cobiça as permissões, as licenças e os contratos lucrativos que apenas os membros podem obter. Embora seu poder pessoal já supere em muito o de qualquer recruta, ele vê a burocracia da guilda não como uma barreira, mas como um novo sistema a ser explorado e monetizado. Para K, o heroísmo é apenas mais um negócio esperando para ser monopolizado."
+ },
+ {
+  "id": "p0308",
+  "pergunta": "Qual estabelecimento é administrado por Mestre Cevada em Porto Altheris?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: 🛒 COMERCIANTES E TAVERNEIROS]\n## 🛒 COMERCIANTES E TAVERNEIROS\n\n### [[Mestre Cevada]]\n\n- **Local:** [[Porto Altheris]] (Taverna da Cruz)\n- **Espécie:** Anão velho\n- **Resumo:** Sujo, carrancudo. Cheira a talco/doce (contraste). Amargurado, odeia idiotas. Sorri só para bondade genuína."
+ },
+ {
+  "id": "p0286",
+  "pergunta": "Como as interrogações a respeito de uma quinta repetição temporal desafiam o conhecimento histórico sobre o universo?",
+  "pedaco": "[Nota: 🌍 Timeline do Mundo | Seção: Fatos conhecidos]\n### Fatos conhecidos\n\n- Poder central: Guilda dos Heróis, liderada por O Grande Herói\n- Ameaças ativas: Zoldrack, Baldur, Noctarion em silêncio\n- Onde a campanha começa: nesta era, neste momento\n\n---\n\n## 🚨 Lacunas e mistérios em aberto\n\n- O que eram as Cabras Humanoides? Por que sumiram?\n- O Ciclo Cósmico é real?\n- Qual a identidade verdadeira de Zoldrack e sua relação com Noctarion?\n- O Grande Herói sabe algo que nunca contou a ninguém?\n- Existe um quinto ciclo — ou este é o último?"
+ },
+ {
+  "id": "p0168",
+  "pergunta": "Qual é o único ponto de referência físico e tangível que essa organização anárquica possui no cenário até o momento?",
+  "pedaco": "[Nota: Liga do Caos | Pasta: grupos da continente antigo | Seção: 🎣 Na mesa]\n## 🎣 Na mesa\n\nEm [[O Reino de Barkus]], no caminho mau, a Cidade do Rei Barkus **se torna um bastião da Liga do Caos**. É a única coisa concreta que a Liga tem no mundo até agora.\n\n---\n\n## ❓ Perguntas em aberto\n\n- ⚠️ **A Liga existe, ou é nome que o Zoldrack usa pra parecer maior do que é?** A ficha dele admite que ele manipula a percepção pública da própria existência.\n- ⚠️ **Quem mais está nela?** [[Noctarion]] e [[Heartedur]] se encaixariam no perfil, mas nada os liga a ela."
+ },
+ {
+  "id": "p0145",
+  "pergunta": "Em qual ponto cardeal do continente se localizam os Picos da Coroa Gélida?",
+  "pedaco": "[Nota: Região Gélida | Pasta: encontros aleatorios | Seção: região gelida]\n# região gelida\n\n### **2. Região: Os [[Picos da Coroa Gélida]]**\n\n*(Área de neve ao norte, alto acúmulo de mana, perigosa e com trilhas seguras específicas.)*\n\n### **Tabela 1: As Trilhas Seguras (d12)**"
+ },
+ {
+  "id": "p0097",
+  "pergunta": "Qual é a relação prévia entre o Mestre da Guilda e Zoldrack indicada pelo comentário sobre não destruir a base?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Sessão 1 - Ato 3: O Veredito e a Recompensa Inesperada]\n[[Zoldrack]] está flutuando no céu, mas desta vez ele está montado em um magnífico e aterrorizante **dragão prateado jovem**, cujas escamas brilham sob o sol. O dragão encara o grupo com uma inteligência fria e predatória.\n\nZoldrack abre um sorriso largo e cínico.\n\n**Zoldrack:** \"PARABÉNS, HEROIS! Eu disse que viria parabenizá-los pessoalmente. E como todo bom amigo, eu trouxe um presente! Apresento a vocês... o último de sua linhagem, um garoto com sérios problemas de controle de raiva que eu acabei de convencer a perseguir vocês... até a morte! Legal, né?\"\n\nSem mais avisos, o dragão mergulha, abrindo a boca para liberar uma baforada de gelo mortal. A batalha começa.\n\n**Cena 4: A Intervenção do Mestre**\n\nA luta é desesperada e curta. Os ataques do grupo mal arranham as escamas do dragão. A criatura é poderosa demais, seus golpes são devastadores. Fica claro que eles não podem vencer.\n\nQuando o dragão prepara o golpe final, um vulto atravessa o pátio. É tão rápido que parece uma distorção no ar. O vulto reaparece entre o grupo e o dragão. É um homem de meia-idade, com cabelos grisalhos e um porte calmo, mas com olhos que emanam um poder avassalador. É o [[O Grande Herói|Mestre da Guilda]].\n\nEle nem olha para o dragão. Seus olhos estão fixos em Zoldrack.\n\n**Mestre da Guilda:** \"Velho amigo. Achei que tínhamos um acordo sobre não destruir minha base de operações.\""
+ },
+ {
+  "id": "p0327",
+  "pergunta": "De que forma o mago sombrio imortal manipula forasteiros para fragilizar as barreiras que o aprisionam?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Malecor]]]\n### [[Malecor]]\n\n- **Local:** Bastilhão Imemorial (Nível 2)\n- **Espécie:** Necromante imortal\n- **Resumo:** Engana os jogadores para que peguem seu livro/foco de poder, quebrando parcialmente sua contenção."
+ },
+ {
+  "id": "p0186",
+  "pergunta": "Quais equipamentos de proteção e vestimentas especiais estão à venda com o Mercante Druida?",
+  "pedaco": "[Nota: Mercante Druida | Pasta: mercado do continente novo/mercantes viajantes | Seção: Proteção Natural (A Obra-Prima)]\n### Proteção Natural (A Obra-Prima)\n\n- **Armadura de Couro (8 PS):** CA 11 + Mod. Destreza.\n- **Armadura de Couro Batido (25 PS):** CA 12 + Mod. Destreza.\n- **Máscara de Demônio (20 PS):** Pode ser usada para dar vantagem em testes que envolvem assustar alguém.\n- **Traje de Camuflagem (22 PS):** (Item Especial). Concede **Vantagem em testes de Destreza (Furtividade)** feitos para se esconder em **terreno selvagem** (floresta, selva).\n- **Armadura de Pele de Urso-Coruja (220 PS):** (Item Especial / Apenas 1). **CA 15 + Mod. Destreza (máx 2)**. Esta armadura **não impõe desvantagem em testes de Furtividade**."
+ },
+ {
+  "id": "p0059",
+  "pergunta": "Por qual parte do castelo os aventureiros e rebeldes iniciam a invasão?",
+  "pedaco": "[Nota: O Reino de Barkus | Pasta: Missões do mundo | Seção: O Caminho da Aliança (O Caminho Bom)]\n### **O Caminho da Aliança (O Caminho Bom)**\n\n**(Este caminho se inicia se os jogadores decidirem trair o rei e ajudar a resistência)**\n\n**Cena 1: Ganhando Confiança**\nO grupo aceita a missão do Rei, mas secretamente planeja ajudar a \"Luz da Alvorada\". Na padaria, eles precisam provar a Abel que são confiáveis.\n\n> Exemplo de Diálogo do Jogador para Abel Pão Doce: \"Abel... nós viemos a mando do Rei. Ele nos contratou para caçar vocês. Mas ele nos contou algo que não deveria... sobre uma carta de socorro que ele interceptou. Nós não estamos aqui para feri-los. Estamos aqui porque a sua carta nos alcançou, de um jeito ou de outro.\"\n> \n\n**Cena 2: O Conselho da Alvorada e a Interrupção**\nNo porão, a aliança é formada. Eles ouvem a história de Corbin, a profecia de Anja sobre [[Zoldrack]] e o plano de Orion. A esperança começa a florescer, até ser esmagada pelas batidas na porta. O [[Capitão dos Olhos]] está lá fora. A pedido de Corbin, os jogadores sobem para distraí-lo. O sucesso da mentira (Teste de Enganação CD 15) lhes dá tempo para planejar. O fracasso resulta em uma batalha desesperada e uma fuga imediata pelo portal de Orion para o telhado do castelo.\n\n**Cena 3: Invasão do Castelo do Ocaso**\nO grupo se infiltra no castelo pelo telhado."
+ },
+ {
+  "id": "p0298",
+  "pergunta": "Por qual razão o Rei do Sono faz um apelo para que aventureiros tirem sua vida no Mundo dos Sonhos?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Rei do Sono]]]\n### [[Rei do Sono]]\n\n- **Local:** Mundo dos Sonhos (castelo)\n- **Espécie:** Cabra colossal, Soberano do Tridente\n- **Resumo:** Forte, gordo, leal e neutro. Precisa matar pessoas para sustentar seu povo. Pede para ser morto por heróis. **PV 450, CA 16.**"
+ },
+ {
+  "id": "p0323",
+  "pergunta": "Qual força militar da Cidade do Rei Barkus é comandada pelo Capitão dos Olhos?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Capitão dos Olhos]]]\n### [[Capitão dos Olhos]]\n\n- **Local:** Cidade do Rei Barkus\n- **Função:** Líder dos Olhos do Rei (guarda corrupta)\n- **Resumo:** Fanático. Boss intermediário no caminho bom.\n\n---\n\n## 🎵 PERSONAGENS DA SESSÃO 1 / IDA À ILHA"
+ },
+ {
+  "id": "p0277",
+  "pergunta": "Quais títulos e resultados políticos decorrem de atingir o grau de Guardião com postura Bondosa ou Infame?",
+  "pedaco": "[Nota: ⚖️ Sistema de Reputação e Moralidade | Seção: 🔀 Efeitos combinados]\n## 🔀 Efeitos combinados\n\nAlgumas combinações de Reputação + Moralidade criam situações únicas:\n\n| Reputação | Moralidade | Resultado |\n| --- | --- | --- |\n| 🌌 Herói Imortal | 💀 Infame | **Herói das Trevas** — as duas ligas competem pela sua atenção. |\n| 🌌 Herói Imortal | 😇 Santo | **Semideuses** — Igreja e Rei competem pela sua aliança. |\n| 👑 Guardião | 💀 Infame | **Guardiões Sombrios** — poder real aliado à [[Nova Liga do Crime]]. |\n| 👑 Guardião | ✨ Bondoso | **Paladinos Reais** — o Rei confia cegamente. |\n| ⚔️ Desconhecido | 💀 Infame | **Forasteiros Perigosos** — o medo abre portas que o ouro não abre. |\n| ⚔️ Desconhecido | 😇 Santo | **Peregrinos Honestos** — a Igreja oferece abrigo e orientação. |\n\n---\n\n> **Nota do Mestre:** os efeitos de Reputação e Moralidade são cumulativos e devem ser aplicados com bom senso narrativo. Um grupo Infame em uma cidade pode ser desconhecido em outra — use o contexto.\n>"
+ },
+ {
+  "id": "p0053",
+  "pergunta": "Quem aborda a comitiva recém-chegada nos portões externos do vale sombrio?",
+  "pedaco": "[Nota: O Reino de Barkus | Pasta: Missões do mundo | Seção: Parte 1: O Contrato e a Chegada Sombria]\n### **Parte 1: O Contrato e a Chegada Sombria**\n\n**(Esta parte é a mesma para ambos os caminhos)**\n\n**Cena 1: A Guilda de Heróis**\nNo quadro de missões, um pergaminho de qualidade impecável se destaca. O selo de cera exibe a efígie de um lobo uivante.\n\n> Texto do Pergaminho: \"Ao nobre que ler, No reino do grande [[Rei Barkus]], a leste da Floresta Antiga, terroristas que se autodenominam 'A Luz da Alvorada' conspiram contra a coroa e ameaçam a paz de nosso povo. Contrato heróis de renome a fim de ajudar o grande rei nesta situação delicada. A recompensa será discutida pessoalmente, mas será generosa. Assinado, Rei Barkus.\"\n> \n\nAo aceitarem, [[Barnaby]], o mordomo que administra a guilda, os direciona a um mensageiro que aguarda impacientemente. [[Rocco Roedor]], um humanoide canino esguio, os avalia com um olhar. *\"Finalmente. O Rei não gosta de esperar. Peguem o que precisam. Partimos imediatamente.\"*\n\n**Cena 2: A Viagem e a Chegada**\nA viagem é tensa. Rocco mal fala, respondendo a perguntas com monossílabos. A paisagem se torna mais sombria à medida que se aproximam da Floresta Antiga, sob cujas árvores a luz do sol parece lutar para penetrar. Eles chegam a um vale onde se assenta a cidade. Rocco os deixa nos portões. *\"Esperem aqui. Vou anunciar sua chegada.\"*\n\n**Cena 3: A \"Boas-Vindas\"**\nTrês guardas, os **\"Olhos do Rei\"**, se aproximam. Eles são brutamontes com armaduras malcuidadas."
+ },
+ {
+  "id": "p0342",
+  "pergunta": "A que distância a Ilha da Lâmina Eterna fica situada de Altheris?",
+  "pedaco": "[Nota: 🗺️ Índice de Locais | Seção: [[Ilha da Lâmina Eterna]] (Ilha da Guilda dos Heróis)]\n### [[Ilha da Lâmina Eterna]] (Ilha da Guilda dos Heróis)\n\n- **Localização:** Algumas horas de barco de Altheris\n- **Resumo:** Floresta tropical intocada com monstros selvagens. Edifício colossal de pedra negra com cristais mágicos. Sede administrativa da Guilda. Minas de cristais raros operadas por anões.\n- **Cenário:** Ato 2 da [[Sessão 1]] (Prova de Qualificação)."
+ },
+ {
+  "id": "p0336",
+  "pergunta": "Qual é a relação entre o treinamento dos Vigias do Silêncio e a contenção de ameaças mágicas no Bastilhão Imemorial?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Vigias do Silêncio]]]\n### [[Vigias do Silêncio]]\n\n- **Local:** Bastilhão Imemorial\n- **Resumo:** Elite carcerária. Guerreiros e magas que fazem votos de silêncio. Treinados para conter ameaças mágicas.\n\n---\n\n## 📌 NOTAS E PENDÊNCIAS\n\n- ⚠️ **Os 5** ainda não foram nomeados/detalhados.\n- ⚠️ **[[Nova Liga do Crime]]:** os 3 elfos gêmeos que a coordenam não foram nomeados.\n- ⚠️ **Malecor, Sombra do Doutor Alistair:** podem ganhar páginas próprias se virarem recorrentes.\n\n*Última atualização: 07/09/2026*"
+ },
+ {
+  "id": "p0306",
+  "pergunta": "Quais características físicas marcantes definem a aparência de Sirmus, o Paladino Cego?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Sirmus|Sirmus, o Paladino Cego]]]\n### [[Sirmus|Sirmus, o Paladino Cego]]\n\n- **Local:** [[Porto Altheris]] (Clube de Pancadaria)\n- **Função:** Mestre de treino\n- **Resumo:** Olhos brancos/vendados, forte. Ama quem se esforça, odeia covardes."
+ },
+ {
+  "id": "p0238",
+  "pergunta": "Qual ensinamento de poder mortal de ataque O Grande Herói transmitiu aos seus subordinados de Os 5?",
+  "pedaco": "[Nota: O Grande Herói | Pasta: npcs importantes lore | Seção: ⚡ Poder]\n## ⚡ Poder\n\n- **A técnica do raio vermelho.** Ele domina; ensinou a [[Os 5]], os cinco guerreiros mais fortes sob seu comando.\n- **Velocidade.** Atravessa um pátio tão rápido que parece uma distorção no ar.\n- **Vida e morte por gesto.** Na [[Sessão 1]], para o coração de um jogador com um movimento quase imperceptível da mão — e devolve a vida com outro gesto, para deixar claro o que \"silêncio obrigatório\" significa.\n\n---"
+ },
+ {
+  "id": "p0281",
+  "pergunta": "Por qual razão fundamental Noctarion decidiu se transformar no maior vilão da história do continente?",
+  "pedaco": "[Nota: 🌍 Timeline do Mundo | Seção: Fatos conhecidos]\nNoctarion viu sentido na sua imortalidade. Se o ciclo era real, ele seria o único ser capaz de impedi-lo — não guiando a humanidade à luz, mas *impedindo-a de brilhar o suficiente para ser notada.* O maior vilão da história surgiu não por crueldade, mas por convicção."
+ },
+ {
+  "id": "p0284",
+  "pergunta": "Qual é a relação entre o fim do Monstro Colossal e o estabelecimento do ano 0 no Calendário Universal?",
+  "pedaco": "[Nota: 🌍 Timeline do Mundo | Seção: Fatos conhecidos]\n### Fatos conhecidos\n\n- Evento central: o Monstro Colossal devasta o continente\n- Autoria: 🔒 foi [[Noctarion]] — mas no mundo isso nunca passou de teoria. Não existe prova, e há quem ache que o Monstro simplesmente surgiu\n- Os Sete: 5 elfos, 1 humano, 1 anão — todos mortos exceto um\n- Sobrevivente: O Grande Herói (elfo, hoje com cabelos grisalhos)\n- Marco zero do calendário: fim do Monstro = ano 0 CA.U\n\n---"
+ },
+ {
+  "id": "p0099",
+  "pergunta": "De que maneira o dirigente máximo da corporação evidencia seu poder descomunal antes de oficializar as boas-vindas?",
+  "pedaco": "[Nota: Sessão 1 | Seção: Sessão 1 - Ato 3: O Veredito e a Recompensa Inesperada]\nPara enfatizar seu ponto, ele olha para um dos membros do grupo. Com um movimento quase imperceptível de sua mão, o coração do herói para. Ele cai no chão, morto. Os outros olham horrorizados.\n\nCom outro gesto, a vida retorna ao corpo do personagem, que se levanta ofegante e confuso.\n\n**Mestre da Guilda (com um sorriso calmo):** \"Fui claro? Bem-vindos à Guilda dos Heróis.\"\n\n**FIM DA SESSÃO 1**"
+ },
+ {
+  "id": "p0140",
+  "pergunta": "Quais são as três regiões listadas na seção de encontros aleatórios?",
+  "pedaco": "[Nota: encontros aleatorios | Seção: encontros aleatorios]\n# encontros aleatorios\n\n> 💡 **Nota do Mestre:** Qualquer encontro com mercante leva direto para → [[mercantes viajantes|Mercantes Viajantes]]. Se a missão do [[Tibio]] ainda não foi concluída pelo grupo, qualquer encontro de cabana/vendedor pode ser substituído pela cabana do Tibio.\n> \n\n---\n\n# Regiões\n\n[[Região de Theragon e Porto Altheris]]\n\n[[Região Gélida]]\n\n[[As Terras de Vapor]]"
+ },
+ {
+  "id": "p0237",
+  "pergunta": "Onde se localiza o monumento esculpido em bronze dedicado a O Grande Herói?",
+  "pedaco": "[Nota: O Grande Herói | Pasta: npcs importantes lore | Seção: 👁️ Hoje]\n## 👁️ Hoje\n\nAparência de homem de meia-idade, cabelos grisalhos, porte calmo — e olhos que emanam poder avassalador. **Ele é elfo:** cem anos de liderança e ele está só na meia-idade.\n\nA Guilda é a maior estrutura de poder legítimo da era, e **governa nos bastidores**, com uma mão invisível mas firme. Ele governa junto.\n\nTambém mandou construir o [[RPG - Novo Antigo Continente/Bastilhão Imemorial]], para conter as criaturas mais poderosas e estranhas que capturou nas jornadas de pacificação do continente. Tem uma estátua de bronze na Praça do Herói, em [[Theragon]].\n\n---"
+ },
+ {
+  "id": "p0268",
+  "pergunta": "Quais circunstâncias ou ações cotidianas do grupo possibilitam encontrar o negociador Tibio e iniciar seu enredo?",
+  "pedaco": "[Nota: painel do mestre | Seção: M-04 — [[Tibio, o Negociador — A Prisão de Theragon|O Vendedor Sombrio — Tibio]]]\n## M-04 — [[Tibio, o Negociador — A Prisão de Theragon|O Vendedor Sombrio — Tibio]]\n\n**Missão:** Tibio aparece e some, oferecendo itens perigosos ou informações suspeitas. Leva ao [[RPG - Novo Antigo Continente/Bastilhão Imemorial]].\n\n**Recompensa:** 30 PS + item amaldiçoado (parte do pacto).\n\n| Gatilho | Onde | Quem | O que acontece |\n| --- | --- | --- | --- |\n| Explora lojas / barracas | Feira de Lojas | Tibio | Vendedor misterioso oferece item estranho a preço baixo |\n| Pede trabalho menor | Taverna da Cruz | Barman | \"Tem uns ratos na dispensa...\" — leva até Tibio escondido |\n| Acampa fora da cidade | Estrada | Tibio | Vê a fogueira dele à noite no meio do nada |"
+ },
+ {
+  "id": "p0303",
+  "pergunta": "Qual frase de lema pessoal é frequentemente proferida pelo militar canino Doug Fury na Guilda dos Heróis?",
+  "pedaco": "[Nota: 📇 Índice de NPCs | Seção: [[Doug Fury]]]\n### [[Doug Fury]]\n\n- **Local:** [[Porto Altheris]] / [[Guilda dos Heróis]]\n- **Espécie:** Cão humanoide\n- **Resumo:** Militar disciplinado, postura rígida. *\"Não sou um animal, sou um soldado.\"* Perde a postura se vê um osso. Recruta heróis para a missão do Reino de Barkus."
+ }
+]

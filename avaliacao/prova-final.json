@@ -1,0 +1,443 @@
+[
+  {
+    "n": 6,
+    "tipo": "lista",
+    "pergunta": "Além da entidade central cultuada pela Igreja de Angelina, quais outras figuras divinas ainda são veneradas pelo continente e o que está associado a cada uma?",
+    "resposta_esperada": "1. O deus do verde, ligado à Floresta Velha e aos druidas; 2. Uma divindade da natureza, venerada em santuários de pedra onde oferendas concedem Inspiração; 3. Uma divindade do inverno, venerada em santuários de gelo onde oferendas garantem passagem segura.",
+    "notas": [
+      "grupos da continente antigo/Religião do Reino.md"
+    ],
+    "trechos": [
+      "Existem e continuam existindo ao lado do principal:\n- O **deus do verde**, morada da [[Floresta Velha]] e dos druidas.\n- Uma **divindade da natureza**, em santuários de pedra (oferenda dá Inspiração).\n- Uma **divindade do inverno**, em santuários de gelo (oferenda garante passagem segura)."
+    ],
+    "travada": false,
+    "id": "A6",
+    "grupo": "A6",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 4,
+    "tipo": "juntar",
+    "pergunta": "Qual era a composição por raça do grupo que abateu o demônio gigante no fim da Segunda Era e que superstição os conjuradores têm hoje diante do monumento erguido para eles perto da carcaça?",
+    "resposta_esperada": "O grupo conhecido como Os Sete era composto por cinco elfos, um humano e um anão (dos quais apenas um elfo, O Grande Herói, sobreviveu), e hoje muitos magos costumam dar tapas na estátua desses heróis na região do Cadáver Colossal para atrair sorte.",
+    "notas": [
+      "🌍 Timeline do Mundo.md",
+      "cidades e reinos/Cadáver Colossal.md"
+    ],
+    "trechos": [
+      "Então surgiram **Os Sete**: cinco elfos, um humano e um anão. Um grupo improvável que carregou o peso de um mundo inteiro. A batalha contra o Monstro Colossal foi o maior conflito da era — e custou tudo. Seis dos sete morreram. Apenas um elfo sobreviveu, sem nome por muito tempo, até que o mundo o batizou simplesmente de [[O Grande Herói|O Grande Herói]].",
+      "na cidade a uma grande estatua dos herois que mataram o monstro, eles são praticamente idolatrados e muitas magos gostam de dar tapas nos herois como forma de ganhar sorte"
+    ],
+    "travada": true,
+    "id": "B4",
+    "grupo": "B4",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 6,
+    "tipo": "lista",
+    "pergunta": "Quais são os três estabelecimentos que ficam no distrito social da capital do reino e o que funciona em cada um deles?",
+    "resposta_esperada": "Na Praça do Herói (Distrito Social de Theragon) ficam: 1) A Lança Quebrada, taverna barulhenta preferida da Guarda Real e de mercenários; 2) O Descanso do Rei, estalagem e bar calmo frequentado por cidadãos, oficiais e viajantes; e 3) O Mural do Protetor, estação de missões administrada pela Guarda Real onde são publicados contratos para aventureiros (e onde Baldur secretamente infiltra missões falsas).",
+    "notas": [
+      "cidades e reinos/Theragon.md"
+    ],
+    "trechos": [
+      "- **Taverna - \"A Lança Quebrada\":** A taverna favorita dos soldados da Guarda Real e de mercenários. É barulhenta, serve cerveja forte e o ar é sempre carregado com histórias de batalhas (algumas verdadeiras, outras nem tanto).",
+      "- **Estalagem e Bar - \"O Descanso do Rei\":** Um lugar mais calmo e respeitável. Frequentado por cidadãos comuns, oficiais do reino e viajantes que buscam uma noite tranquila. A comida é boa e os quartos são limpos.",
+      "- **Estação de Missões - \"O Mural do Protetor\":** Ao lado da estátua do Herói, este grande mural é administrado pela Guarda Real. Aqui são postados contratos para aventureiros: desde escoltar caravanas até caçar bestas que ameaçam as fazendas próximas. Secretamente, Baldur às vezes posta missões falsas para desviar a atenção de seus planos ou para eliminar aventureiros curiosos."
+    ],
+    "travada": false,
+    "id": "B6",
+    "grupo": "B6",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 5,
+    "tipo": "juntar",
+    "pergunta": "Quais são as duas crises distintas em que a comandante da guarda da Igreja em Altheris precisa da intervenção dos aventureiros, e o que a impede de capturar pessoalmente o autor dos furtos?",
+    "resposta_esperada": "Em uma missão, a Capitã Undyne recebe em Porto Altheris os refugiados que fogem dos sumiços de mulheres e de ataques nas estradas, pedindo ajuda ao grupo antes da viagem à Vila de Nyrell. Na outra, ela persegue a cabra Asriel pelo roubo de diversos itens e relíquias de Prata Solar, mas não se atreve a entrar na Floresta Velha, onde apenas os druidas conseguem caminhar sem morrer.",
+    "notas": [
+      "Missões do mundo/As Vozes que se Calam.md",
+      "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos": [
+      "**Gancho:** as pessoas fogem das vilas, e as estradas ficam cheias de gente despreparada e de ataques de monstros. A [[Capitã Undyne]] recebe os refugiados em Porto Altheris e pede ajuda ao grupo antes da viagem a Nyrell.",
+      "**A Floresta Velha**: Uma região poderosa e mística; os druidas a guardam como morada do deus do verde e apenas eles conseguem caminhar por lá sem morrer.",
+      "**O Estopim**: A [[Capitã Undyne]], líder da guarda da Igreja em Altheris, persegue a cabra [[Asriel]] por roubar itens variados (incluindo relíquias de Prata Solar) e levá-los para dentro da Floresta Velha, onde ela não se atreve a entrar."
+    ],
+    "travada": false,
+    "id": "C5",
+    "grupo": "C5",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 6,
+    "tipo": "lista",
+    "pergunta": "Na missão ambientada no arquipélago oriental para impedir a libertação do antigo soberano dos yokais preso por uma flecha espiritual, quais são as quatro metas que os heróis devem cumprir?",
+    "resposta_esperada": "1. Defender a Árvore Sagrada contra as investidas de yokais hostis; 2. Investigar o terremoto e os motivos do enfraquecimento do selo; 3. Auxiliar os sábios orientais na reconstrução do selo mágico; 4. Sobreviver enquanto forças cada vez mais poderosas tentam libertar InuYasha.",
+    "notas": [
+      "Missões do mundo/Proteger Árvore Sagrada.md"
+    ],
+    "trechos": [
+      "No coração da ilha, selado por uma flecha espiritual em uma árvore sagrada, repousa o mais poderoso dos yokais já registrado: InuYasha, o Rei das Sombras Imortais.",
+      "1. Defender a Árvore Sagrada contra investidas de yokais hostis\n2. Investigar o terremoto e as causas do enfraquecimento do selo\n3. Auxiliar os sábios orientais na reconstrução do selo mágico\n4. Sobreviver enquanto forças cada vez mais poderosas tentam libertar InuYasha"
+    ],
+    "travada": false,
+    "id": "C6",
+    "grupo": "C6",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 3,
+    "tipo": "direta",
+    "pergunta": "No ataque dentro da embarcação rumo à ilha no início da campanha, qual a dificuldade para um aventureiro evitar ser parasitado pelas gosmas verdes e quantos ataques bastam para destruir cada uma?",
+    "resposta_esperada": "Cada slime é destruído com um único golpe, e caso toque em um personagem, este precisa passar em um teste de resistência (como Constituição CD 15) a cada rodada para não ter o corpo dominado.",
+    "notas": [
+      "Sessão 1.md"
+    ],
+    "trechos": [
+      "- Os **slimes são de tamanho médio** e **morrem com um único golpe**, mas seu número é imenso e assustador.",
+      "- Se **tocarem em um personagem**, começam a dominá-lo. Será necessário um **teste de resistência (por exemplo, Constituição CD 15)** a cada rodada para resistir ao controle."
+    ],
+    "travada": false,
+    "id": "D3",
+    "grupo": "D3",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 5,
+    "tipo": "juntar",
+    "pergunta": "Qual a diferença de preço, duração e efeito nos ataques entre o item consumível que imbui uma arma com gelo vendido pelo artesão de aço da estrada e o equivalente comercializado pelo vendedor arcano?",
+    "resposta_esperada": "O Óleo do Fogo Gélido do Mercante Ferreiro custa 100 PS e, por 1 minuto, muda o tipo de dano da arma para Frio com bônus de +1 nas rolagens de dano; já a Runa de Papel (Gelo) do Mercante Mago custa 55 PS e adiciona +1d4 de dano de Frio a cada acerto durante 10 minutos.",
+    "notas": [
+      "mercado do continente novo/mercantes viajantes/Mercante Ferreiro.md",
+      "mercado do continente novo/mercantes viajantes/Mercante Mago.md"
+    ],
+    "trechos": [
+      "- **Óleo do Fogo Gélido (100 PS):** (Consumível). Ele tem **apenas 2 frascos**. Ação: Passar este óleo azul-pálido em uma arma. Por **1 minuto**, o tipo de dano da arma torna-se **Frio** e ela ganha um bônus de **+1 nas rolagens de dano**.",
+      "- **Runa de Papel (Gelo) (55 PS):** (Ele tem 1d4-1). Ação: Pressionar este papel rúnico contra uma arma. O papel se desintegra. Pelos próximos **10 minutos**, a arma causa **+1d4 de dano de Frio** a cada acerto."
+    ],
+    "travada": false,
+    "id": "D5",
+    "grupo": "D5",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 6,
+    "tipo": "lista",
+    "pergunta": "Quais são as três mercadorias de preço intermediário do vendedor de bugigangas que realmente surtem efeito prático e não são golpes nem relíquias raras?",
+    "resposta_esperada": "1. Pena de Grifo (40 PS), que lança Queda Suave como reação ao cair; 2. Biscoito de Amizade Halfling (55 PS), que encanta uma besta por 1 hora caso ela falhe em um teste de Sabedoria CD 13; 3. Tinta da Lula Esmagada (80 PS), que ao ser arremessada cria um raio de 3m de Escuridão mágica por 1 minuto.",
+    "notas": [
+      "mercado do continente novo/mercantes viajantes/Mercante Extravagante.md"
+    ],
+    "trechos": [
+      "- **Pena de Grifo (40 PS):** (Ele tem 1d4-1). (Item Incomum). Um único uso. Reação: Quando você cai, você lança *Queda Suave* (Feather Fall) em si mesmo.",
+      "- **Biscoito de Amizade Halfling (55 PS):** (Ele tem 1d4). Ação: Dar a uma **Besta**. A besta deve ser bem-sucedida num teste de Sabedoria (CD 13) ou fica *Encantada* por você por 1 hora (como *Amizade Animal*).",
+      "- **Tinta da Lula Esmagada (80 PS):** (Ele tem 1 frasco). Ação: Arremessar o frasco (6m). Ele explode num raio de 3m de *Escuridão* mágica (como a magia *Escuridão*), que dura 1 minuto."
+    ],
+    "travada": false,
+    "id": "D6",
+    "grupo": "D6",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 1,
+    "tipo": "direta",
+    "pergunta": "Como a Selene, a Falsificadora, pode ajudar quem se infiltra no Bastilhão Imemorial e que favor ela pede em troca?",
+    "resposta_esperada": "Selene, a Falsificadora, fornece senhas e rotas secretas no Nível 1 do Bastilhão Imemorial caso recuperem o medalhão de família dela na Sala de Evidências, que fica trancada e protegida por armadilhas.",
+    "notas": [
+      "cidades e reinos/Bastilhão Imemorial.md"
+    ],
+    "trechos": [
+      "| 1 | Antecâmara da Contenção | Prisioneiros comuns. Patrulhas metódicas dos Vigias. Sala de Evidências, trancada e com armadilhas. |",
+      "- [[Selene]], a Falsificadora — Nível 1. Troca senhas e rotas secretas por um favor: recuperar o medalhão de família dela da Sala de Evidências."
+    ],
+    "travada": true,
+    "id": "B1n",
+    "grupo": "B1",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 5,
+    "tipo": "juntar",
+    "pergunta": "Qual a diferença de preço, duração e efeito nos ataques entre o item de gelo do Mercante Ferreiro e o equivalente do Mercante Mago?",
+    "resposta_esperada": "O Óleo do Fogo Gélido do Mercante Ferreiro custa 100 PS e, por 1 minuto, muda o tipo de dano da arma para Frio com bônus de +1 nas rolagens de dano; já a Runa de Papel (Gelo) do Mercante Mago custa 55 PS e adiciona +1d4 de dano de Frio a cada acerto durante 10 minutos.",
+    "notas": [
+      "mercado do continente novo/mercantes viajantes/Mercante Ferreiro.md",
+      "mercado do continente novo/mercantes viajantes/Mercante Mago.md"
+    ],
+    "trechos": [
+      "- **Óleo do Fogo Gélido (100 PS):** (Consumível). Ele tem **apenas 2 frascos**. Ação: Passar este óleo azul-pálido em uma arma. Por **1 minuto**, o tipo de dano da arma torna-se **Frio** e ela ganha um bônus de **+1 nas rolagens de dano**.",
+      "- **Runa de Papel (Gelo) (55 PS):** (Ele tem 1d4-1). Ação: Pressionar este papel rúnico contra uma arma. O papel se desintegra. Pelos próximos **10 minutos**, a arma causa **+1d4 de dano de Frio** a cada acerto."
+    ],
+    "travada": false,
+    "id": "D5n",
+    "grupo": "D5",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 1,
+    "tipo": "sem_resposta",
+    "pergunta": "Quais são os nomes individuais dos guerreiros que integram Os 5 na Guilda dos Heróis e qual era a trajetória de cada um antes de entrarem para essa elite?",
+    "resposta_esperada": "não consta nas notas",
+    "notas": [],
+    "trechos": [],
+    "travada": false,
+    "id": "S21",
+    "grupo": "S21",
+    "origem": "v1-aprovada"
+  },
+  {
+    "n": 1,
+    "tipo": "direta",
+    "pergunta": "Qual a CD de Arcano da pedra de rio na cabana de Kael?",
+    "resposta_esperada": "CD 12.",
+    "notas": [
+      "npcs importantes lore/Kael.md"
+    ],
+    "trechos": [
+      "- Uma **pedra de rio polida**, fria ao toque, com leve aura de magia de água (Arcano CD 12). Foi um presente do rio."
+    ],
+    "travada": false,
+    "id": "V2A1",
+    "grupo": "V2A1",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 3,
+    "tipo": "direta",
+    "pergunta": "Qual nível de moralidade libera acesso à sede da Nova Liga do Crime?",
+    "resposta_esperada": "Infame (−61 a −100).",
+    "notas": [
+      "grupos da continente antigo/Nova Liga do Crime.md"
+    ],
+    "trechos": [
+      "- **Infame (−61 a −100):** acesso direto à sede e contratos exclusivos de alto risco."
+    ],
+    "travada": false,
+    "id": "V2A3",
+    "grupo": "V2A3",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 4,
+    "tipo": "direta",
+    "pergunta": "Qual item Tibio insere na Armadura Soberana para virar o NEO Tibio?",
+    "resposta_esperada": "A Fita Anímica.",
+    "notas": [
+      "npcs importantes lore/Tibio.md"
+    ],
+    "trechos": [
+      "Ao inserir a Fita Anímica, ele **absorve o poder** e vira o **NEO Tibio**, marionete de guerra gigante com cordas etéreas."
+    ],
+    "travada": true,
+    "id": "V2A4",
+    "grupo": "V2A4",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 1,
+    "tipo": "direta",
+    "pergunta": "A que dano O Lamento da Seca fica vulnerável durante a chuva?",
+    "resposta_esperada": "Dano de Frio e Elétrico.",
+    "notas": [
+      "Missões do mundo/A Mulher do Rio.md"
+    ],
+    "trechos": [
+      "- **O Inimigo: O Lamento da Seca (Elemental Gigante)**",
+      "- **Vulnerabilidade:** A chuva invocada por Lívia o enfraquece. Ele agora tem **vulnerabilidade a dano de Frio e Elétrico**."
+    ],
+    "travada": false,
+    "id": "V2C1",
+    "grupo": "V2C1",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 4,
+    "tipo": "direta",
+    "pergunta": "Quem pode ser libertado com a Chave da Cela de Estase 7?",
+    "resposta_esperada": "Theron, o Indomado, um minotauro prisioneiro.",
+    "notas": [
+      "Missões do mundo/Tibio, o Negociador — A Prisão de Theragon.md"
+    ],
+    "trechos": [
+      "- **Aliado Opcional:** Se os jogadores possuírem a **\"Chave da Cela de Estase 7\"**, eles podem libertar [[Theron|Theron, o Indomado]], um minotauro prisioneiro em uma das celas próximas, que lutará ao lado deles por gratidão e fúria."
+    ],
+    "travada": false,
+    "id": "V2C4",
+    "grupo": "V2C4",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 5,
+    "tipo": "direta",
+    "pergunta": "Quantos PS os não-humanos dão se ajudados em Sangue Dourado na Nascente?",
+    "resposta_esperada": "De 5 a 10 PS (ou informação), informalmente.",
+    "notas": [
+      "Missões do mundo/Sangue Dourado na Nascente.md"
+    ],
+    "trechos": [
+      "**Recompensa em PS:** Nenhuma fixa. Só surge se o grupo ficar do lado dos aventureiros não-humanos e eles quiserem recompensar informalmente (5–10 PS ou informação)"
+    ],
+    "travada": false,
+    "id": "V2C5",
+    "grupo": "V2C5",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 6,
+    "tipo": "juntar",
+    "pergunta": "Quais armas +1 reduzem pontos de Controle do Rei Barkus na redenção?",
+    "resposta_esperada": "As armas de Gael: Espada da Alvorada, Arco da Alvorada e Luvas da Alvorada.",
+    "notas": [
+      "Missões do mundo/O Reino de Barkus.md",
+      "Missões do mundo/O Reino de Barkus/Tabelas de Acesso Rápido (Barkus).md"
+    ],
+    "trechos": [
+      "- **Vitória pela Redenção:** Eles focam em salvar o Rei. (esse final so é possivel usando as armas do gael) Eles o atacam com as armas de Gael (reduzindo 1 ponto de \"Controle\")",
+      "| **A Forja de [[Gael]]** | Silenciosa e fria. Porta arrombada, sinais de luta (bigorna caída, ferramentas espalhadas). | Ninguém | **Saque (Investigação CD 10):** Encontra um compartimento secreto sob uma bancada.\n**Tesouro:** Contém 1x **Espada da Alvorada**, 1x **Arco da Alvorada**, 1x **Luvas da Alvorada** (Itens +1 que são ativados por Gael ou pela palavra \"Alvorada\"). |"
+    ],
+    "travada": false,
+    "id": "V2C6",
+    "grupo": "V2C6",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 7,
+    "tipo": "sem_resposta",
+    "pergunta": "Quanto de dano causa a explosão do Ser de Porcelana do Sr. K?",
+    "resposta_esperada": "não consta nas notas",
+    "notas": [],
+    "trechos": [],
+    "travada": false,
+    "id": "V2A7",
+    "grupo": "V2A7",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 8,
+    "tipo": "sem_resposta",
+    "pergunta": "Quantas moedas o Ancião Garrick paga ao grupo quando o rio volta?",
+    "resposta_esperada": "não consta nas notas",
+    "notas": [],
+    "trechos": [],
+    "travada": false,
+    "id": "V2A8",
+    "grupo": "V2A8",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 7,
+    "tipo": "sem_resposta",
+    "pergunta": "Qual o nome do minério especial que Dior busca para sua máquina?",
+    "resposta_esperada": "não consta nas notas",
+    "notas": [],
+    "trechos": [],
+    "travada": false,
+    "id": "V2C7",
+    "grupo": "V2C7",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 8,
+    "tipo": "sem_resposta",
+    "pergunta": "Quanto Dior paga pelo minério das Ruínas do Reino Caído?",
+    "resposta_esperada": "não consta nas notas",
+    "notas": [],
+    "trechos": [],
+    "travada": false,
+    "id": "V2D8",
+    "grupo": "V2D8",
+    "origem": "v2-nova"
+  },
+  {
+    "n": 2,
+    "tipo": "ficha",
+    "pergunta": "Me mostra a ficha do Druida Lobo Gigante.",
+    "resposta_esperada": "Essencial: 50 PV (25% de seus PV totais). A resposta boa também traz o restante da ficha (ver 'detalhes').",
+    "notas": [
+      "Missões do mundo/As Vozes que se Calam.md"
+    ],
+    "trechos": [
+      "### **Ficha de Combate: Druida Lobo Gigante (Forma Lupina)**\n\n**Tipo:** Monstro, Druida Corrompido\n**Nível:** Médio a Alto (considerando as ações lendárias e o Modo Berserker)\n**Pontos de Vida (PV):** **200Classe de Armadura (CA):** **17Movimento:** 15m (30ft)\n\n---\n\n### **Ações (Turno do Druida)**\n\n- **Ataque Padrão: Garra Cortante**\n    - **Alcance:** Corpo a corpo (2m / 5ft)\n    - **Alvo:** Um único inimigo.\n    - **Ataque:** **+8** para acertar\n    - **Dano:** **2d8 + 5** de dano cortante (média: 14 de dano)\n    - **Efeito (Amarras da Floresta):** Se o alvo for atingido, ele também sofre **1d6** de dano perfurante (média: 3-4 de dano) e fica **Imobilizado** até o final do próximo turno do Druida Lobo. (O alvo não pode se mover ou usar ações que exijam movimento. Ataques contra ele têm vantagem, e seus ataques têm desvantagem).\n- **Habilidade: Espadas das Estrelas (Recarga: 5-6)**\n    - **Alcance:** Área (Todos os inimigos em um raio de 9m / 30ft do Druida Lobo).\n    - **Efeito:** Força todos os inimigos afetados a fazerem um **Teste de Resistência de Destreza (CD: 15)**.\n    - **Dano:** Quem falhar no teste sofre **3d10** de dano mágico de força (média: 16-17 de dano). Quem passar, sofre metade do dano.\n- **Habilidade: Teletransporte das Sombras**\n    - **Alcance:** 18m (60ft), usando a sombra de uma criatura.\n    - **Alvo:** Move-se para um espaço desocupado atrás de um inimigo que tenha uma sombra.\n    - **Ataque:** Causa **2d6 + 4** de dano necrótico (média: 11 de dano) ao inimigo que foi \"passado\" e o **empurra 3 metros (10ft)** para longe do Druida Lobo. Não gasta ação extra para fazer um ataque.\n\n---\n\n### **Ações Lendárias (3 Ações por Rodada, Reseta no Início do Turno do Druida)**\n\n- **Invocação Selvagem:** (Custa 2 Ações Lendárias)\n    - **Efeito:** Invoca dois **Lobos Menores** para a luta. Estes lobos têm **25 PV, CA 13, Ataque +4 para acertar, Dano 1d4 + 2** de dano perfurante (média: 4-5 de dano). Eles agem na iniciativa do Druida Lobo, mas depois dele.\n- **Reação: Garras da Vigilância:** (Custa 1 Ação Lendária)\n    - **Gatilho:** Sempre que um inimigo entra no alcance corpo a corpo (2m / 5ft) do Druida Lobo.\n    - **Ataque:** O Druida Lobo pode fazer um ataque de **Garra Cortante** (ataque simples, sem o efeito de Imobilização) contra esse inimigo.\n\n---\n\n### **Fase de Combate Final: Modo Berserker (Fase de Transição)**\n\n- **Gatilho:** Quando o Druida Lobo atinge **50 PV** (25% de seus PV totais).\n- **Efeito Visual:** Seus olhos brilham intensamente em vermelho. Uma aura de constelações vermelhas começa a surgir ao seu redor a cada ataque sofrido.\n- **Aura de Retaliação:** **Sempre que o Druida Lobo sofrer dano de um ataque inimigo**, ele libera uma **aura de constelação vermelha**, causando **1d8** de dano mágico de força (média: 4-5 de dano) a **todos** os inimigos a um raio de 3m (10ft) dele. Este dano é fixo e não permite teste de resistência.\n\n---\n\n### **Morte e Transição (Druida Humano)**\n\n- **Gatilho:** Quando o Druida Lobo atinge 0 Pontos de Vida em sua forma lupina.\n- **Efeito:** Ele **não morre imediatamente**. Em vez disso, sua forma lupina se dissipa em uma explosão de energia estelar, e ele retorna à sua **forma humana**, gravemente ferido e cambaleante, com **20 PV** restantes.\n- **Ação Final: Espada da Constelação (Uma única utilização)**\n    - **Ataque:** Na sua próxima (e última) ação em forma humana, ele tenta um **único ataque desesperado** com uma espada etérea feita de luz estelar.\n    - **Alvo:** Um único inimigo.\n    - **Ataque:** **+6** para acertar"
+    ],
+    "travada": false,
+    "id": "V2C2",
+    "grupo": "V2C2",
+    "origem": "v3-ficha",
+    "essencial": "50 PV (25% de seus PV totais).",
+    "detalhes": "### **Ficha de Combate: Druida Lobo Gigante (Forma Lupina)**\n\n**Tipo:** Monstro, Druida Corrompido\n**Nível:** Médio a Alto (considerando as ações lendárias e o Modo Berserker)\n**Pontos de Vida (PV):** **200Classe de Armadura (CA):** **17Movimento:** 15m (30ft)\n\n---\n\n### **Ações (Turno do Druida)**\n\n- **Ataque Padrão: Garra Cortante**\n    - **Alcance:** Corpo a corpo (2m / 5ft)\n    - **Alvo:** Um único inimigo.\n    - **Ataque:** **+8** para acertar\n    - **Dano:** **2d8 + 5** de dano cortante (média: 14 de dano)\n    - **Efeito (Amarras da Floresta):** Se o alvo for atingido, ele também sofre **1d6** de dano perfurante (média: 3-4 de dano) e fica **Imobilizado** até o final do próximo turno do Druida Lobo. (O alvo não pode se mover ou usar ações que exijam movimento. Ataques contra ele têm vantagem, e seus ataques têm desvantagem).\n- **Habilidade: Espadas das Estrelas (Recarga: 5-6)**\n    - **Alcance:** Área (Todos os inimigos em um raio de 9m / 30ft do Druida Lobo).\n    - **Efeito:** Força todos os inimigos afetados a fazerem um **Teste de Resistência de Destreza (CD: 15)**.\n    - **Dano:** Quem falhar no teste sofre **3d10** de dano mágico de força (média: 16-17 de dano). Quem passar, sofre metade do dano.\n- **Habilidade: Teletransporte das Sombras**\n    - **Alcance:** 18m (60ft), usando a sombra de uma criatura.\n    - **Alvo:** Move-se para um espaço desocupado atrás de um inimigo que tenha uma sombra.\n    - **Ataque:** Causa **2d6 + 4** de dano necrótico (média: 11 de dano) ao inimigo que foi \"passado\" e o **empurra 3 metros (10ft)** para longe do Druida Lobo. Não gasta ação extra para fazer um ataque.\n\n---\n\n### **Ações Lendárias (3 Ações por Rodada, Reseta no Início do Turno do Druida)**\n\n- **Invocação Selvagem:** (Custa 2 Ações Lendárias)\n    - **Efeito:** Invoca dois **Lobos Menores** para a luta. Estes lobos têm **25 PV, CA 13, Ataque +4 para acertar, Dano 1d4 + 2** de dano perfurante (média: 4-5 de dano). Eles agem na iniciativa do Druida Lobo, mas depois dele.\n- **Reação: Garras da Vigilância:** (Custa 1 Ação Lendária)\n    - **Gatilho:** Sempre que um inimigo entra no alcance corpo a corpo (2m / 5ft) do Druida Lobo.\n    - **Ataque:** O Druida Lobo pode fazer um ataque de **Garra Cortante** (ataque simples, sem o efeito de Imobilização) contra esse inimigo.\n\n---\n\n### **Fase de Combate Final: Modo Berserker (Fase de Transição)**\n\n- **Gatilho:** Quando o Druida Lobo atinge **50 PV** (25% de seus PV totais).\n- **Efeito Visual:** Seus olhos brilham intensamente em vermelho. Uma aura de constelações vermelhas começa a surgir ao seu redor a cada ataque sofrido.\n- **Aura de Retaliação:** **Sempre que o Druida Lobo sofrer dano de um ataque inimigo**, ele libera uma **aura de constelação vermelha**, causando **1d8** de dano mágico de força (média: 4-5 de dano) a **todos** os inimigos a um raio de 3m (10ft) dele. Este dano é fixo e não permite teste de resistência.\n\n---\n\n### **Morte e Transição (Druida Humano)**\n\n- **Gatilho:** Quando o Druida Lobo atinge 0 Pontos de Vida em sua forma lupina.\n- **Efeito:** Ele **não morre imediatamente**. Em vez disso, sua forma lupina se dissipa em uma explosão de energia estelar, e ele retorna à sua **forma humana**, gravemente ferido e cambaleante, com **20 PV** restantes.\n- **Ação Final: Espada da Constelação (Uma única utilização)**\n    - **Ataque:** Na sua próxima (e última) ação em forma humana, ele tenta um **único ataque desesperado** com uma espada etérea feita de luz estelar.\n    - **Alvo:** Um único inimigo.\n    - **Ataque:** **+6** para acertar"
+  },
+  {
+    "n": 3,
+    "tipo": "ficha",
+    "pergunta": "Me mostra a ficha do Rei do Sono.",
+    "resposta_esperada": "Essencial: Sabedoria CD 15. A resposta boa também traz o restante da ficha (ver 'detalhes').",
+    "notas": [
+      "Missões do mundo/O Reino das Cabras.md"
+    ],
+    "trechos": [
+      "**O REI DO SONO (SOBERANO DO TRIDENTE)** \n\n• **Tipo**: Monstruosidade (Titã), Leal e Neutro.\n• **Defesa**: CA 16 (Pele de Musgo) | **Vida**: 450 PV.\n• **Ação - Tridente de Prata**: +10 para acertar. Dano: **3d10+6** perfurante.\n• **Ação - Chá do Esquecimento**: Cone de 6m. **Sabedoria CD 15** ou fica Atordoado por 1 rodada em memórias felizes.\n• **Ação Lendária - Desejo de Morte**: Ao chegar a 0 PV, ele oferece um golpe livre. Se recusado, ele usa o próprio tridente contra si mesmo."
+    ],
+    "travada": false,
+    "id": "V2C3",
+    "grupo": "V2C3",
+    "origem": "v3-ficha",
+    "essencial": "Sabedoria CD 15.",
+    "detalhes": "**O REI DO SONO (SOBERANO DO TRIDENTE)** \n\n• **Tipo**: Monstruosidade (Titã), Leal e Neutro.\n• **Defesa**: CA 16 (Pele de Musgo) | **Vida**: 450 PV.\n• **Ação - Tridente de Prata**: +10 para acertar. Dano: **3d10+6** perfurante.\n• **Ação - Chá do Esquecimento**: Cone de 6m. **Sabedoria CD 15** ou fica Atordoado por 1 rodada em memórias felizes.\n• **Ação Lendária - Desejo de Morte**: Ao chegar a 0 PV, ele oferece um golpe livre. Se recusado, ele usa o próprio tridente contra si mesmo."
+  },
+  {
+    "n": 3,
+    "tipo": "ficha",
+    "pergunta": "Como funciona o Serviço de Encaixe Rúnico do Mercante Ferreiro?",
+    "resposta_esperada": "Essencial: Ele gasta 1d6 horas modificando a arma. A resposta boa também traz o restante da ficha (ver 'detalhes').",
+    "notas": [
+      "mercado do continente novo/mercantes viajantes/Mercante Ferreiro.md"
+    ],
+    "trechos": [
+      "- **Serviço de Encaixe Rúnico (28 PS):** (Serviço). O Ferreiro gasta 1d6 horas modificando uma arma, criando um sulco ou encaixe nela. A arma agora está **\"Pronta para Runa\"**. (Não concede bônus até ser imbuída por magia)."
+    ],
+    "travada": false,
+    "id": "V2D3",
+    "grupo": "V2D3",
+    "origem": "v3-ficha",
+    "essencial": "Ele gasta 1d6 horas modificando a arma.",
+    "detalhes": "- **Serviço de Encaixe Rúnico (28 PS):** (Serviço). O Ferreiro gasta 1d6 horas modificando uma arma, criando um sulco ou encaixe nela. A arma agora está **\"Pronta para Runa\"**. (Não concede bônus até ser imbuída por magia)."
+  },
+  {
+    "n": 4,
+    "tipo": "ficha",
+    "pergunta": "Me fala do Cajado de Pirotecnia Menor do Mercante Mago.",
+    "resposta_esperada": "Essencial: Recupera 1d4-1 cargas ao amanhecer. A resposta boa também traz o restante da ficha (ver 'detalhes').",
+    "notas": [
+      "mercado do continente novo/mercantes viajantes/Mercante Mago.md"
+    ],
+    "trechos": [
+      "- **(2) Cajado de Pirotecnia Menor (270 PS):** (Requer Sintonização). 3 cargas. Gasta 1 carga (Ação) para lançar *Mãos Flamejantes* (CD 13). Recupera 1d4-1 cargas ao amanhecer."
+    ],
+    "travada": false,
+    "id": "V2D4",
+    "grupo": "V2D4",
+    "origem": "v3-ficha",
+    "essencial": "Recupera 1d4-1 cargas ao amanhecer.",
+    "detalhes": "- **(2) Cajado de Pirotecnia Menor (270 PS):** (Requer Sintonização). 3 cargas. Gasta 1 carga (Ação) para lançar *Mãos Flamejantes* (CD 13). Recupera 1d4-1 cargas ao amanhecer."
+  },
+  {
+    "n": 5,
+    "tipo": "ficha",
+    "pergunta": "O que acontece no encontro Fantasmas da Estrada?",
+    "resposta_esperada": "Essencial: 1d4 Sombras ou Espectros. A resposta boa também traz o restante da ficha (ver 'detalhes').",
+    "notas": [
+      "encontros aleatorios/Região de Theragon e Porto Altheris.md"
+    ],
+    "trechos": [
+      "| 3 | **Fantasmas da Estrada** | **1d4 Sombras (Shadows)** ou **Espectros (Specters)** de viajantes que morreram nesta estrada surgem, tentando drenar a vida dos vivos. |"
+    ],
+    "travada": false,
+    "id": "V2B5",
+    "grupo": "V2B5",
+    "origem": "v3-ficha",
+    "essencial": "1d4 Sombras ou Espectros.",
+    "detalhes": "| 3 | **Fantasmas da Estrada** | **1d4 Sombras (Shadows)** ou **Espectros (Specters)** de viajantes que morreram nesta estrada surgem, tentando drenar a vida dos vivos. |"
+  }
+]

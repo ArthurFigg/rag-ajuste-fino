@@ -1,0 +1,144 @@
+[
+  {
+    "tipo": "aberto",
+    "entidade": "Rei Theo",
+    "pergunta": "Tenho algum ponto em aberto (⚠️) ligado a Rei Theo? Em quais notas?",
+    "gabarito": {
+      "📇 Índice de NPCs.md": [
+        "- **Resumo:** Aliado opcional. Lutará com o grupo se for libertado. ⚠️ *Atenção: nome igual ao do Rei Theo na ficha de Baldur — possível confusão futura.*"
+      ],
+      "npcs importantes lore/Angelina Trasseiro.md": [
+        "- ⚠️ **O Rei Theo se chama \"IV\".** Se a família é imortal, o que aconteceu com os três reis anteriores?"
+      ],
+      "npcs importantes lore/O Grande Herói.md": [
+        "- ⚠️ **Ele colocou o [[Rei Theo]] no poder mesmo?** Quem afirma isso é o [[Lorde Baldur]] — e Baldur mente por profissão."
+      ]
+    },
+    "id": "R1"
+  },
+  {
+    "tipo": "ligado",
+    "entidade": "Tibio",
+    "pergunta": "Quais notas falam de Tibio, além da nota dele(a)?",
+    "gabarito": [
+      "Missões do mundo.md",
+      "cidades e reinos/Bastilhão Imemorial.md",
+      "cidades e reinos/Porto Altheris.md",
+      "encontros aleatorios.md",
+      "encontros aleatorios/As Terras de Vapor.md"
+    ],
+    "id": "R2"
+  },
+  {
+    "tipo": "aberto",
+    "entidade": "A Ordem",
+    "pergunta": "Tenho algum ponto em aberto (⚠️) ligado a A Ordem? Em quais notas?",
+    "gabarito": {
+      "📇 Índice de NPCs.md": [
+        "- ⚠️ **A herege:** a Ordem prega extermínio total. A Mira acha que só a maior parte é problema e poupa quem ela escolhe. Se o Conselho descobrir, ela vira alvo da própria organização."
+      ],
+      "npcs importantes lore/Sacerdotisa Mira.md": [
+        "- ⚠️ **O que a Ordem espera que ela faça em Altheris quando a hora chegar?** Ela está plantada no alvo número um deles.",
+        "- ⚠️ **A [[Angelina Trasseiro|Angelina]] desconfia de alguma coisa?** As duas dividem a mesma igreja, e Angelina quer destruir a Ordem."
+      ]
+    },
+    "id": "R3"
+  },
+  {
+    "tipo": "aberto",
+    "entidade": "A Igreja",
+    "pergunta": "Tenho algum ponto em aberto (⚠️) ligado a A Igreja? Em quais notas?",
+    "gabarito": {
+      "grupos da continente antigo/Religião do Reino.md": [
+        "- ⚠️ **Como a Igreja vê os outros deuses?** Aceita, ignora ou combate?"
+      ],
+      "npcs importantes lore/Sacerdotisa Mira.md": [
+        "- ⚠️ **A [[Angelina Trasseiro|Angelina]] desconfia de alguma coisa?** As duas dividem a mesma igreja, e Angelina quer destruir a Ordem."
+      ]
+    },
+    "id": "R4"
+  },
+  {
+    "tipo": "aberto",
+    "entidade": "Os 5",
+    "pergunta": "Tenho algum ponto em aberto (⚠️) ligado a Os 5? Em quais notas?",
+    "gabarito": {
+      "📇 Índice de NPCs.md": [
+        "- ⚠️ **Os 5** ainda não foram nomeados/detalhados."
+      ],
+      "npcs importantes lore/O Grande Herói.md": [
+        "- ⚠️ **[[Os 5]] nunca foram nomeados nem detalhados.**"
+      ]
+    },
+    "id": "R5"
+  },
+  {
+    "tipo": "aberto",
+    "entidade": "Bastilhão",
+    "pergunta": "Tenho algum ponto em aberto (⚠️) ligado a Bastilhão? Em quais notas?",
+    "gabarito": {
+      "cidades e reinos/Bastilhão Imemorial.md": [
+        "- ⚠️ **\"Acesso ao Bastilhão\" com 200 de reputação — acesso a quê?** O [[Theragon]] diz que o acesso é impossível. O prêmio contradiz isso e não explica o que o herói ganha o direito de fazer."
+      ],
+      "npcs importantes lore/Tibio.md": [
+        "- ⚠️ **O que a armadura era antes de acumular poder?** E por que está no Nível 5 do Bastilhão? 🔒"
+      ]
+    },
+    "id": "R6"
+  },
+  {
+    "tipo": "aberto",
+    "entidade": "Zoldrack",
+    "pergunta": "Tenho algum ponto em aberto (⚠️) ligado a Zoldrack? Em quais notas?",
+    "gabarito": {
+      "grupos da continente antigo/Liga do Caos.md": [
+        "- ⚠️ **A Liga existe, ou é nome que o Zoldrack usa pra parecer maior do que é?** A ficha dele admite que ele manipula a percepção pública da própria existência."
+      ],
+      "npcs importantes lore/O Grande Herói.md": [
+        "- ⚠️ **Que acordo ele tem com [[Zoldrack]]?** Ele o chama de \"velho amigo\" e o Caos Imortal obedece na hora. Um dos dois maiores vilões do mundo tem um pacto com o maior herói do mundo, e o conteúdo do pacto não está escrito em lugar nenhum. É o gancho mais forte que ele tem."
+      ],
+      "npcs importantes lore/Zoldrack.md": [
+        "> ⚠️ Se os jogadores algum dia provarem que Zoldrack existe, o inimigo que vão fazer não é o Zoldrack."
+      ]
+    },
+    "id": "R7"
+  },
+  {
+    "tipo": "ligado",
+    "entidade": "Capitã Undyne",
+    "pergunta": "Quais notas falam de Capitã Undyne, além da nota dele(a)?",
+    "gabarito": [
+      "Missões do mundo/As Vozes que se Calam.md",
+      "Missões do mundo/O Reino das Cabras.md",
+      "cidades e reinos/Porto Altheris.md",
+      "encontros aleatorios/Região de Theragon e Porto Altheris.md",
+      "npcs importantes lore/Sacerdotisa Mira.md"
+    ],
+    "id": "R8"
+  },
+  {
+    "tipo": "ligado",
+    "entidade": "Sacerdotisa Mira",
+    "pergunta": "Quais notas falam de Sacerdotisa Mira, além da nota dele(a)?",
+    "gabarito": [
+      "cidades e reinos/Porto Altheris.md",
+      "grupos da continente antigo/A Ordem.md",
+      "npcs importantes lore/Angelina Trasseiro.md",
+      "npcs importantes lore/Capitã Undyne.md"
+    ],
+    "id": "R9"
+  },
+  {
+    "tipo": "ligado",
+    "entidade": "Zoldrack",
+    "pergunta": "Quais notas falam de Zoldrack, além da nota dele(a)?",
+    "gabarito": [
+      "Missões do mundo/O Reino de Barkus.md",
+      "Sessão 1.md",
+      "grupos da continente antigo/Liga do Caos.md",
+      "npcs importantes lore.md",
+      "npcs importantes lore/O Grande Herói.md"
+    ],
+    "id": "R10"
+  }
+]

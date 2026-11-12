@@ -1,0 +1,7 @@
+# o conselheiro do rei : Baldur trasseiro
+
+### **Baldur Trasseiro Ochida**
+
+- **Título:** Lorde Conselheiro do Rei.
+- **Aparência:** Baldur se apresenta como o arquétipo do servo público sábio e leal. É um homem mais velho, sempre impecavelmente vestido com trajes sóbrios, mas de alta qualidade. Seus cabelos são grisalhos e bem penteados, e seus olhos são afiados e inteligentes, transmitindo uma calma tranquilizadora. Sua aparência é sua maior arma, pois não há nada em seu exterior que sugira o monstro que ele é por dentro.
+- **Personalidade (Sádica):** O sadismo de Baldur não é físico, mas sim psicológico e grandioso. Ele é um mestre da manipulação que sente um prazer profundo e refinado em orquestrar a ruína. Ele se deleita em apresentar ao [[Rei Theo]] dilemas impossíveis, assistindo com um gozo secreto enquanto o bom homem agoniza antes de escolher o "menor dos dois males" — um caminho que o próprio Baldur pavimentou. Seu maior prazer é ver a esperança morrer lentamente nos olhos do rei e sentir as bases do reino tremerem sob o peso de seu "sábio" conselho. Ele ama a guerra não por uma causa, mas pela beleza que ele vê no caos, na destruição e no desespero. Para ele, o continente é uma tela, e a guerra é sua obra-prima.
